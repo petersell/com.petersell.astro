@@ -1,0 +1,131 @@
+:root {
+  --color-bg: #fdfdfc;
+  --color-fg: #1a1c1a;
+  --color-muted: #62685f;
+  --color-border: #dcdfd9;
+  --color-surface: #f3f4f1;
+  --color-accent: #198754;
+  --color-accent-fg: #ffffff;
+  --font-mono: ui-monospace, "SF Mono", "Cascadia Code", "JetBrains Mono", Consolas,
+    "Liberation Mono", Menlo, monospace;
+  --content-width: 68ch;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-bg: #14171a;
+    --color-fg: #e7e9e5;
+    --color-muted: #9aa197;
+    --color-border: #2c302c;
+    --color-surface: #1c1f1d;
+    --color-accent: #2fa96b;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  color-scheme: light dark;
+}
+
+body {
+  margin: 0;
+  background: var(--color-bg);
+  color: var(--color-fg);
+  font-family: var(--font-mono);
+  line-height: 1.6;
+}
+
+a {
+  color: var(--color-accent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+}
+
+a:hover {
+  text-decoration-thickness: 2px;
+}
+
+nav {
+  border-bottom: 1px solid var(--color-border);
+  background: var(--color-surface);
+}
+
+nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 1.25rem;
+  list-style: none;
+  margin: 0;
+  padding: 0.85rem max(1rem, calc((100% - var(--content-width)) / 2));
+}
+
+nav a {
+  color: var(--color-fg);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+nav a:hover {
+  color: var(--color-accent);
+}
+
+main {
+  max-width: var(--content-width);
+  margin: 0 auto;
+  padding: 2rem 1rem 4rem;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.25;
+}
+
+h1 {
+  color: var(--color-accent);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.meta {
+  color: var(--color-muted);
+  font-size: 0.9rem;
+}
+
+pre,
+code {
+  font-family: var(--font-mono);
+}
+
+pre {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+  padding: 1rem;
+  overflow-x: auto;
+}
+
+blockquote {
+  margin: 1.5rem 0;
+  padding: 0.5rem 1rem;
+  border-left: 3px solid var(--color-accent);
+  color: var(--color-muted);
+}
+
+article iframe {
+  max-width: 100%;
+  border-radius: 4px;
+}
+
+article iframe[src*="vimeo"] {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  height: auto;
+}

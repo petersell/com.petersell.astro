@@ -1,4 +1,6 @@
 ---
+import "../styles/global.css";
+
 interface Props {
   title: string;
 }
@@ -32,6 +34,8 @@ const navItems = [
         ))}
       </ul>
     </nav>
-    <slot />
+    <main>
+      <slot />
+    </main>
   </body>
 </html>

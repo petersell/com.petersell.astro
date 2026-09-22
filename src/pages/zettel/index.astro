@@ -12,13 +12,43 @@ const formatDate = (d: Date) =>
 
 <Base title="Zettelkasten">
   <h1>Zettelkasten</h1>
-  <ul>
+  <ul class="entries">
     {zettelEntries.map((zettel) => (
       <li>
         <a href={`/zettel/${zettel.id}/`}>{zettel.data.title}</a>
-        {" "}– Zettel {zettel.data.zettelnummer}
-        <p>{formatDate(zettel.data.date)}</p>
+        <p class="meta">Zettel {zettel.data.zettelnummer} · {formatDate(zettel.data.date)}</p>
       </li>
     ))}
   </ul>
 </Base>
+
+<style>
+  .entries {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .entries li {
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .entries li:first-child {
+    border-top: 1px solid var(--color-border);
+  }
+
+  .entries a {
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .entries a:hover {
+    text-decoration: underline;
+  }
+
+  .entries p {
+    margin: 0.15rem 0 0;
+  }
+</style>
+

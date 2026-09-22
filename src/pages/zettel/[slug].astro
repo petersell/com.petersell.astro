@@ -31,16 +31,20 @@ const formatDate = (d: Date) =>
 
 <Base title={`${data.title} – Zettel`}>
   <article>
+    {data.image && (
+      <img class="cover" src={data.image} alt={`Buchcover von ${data.title}`} width="140" />
+    )}
     <h1>{data.title}</h1>
-    {data.image && <img src={data.image} alt={`Buchcover von ${data.title}`} width="200" />}
-    <p>{formatDate(data.date)} · Zettel {data.zettelnummer}</p>
-    {data.categories.length > 0 && <p>Kategorien: {data.categories.join(", ")}</p>}
-    {data.tags.length > 0 && <p>Tags: {data.tags.join(", ")}</p>}
+    <p class="meta">
+      {formatDate(data.date)} · Zettel {data.zettelnummer}
+      {data.categories.length > 0 && <> · {data.categories.join(", ")}</>}
+      {data.tags.length > 0 && <> · {data.tags.join(", ")}</>}
+    </p>
 
     <Content />
 
     {quellen.length > 0 && (
-      <p>
+      <p class="quelle">
         Quelle:{" "}
         {quellen.map((q, i) => (
           <>
@@ -53,7 +57,7 @@ const formatDate = (d: Date) =>
     )}
 
     {backlinks.length > 0 && (
-      <section>
+      <section class="backlinks">
         <h2>Elternzettel + Backlinks</h2>
         <ul>
           {backlinks.map((b) => (
@@ -66,3 +70,33 @@ const formatDate = (d: Date) =>
     )}
   </article>
 </Base>
+
+<style>
+  .cover {
+    float: right;
+    margin: 0 0 1rem 1.5rem;
+  }
+
+  .quelle,
+  .backlinks {
+    margin-top: 2rem;
+    padding: 0.85rem 1rem;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+  }
+
+  .backlinks h2 {
+    margin-top: 0;
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: var(--color-muted);
+  }
+
+  .backlinks ul {
+    margin: 0;
+    padding-left: 1.25rem;
+  }
+</style>
+

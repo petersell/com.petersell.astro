@@ -29,16 +29,18 @@ const formatDate = (d: Date) =>
 <Base title={`${data.title} – Status`}>
   <article>
     <h1>{data.title}</h1>
-    <p>{formatDate(data.date)}</p>
-    {data.description && <p>{data.description}</p>}
+    <p class="meta">
+      {formatDate(data.date)}
+      {data.categories.length > 0 && <> · {data.categories.join(", ")}</>}
+      {data.tags.length > 0 && <> · {data.tags.join(", ")}</>}
+    </p>
+    {data.description && <p class="description">{data.description}</p>}
     {data.image && <img src={data.image} alt={data.title} />}
-    {data.categories.length > 0 && <p>Kategorien: {data.categories.join(", ")}</p>}
-    {data.tags.length > 0 && <p>Tags: {data.tags.join(", ")}</p>}
 
     <Content />
 
     {quellen.length > 0 && (
-      <p>
+      <p class="quelle">
         Quelle:{" "}
         {quellen.map((q, i) => (
           <>
@@ -50,3 +52,19 @@ const formatDate = (d: Date) =>
     )}
   </article>
 </Base>
+
+<style>
+  .description {
+    color: var(--color-muted);
+    font-style: italic;
+  }
+
+  .quelle {
+    margin-top: 2rem;
+    padding: 0.85rem 1rem;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+  }
+</style>
+
