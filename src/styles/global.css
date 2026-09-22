@@ -4,7 +4,7 @@
   --color-muted: #62685f;
   --color-border: #dcdfd9;
   --color-surface: #f3f4f1;
-  --color-accent: #198754;
+  --color-accent: #038f16;
   --color-accent-fg: #ffffff;
   --font-mono: ui-monospace, "SF Mono", "Cascadia Code", "JetBrains Mono", Consolas,
     "Liberation Mono", Menlo, monospace;
@@ -18,7 +18,7 @@
     --color-muted: #9aa197;
     --color-border: #2c302c;
     --color-surface: #1c1f1d;
-    --color-accent: #2fa96b;
+    --color-accent: #2fd150;
   }
 }
 
