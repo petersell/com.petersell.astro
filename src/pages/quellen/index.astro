@@ -1,0 +1,24 @@
+---
+import { getCollection } from "astro:content";
+import Base from "../../layouts/Base.astro";
+
+const quellenEntries = (await getCollection("quellen", ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
+);
+
+const formatDate = (d: Date) =>
+  d.toLocaleDateString("de-DE", { year: "numeric", month: "long", day: "numeric" });
+---
+
+<Base title="Quellen">
+  <h1>Quellen</h1>
+  <ul>
+    {quellenEntries.map((quelle) => (
+      <li>
+        {quelle.data.image && <img src={quelle.data.image} alt={quelle.data.title} width="100" />}
+        <a href={`/quellen/${quelle.id}/`}>{quelle.data.title}</a>
+        <p>{formatDate(quelle.data.date)}</p>
+      </li>
+    ))}
+  </ul>
+</Base>
