@@ -1,0 +1,33 @@
+---
+title: Organisationsmerkmal Mitgliedschaft
+image: "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-531-17978-0"
+date: 2020-12-03
+lastMod: null
+draft: false
+categories:
+    - zettel
+tags:
+    - organisation
+    - mitgliedschaft
+signaturen:
+    - kuehl-2011
+seite: 18
+zettelnummer: 4.1c
+fmContentType: zettelkasten
+---
+
+Organisationen können über den Eintritt und Austritt von Personen entscheiden: Sie bestimmen über Mitgliedschaft.
+<!--more-->
+Sie entscheiden, wer nicht mehr Mitglied sein darf, weil er die Regeln der Organisation nicht mehr befolgt. Sie schaffen damit eine permanente Drohung des Ausschließens, wenn die Regeln nicht befolgt werden.
+***
+
+**Folgezettel**
+
+- [Aufwerfen der Mitgliedschaftsfrage](/zettelkasten/aufwerfen-der-mitgliedschaftsfrage/)
+- [Mitgliedsschaftsautonomie](/zettelkasten/mitgliedsschaftsautonomie/)
+
+<!-- FM:Snippet:Start data:{"id":"Zettel - Linkliste","fields":[]} -->
+**Links**
+
+- [Mit Geld an Organisation binden](/zettelkasten/mit-geld-an-organisation-binden/)
+<!-- FM:Snippet:End -->

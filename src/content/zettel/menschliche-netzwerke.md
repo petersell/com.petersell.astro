@@ -1,0 +1,25 @@
+---
+title: Menschliche Netzwerke
+image: https://portal.dnb.de/opac/mvb/cover?isbn=978-3-641-32478-0
+date: 2025-05-04T16:41:12.359Z
+lastMod: null
+draft: false
+categories:
+    - zettel
+tags:
+    - erzaehlungen
+    - netzwerk
+signaturen:
+    - harari-2024
+seite: 77
+zettelnummer: 3.5b1
+fmContentType: zettelkasten
+---
+
+Menschliche Netzwerke werden von erfundenen Erzählungen zusammengehalten, vor allem von Erzählungen über intersubjektive Dinge wie Götter, Geld und Nationen.
+<!--more-->
+***
+
+**Folgezettel**
+- [Marxismus und die Macht der Erzählung](/zettelkasten/marxismus-und-die-macht-der-erzaehlung/)
+- [Wahrheit finden und für Ordnung sorgen](/zettelkasten/wahrheit-und-ordnung/)

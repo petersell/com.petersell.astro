@@ -1,0 +1,28 @@
+---
+title: Organisationen müssen Erwartbarkeiten herstellen
+image: "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-7705-6087-5"
+date: 2024-04-07
+lastMod: null
+draft: false
+categories:
+    - zettel
+tags:
+    - organisation
+    - erwartbarkeiten
+signaturen:
+    - mueller-2016
+seite: 15
+zettelnummer: 4.3
+fmContentType: zettelkasten
+---
+
+Organisationen müssen nach innen Erwartbarkeiten herstellen. Der Sinn einer Organisation ist, dass man weiß, was passiert.
+<!--more-->
+***
+
+**Folgezettel** - [Erwartungen formalisieren](/zettelkasten/erwartungen-formalisieren/)
+
+**Links**
+
+- [Organisationsmerkmal Hierarchie](/zettelkasten/organisationsmerkmal-hierarchie/)
+- [Aufwerfen der Mitgliedschaftsfrage](/zettelkasten/aufwerfen-der-mitgliedschaftsfrage/)
