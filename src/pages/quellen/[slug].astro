@@ -1,0 +1,93 @@
+---
+import { getCollection, render } from "astro:content";
+import Base from "../../layouts/Base.astro";
+import type { CollectionEntry } from "astro:content";
+
+export async function getStaticPaths() {
+  const quellenEntries = await getCollection("quellen", ({ data }) => !data.draft);
+  const zettelEntries = await getCollection("zettel", ({ data }) => !data.draft);
+  const statusEntries = await getCollection("status", ({ data }) => !data.draft);
+
+  return quellenEntries.map((quelle) => {
+    const zitiertVonZettel = zettelEntries
+      .filter((z) => z.data.signaturen.some((s) => s.id === quelle.id))
+      .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+    const zitiertVonStatus = statusEntries
+      .filter((s) => s.data.signaturen.some((sig) => sig.id === quelle.id))
+      .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+    return {
+      params: { slug: quelle.id },
+      props: { quelle, zitiertVonZettel, zitiertVonStatus },
+    };
+  });
+}
+
+interface Props {
+  quelle: CollectionEntry<"quellen">;
+  zitiertVonZettel: CollectionEntry<"zettel">[];
+  zitiertVonStatus: CollectionEntry<"status">[];
+}
+
+const { quelle, zitiertVonZettel, zitiertVonStatus } = Astro.props;
+const { data } = quelle;
+const { Content } = await render(quelle);
+
+const formatDate = (d: Date) =>
+  d.toLocaleDateString("de-DE", { year: "numeric", month: "long", day: "numeric" });
+
+const zitiertVonGesamt = zitiertVonZettel.length + zitiertVonStatus.length;
+---
+
+<Base title={`${data.title} – Quellen`}>
+  <article>
+    <h1>{data.title}</h1>
+    {data.image && <img src={data.image} alt={`Buchcover von ${data.title}`} width="200" />}
+    <p>
+      Veröffentlicht: {formatDate(data.date)}
+      {data.dnb && (
+        <>
+          {" "}· <a href={`https://${data.dnb}`}>DNB-Eintrag</a>
+        </>
+      )}
+    </p>
+    {data.categories.length > 0 && (
+      <p>Kategorien: {data.categories.join(", ")}</p>
+    )}
+    {data.tags.length > 0 && <p>Tags: {data.tags.join(", ")}</p>}
+
+    <Content />
+  </article>
+
+  <section>
+    <h2>Zitiert von ({zitiertVonGesamt})</h2>
+    {zitiertVonGesamt === 0 && <p>Noch keine Zettel oder Status-Posts verweisen auf diese Quelle.</p>}
+
+    {zitiertVonZettel.length > 0 && (
+      <>
+        <h3>Zettel</h3>
+        <ul>
+          {zitiertVonZettel.map((z) => (
+            <li>
+              <a href={`/zettel/${z.id}/`}>{z.data.title}</a>
+              {z.data.seite && <> (S. {z.data.seite})</>}
+            </li>
+          ))}
+        </ul>
+      </>
+    )}
+
+    {zitiertVonStatus.length > 0 && (
+      <>
+        <h3>Status-Posts</h3>
+        <ul>
+          {zitiertVonStatus.map((s) => (
+            <li>
+              <a href={`/status/${s.id}/`}>{s.data.title}</a>
+            </li>
+          ))}
+        </ul>
+      </>
+    )}
+  </section>
+</Base>
