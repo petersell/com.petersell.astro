@@ -22,6 +22,6 @@ Eine neue Erfindung der Informationstechnologie ist das heilige Buch. Heilige Sc
 ***
 
 **Folgezettel** 
-- [Von der Technologie zur Institution](/zettelkasten/von-technologie-zur-institution/)
-- [Selbstzweifel](/zettelkasten/selbstzweifel/)
-- [Unfehlbarkeitsfalle](/zettelkasten/unfehlbarkeitsfalle/)
+- [Von der Technologie zur Institution](/zettel/von-technologie-zur-institution/)
+- [Selbstzweifel](/zettel/selbstzweifel/)
+- [Unfehlbarkeitsfalle](/zettel/unfehlbarkeitsfalle/)

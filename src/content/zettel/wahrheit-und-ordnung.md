@@ -25,4 +25,4 @@ In der Vergangenheit haben Informationsnetzwerke daher zwei Arten von Fähigkeit
 ***
 
 **Folgezettel**
-- [Gleichgewicht aus Wahrheit und Ordnung](/zettelkasten/gleichgewicht-wahrheit-und-ordnung/)
+- [Gleichgewicht aus Wahrheit und Ordnung](/zettel/gleichgewicht-wahrheit-und-ordnung/)

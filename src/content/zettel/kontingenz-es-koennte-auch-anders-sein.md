@@ -20,7 +20,7 @@ Mit der funktionalen Analyse gelingt es Luhmann, Vorhandenes kontingent zu setze
 <!--more-->
 ***
 
-**Folgezettel** - [Gutes Verhältnis zum Schicksal](/zettelkasten/gutes-verhaeltnis-zum-schicksal/)
+**Folgezettel** - [Gutes Verhältnis zum Schicksal](/zettel/gutes-verhaeltnis-zum-schicksal/)
 
 **Links**
 

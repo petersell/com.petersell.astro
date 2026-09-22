@@ -20,4 +20,4 @@ fmContentType: zettelkasten
 Es muss mindestens drei Ebenen geben, damit die mittlere die Rebellion der unteren verhindern und die Attraktivität der oberen sicherstellen kann.
 <!--more-->
 ***
-**Folgezettel** - [Das Management ist das Unternehmen](/zettelkasten/das-management-ist-das-unternehmen/)
+**Folgezettel** - [Das Management ist das Unternehmen](/zettel/das-management-ist-das-unternehmen/)

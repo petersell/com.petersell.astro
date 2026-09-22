@@ -24,4 +24,4 @@ Entscheidungsträger und Autoritätspersonen in Wirtschaft, Wissenschaft und Reg
 Weil besonders kreative Menschen meist auch verspielter, unkonventioneller und weniger berechenbar sind, und damit auch schwerer zu kontrollieren. Man kann noch so sehr betonen, wie sehr man Kreativität schätzt, aber tief drinnen haben die meisten von uns lieber die Kontrolle.
 ***
 
-**Folgezettel** - [Jeder Mensch ist progressiv und konservativ zugleich](/zettelkasten/jeder-mensch-ist-progressiv-und-konservativ-zugleich/)
+**Folgezettel** - [Jeder Mensch ist progressiv und konservativ zugleich](/zettel/jeder-mensch-ist-progressiv-und-konservativ-zugleich/)

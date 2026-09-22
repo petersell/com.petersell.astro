@@ -23,4 +23,4 @@ Und ihre Beziehung beruht auf einer Asymmetrie hinsichtlich der Wahlmöglichkeit
 ***
 
 **Folgezettel**
-- [Renormierungsgruppe](/zettelkasten/renormierungsgruppe/)
+- [Renormierungsgruppe](/zettel/renormierungsgruppe/)

@@ -25,5 +25,5 @@ fmContentType: zettelkasten
 <!--more-->
 **Folgezettel**
 
-- [Mindestens drei Ebenen](/zettelkasten/mindestens-drei-ebenen/)
-- [Dezentrales Kastensystem](/zettelkasten/dezentrales-kastensystem/)
+- [Mindestens drei Ebenen](/zettel/mindestens-drei-ebenen/)
+- [Dezentrales Kastensystem](/zettel/dezentrales-kastensystem/)

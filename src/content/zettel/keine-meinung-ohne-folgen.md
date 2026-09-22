@@ -19,4 +19,4 @@ fmContentType: zettelkasten
 ***
 
 **Folgezettel**
-- [Verlustaversion](/zettelkasten/verlustaversion/)
+- [Verlustaversion](/zettel/verlustaversion/)

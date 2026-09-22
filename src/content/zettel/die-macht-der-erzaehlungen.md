@@ -22,8 +22,8 @@ Aus isolierten Gruppen wurden große Stämme. Erzählungen über Schutzgeister u
 ***
 
 **Folgezettel**
-- [Menschliche Netzwerke](/zettelkasten/menschliche-netzwerke/)
+- [Menschliche Netzwerke](/zettel/menschliche-netzwerke/)
 
 
 **Links**
-- [Intersubjektive Dinge](/zettelkasten/intersubjektive-dinge/)
+- [Intersubjektive Dinge](/zettel/intersubjektive-dinge/)

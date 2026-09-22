@@ -23,5 +23,5 @@ Um ihre religiöse Autorität zu wahren, hat die Katholische Kirche keine andere
 ***
 
 **Folgezettel**
-- [Selbstkorrekturmechanismus](/zettelkasten/selbstkorrekturmechanismus/)
-- [Der Bolschewismus ist unfehlbar](/zettelkasten/bolschewismus-ist-unfehlbar/)
+- [Selbstkorrekturmechanismus](/zettel/selbstkorrekturmechanismus/)
+- [Der Bolschewismus ist unfehlbar](/zettel/bolschewismus-ist-unfehlbar/)

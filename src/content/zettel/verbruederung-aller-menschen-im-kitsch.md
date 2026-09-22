@@ -24,5 +24,5 @@ Erst diese zweite Träne macht den Kitsch zu Kitsch. Die Verbrüderung aller Men
 
 **Folgezettel**
 
-- [Der politische Kitsch](/zettelkasten/der-politische-kitsch/)
-- [Im Reich des totalitären Kisches](/zettelkasten/im-reich-des-totalitaeren-kitsches/)
+- [Der politische Kitsch](/zettel/der-politische-kitsch/)
+- [Im Reich des totalitären Kisches](/zettel/im-reich-des-totalitaeren-kitsches/)

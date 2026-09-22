@@ -21,5 +21,5 @@ Nur weil Organisationen in der Lage sind, die Mitgliedschaft ihrer Beschäftigte
 ***
 
 **Folgezettel**
-- [Die anstellbare Person](/zettelkasten/anstellbare-person/)
-- [Verlustaversion](/zettelkasten/verlustaversion/)
+- [Die anstellbare Person](/zettel/anstellbare-person/)
+- [Verlustaversion](/zettel/verlustaversion/)

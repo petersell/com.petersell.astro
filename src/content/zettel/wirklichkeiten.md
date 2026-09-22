@@ -24,5 +24,5 @@ Die Erzählung fügt eine dritte hinzu: die intersubjektive Wirklichkeit. Dinge 
 ***
 
 **Folgezettel**
-- [Intersubjektive Dinge](/zettelkasten/intersubjektive-dinge/)
+- [Intersubjektive Dinge](/zettel/intersubjektive-dinge/)
 

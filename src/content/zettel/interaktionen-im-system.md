@@ -22,4 +22,4 @@ Die Interaktionen spielen eine größere Rolle als die Beschaffenheit der einzel
 ***
 
 **Folgezettel**
-- [Minderheiten-Regel](/zettelkasten/minderheiten-regel/)
+- [Minderheiten-Regel](/zettel/minderheiten-regel/)

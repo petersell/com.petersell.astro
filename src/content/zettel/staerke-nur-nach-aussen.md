@@ -19,4 +19,4 @@ Franz ist stark, aber seine Stärke richtet sich nur nach außen. Den Menschen g
 <!--more-->
 ***
 
-**Folgezettel** - [Befehlen](/zettelkasten/befehlen/)
+**Folgezettel** - [Befehlen](/zettel/befehlen/)

@@ -23,6 +23,6 @@ Information informiert nicht unbedingt über Dinge. Sie formiert sie eher. Propa
 ***
 
 **Folgezettel**
-- [Wirklichkeiten](/zettelkasten/wirklichkeiten/)
-- [Gefahr weil Verbindungen abreissen](/zettelkasten/gefahr-weil-verbindungen-abreissen/)
-- [Informationsnetzwerke und der Irrtum](/zettelkasten/informationsnetzwerke-und-irrtum/)
+- [Wirklichkeiten](/zettel/wirklichkeiten/)
+- [Gefahr weil Verbindungen abreissen](/zettel/gefahr-weil-verbindungen-abreissen/)
+- [Informationsnetzwerke und der Irrtum](/zettel/informationsnetzwerke-und-irrtum/)

@@ -20,5 +20,5 @@ Vielmehr muss soziales Handeln als ein eigendynamisches, undurchsichtiges Gesche
 <!--more-->
 ***
 
-**Folgezettel** - [Nur Kommunikation kann kommunizieren](/zettelkasten/nur-kommunikation-kann-kommunizieren/)
+**Folgezettel** - [Nur Kommunikation kann kommunizieren](/zettel/nur-kommunikation-kann-kommunizieren/)
 

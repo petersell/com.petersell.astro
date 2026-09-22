@@ -22,4 +22,4 @@ Alexander hatte den Wert der aktiven, intoleranten und mutigen Minderheit versta
 ***
 
 **Folgezettel**
-- [Die Gesellschaft entwickelt sich nicht im Konsens](/zettelkasten/gesellschaft-entwickelt-sich-nicht-im-konsens/)
+- [Die Gesellschaft entwickelt sich nicht im Konsens](/zettel/gesellschaft-entwickelt-sich-nicht-im-konsens/)

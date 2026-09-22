@@ -22,4 +22,4 @@ Spricht man von *Handlung*, kommt man nicht umhin, ein Subjekt, ein Individuum z
 
 ***
 
-**Folgezettel** - [Handlungen nie ganz unter Kontrolle](/zettelkasten/handlungen-nie-ganz-unter-kontrolle/)
+**Folgezettel** - [Handlungen nie ganz unter Kontrolle](/zettel/handlungen-nie-ganz-unter-kontrolle/)

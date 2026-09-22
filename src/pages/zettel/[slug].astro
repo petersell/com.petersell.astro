@@ -1,0 +1,52 @@
+---
+import { getCollection, getEntries, render } from "astro:content";
+import Base from "../../layouts/Base.astro";
+import type { CollectionEntry } from "astro:content";
+
+export async function getStaticPaths() {
+  const zettelEntries = await getCollection("zettel", ({ data }) => !data.draft);
+
+  return zettelEntries.map((zettel) => ({
+    params: { slug: zettel.id },
+    props: { zettel },
+  }));
+}
+
+interface Props {
+  zettel: CollectionEntry<"zettel">;
+}
+
+const { zettel } = Astro.props;
+const { data } = zettel;
+const { Content } = await render(zettel);
+
+const quellen = data.signaturen.length > 0 ? await getEntries(data.signaturen) : [];
+
+const formatDate = (d: Date) =>
+  d.toLocaleDateString("de-DE", { year: "numeric", month: "long", day: "numeric" });
+---
+
+<Base title={`${data.title} – Zettel`}>
+  <article>
+    <h1>{data.title}</h1>
+    {data.image && <img src={data.image} alt={`Buchcover von ${data.title}`} width="200" />}
+    <p>{formatDate(data.date)} · Zettel {data.zettelnummer}</p>
+    {data.categories.length > 0 && <p>Kategorien: {data.categories.join(", ")}</p>}
+    {data.tags.length > 0 && <p>Tags: {data.tags.join(", ")}</p>}
+
+    <Content />
+
+    {quellen.length > 0 && (
+      <p>
+        Quelle:{" "}
+        {quellen.map((q, i) => (
+          <>
+            {i > 0 && ", "}
+            <a href={`/quellen/${q.id}/`}>{q.data.title}</a>
+          </>
+        ))}
+        {data.seite && <> – S. {data.seite}</>}
+      </p>
+    )}
+  </article>
+</Base>

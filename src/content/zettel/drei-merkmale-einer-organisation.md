@@ -25,6 +25,6 @@ Niklas Luhmann nutzt drei Merkmale - Mitgliedschaft, Zweck, Hierarchie, um die B
 
 **Folgezettel**
 
-- [Organisationsmerkmal Zweck](/zettelkasten/organisationsmerkmal-zweck/)
-- [Organisationsmerkmal Hierarchie](/zettelkasten/organisationsmerkmal-hierarchie/)
-- [Organisationsmerkmal Mitgliedschaft](/zettelkasten/organisationsmerkmal-mitgliedschaft/)
+- [Organisationsmerkmal Zweck](/zettel/organisationsmerkmal-zweck/)
+- [Organisationsmerkmal Hierarchie](/zettel/organisationsmerkmal-hierarchie/)
+- [Organisationsmerkmal Mitgliedschaft](/zettel/organisationsmerkmal-mitgliedschaft/)

@@ -19,4 +19,4 @@ Irrtümer, Lügen, Fantasien und Fiktionen sind Information. Im Widerspruch zum 
 ***
 
 **Folgezettel**
-- [Information schafft neue Wirklichkeiten](/zettelkasten/information-schafft-neue-wirklichkeiten/)
+- [Information schafft neue Wirklichkeiten](/zettel/information-schafft-neue-wirklichkeiten/)

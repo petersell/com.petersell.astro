@@ -24,4 +24,4 @@ Organisationen müssen sicherstellen, dass sie sich nach außen von ihrer Umwelt
 
 **Links**
 
-- [Organisationsmerkmal Hierarchie](/zettelkasten/organisationsmerkmal-hierarchie/)
+- [Organisationsmerkmal Hierarchie](/zettel/organisationsmerkmal-hierarchie/)

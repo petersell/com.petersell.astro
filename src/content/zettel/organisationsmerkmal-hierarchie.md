@@ -23,5 +23,5 @@ In Organisationen ist die Hierarchie aktzeptiert. Man streitet sich innerhalb ei
 
 ***
 
-**Folgezettel** - [Kreativität nicht kontrollierbar](/zettelkasten/kreativitaet-nicht-kontrollierbar/)
+**Folgezettel** - [Kreativität nicht kontrollierbar](/zettel/kreativitaet-nicht-kontrollierbar/)
 

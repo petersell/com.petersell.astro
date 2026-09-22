@@ -38,4 +38,4 @@ In bürokratischen Gesellschaften wird das Leben gewöhnlicher Menschen von undu
 - keiner
 
 **Links**
-- [Bürokratie trennt von Handlungsfolgen](/zettelkasten/buerokratie-trennt-von-handlungsfolgen/)
+- [Bürokratie trennt von Handlungsfolgen](/zettel/buerokratie-trennt-von-handlungsfolgen/)

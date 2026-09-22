@@ -23,4 +23,4 @@ Und da die Menschen chronisch Bedarf an Geld haben, ... können Mitglieder dauer
 ***
 
 **Folgezettel**
-- [Haut aufs Spiel setzen lassen](/zettelkasten/haut-aufs-spiel-setzen-lassen/)
+- [Haut aufs Spiel setzen lassen](/zettel/haut-aufs-spiel-setzen-lassen/)

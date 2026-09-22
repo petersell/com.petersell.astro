@@ -23,4 +23,4 @@ Franz würde Sabina nie etwas vorschreiben. Er würde ihr nie wie einst Thomas b
 Es gibt jedoch Dinge, die nur durch Gewalt zu erreichen sind. Körperliche Liebe ist undenkbar ohne Gewalt.
 ***
 
-**Folgezettel** - [Erotisches Leben](/zettelkasten/erotisches-leben/)
+**Folgezettel** - [Erotisches Leben](/zettel/erotisches-leben/)

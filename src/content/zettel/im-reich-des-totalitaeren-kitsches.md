@@ -23,6 +23,6 @@ Der einzelne kann seine Originalität wahren, der Künstler unerwartete Werk sch
 
 **Folgezettel**
 
-- [Kitsch schliesst jede Frage aus](/zettelkasten/kitsch-schliesst-jede-frage-aus/)
-- [Kitschbeeinträchtigung](/zettelkasten/kitschbeeintraechtigung/)
-- [Propagandasprache als Zulassungskriterium](/zettelkasten/propagandasprache-als-zulassungskriterium/)
+- [Kitsch schliesst jede Frage aus](/zettel/kitsch-schliesst-jede-frage-aus/)
+- [Kitschbeeinträchtigung](/zettel/kitschbeeintraechtigung/)
+- [Propagandasprache als Zulassungskriterium](/zettel/propagandasprache-als-zulassungskriterium/)

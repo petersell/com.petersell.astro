@@ -23,4 +23,4 @@ Und wenn sie aufhören, einander davon zu erzählen, dann verschwinden diese Din
 ***
 
 **Folgezettel**
-- [Intersubjektive Dinge im Informationsnetzwerk](/zettelkasten/intersubjektive-dinge-im-informationsnetzwerk/)
+- [Intersubjektive Dinge im Informationsnetzwerk](/zettel/intersubjektive-dinge-im-informationsnetzwerk/)

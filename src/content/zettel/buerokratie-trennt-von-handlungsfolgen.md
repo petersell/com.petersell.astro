@@ -21,4 +21,4 @@ Bürokratie ist ein Mechanismus, durch den eine Person von den Folgen ihres Hand
 ***
 
 **Folgezettel**
-- [Biologische Dramen und Bürokratie](/zettelkasten/biologische-dramen-und-buerokratie/)
+- [Biologische Dramen und Bürokratie](/zettel/biologische-dramen-und-buerokratie/)

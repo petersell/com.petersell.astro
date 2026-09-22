@@ -21,5 +21,5 @@ Menschliche Netzwerke werden von erfundenen Erzählungen zusammengehalten, vor a
 ***
 
 **Folgezettel**
-- [Marxismus und die Macht der Erzählung](/zettelkasten/marxismus-und-die-macht-der-erzaehlung/)
-- [Wahrheit finden und für Ordnung sorgen](/zettelkasten/wahrheit-und-ordnung/)
+- [Marxismus und die Macht der Erzählung](/zettel/marxismus-und-die-macht-der-erzaehlung/)
+- [Wahrheit finden und für Ordnung sorgen](/zettel/wahrheit-und-ordnung/)

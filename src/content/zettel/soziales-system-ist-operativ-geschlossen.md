@@ -21,7 +21,7 @@ Also Systeme, die nicht von außen determiniert sind, sondern sich mit eigenen M
 
 ***
 
-**Folgezettel** - [Soziales System besteht aus Kommunikation](/zettelkasten/soziales-system-besteht-aus-kommunikation/)
+**Folgezettel** - [Soziales System besteht aus Kommunikation](/zettel/soziales-system-besteht-aus-kommunikation/)
 
 **Links**
 

@@ -24,4 +24,4 @@ Von dem Moment an, wo jemand unserem Tun zuschaut, passen wir uns wohl oder übe
 Wer seine Intimität verliert, der hat alles verloren, denkt Sabina. Darum leidet Sabina nicht im Geringsten darunter, dass sie ihre Liebe verheimlichen muss. Im Gegenteil, nur so kann sie *in der Wahrheit leben*.
 ***
 
-**Folgezettel** - [In der Wahrheit leben - privat gleich öffentlich](/zettelkasten/in-der-wahrheit-leben-privat-gleich-oeffentlich/)
+**Folgezettel** - [In der Wahrheit leben - privat gleich öffentlich](/zettel/in-der-wahrheit-leben-privat-gleich-oeffentlich/)

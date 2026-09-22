@@ -22,4 +22,4 @@ fmContentType: zettelkasten
 <!--more-->
 ***
 
-**Folgezettel** - [Propagandasprache als Zulassungskriterium](/zettelkasten/propagandasprache-als-zulassungskriterium/)
+**Folgezettel** - [Propagandasprache als Zulassungskriterium](/zettel/propagandasprache-als-zulassungskriterium/)

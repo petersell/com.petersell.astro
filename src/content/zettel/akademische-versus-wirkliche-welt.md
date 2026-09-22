@@ -21,4 +21,4 @@ In der akademischen Welt gibt es keinen Unterschied zwischen der akademischen un
 ***
 
 **Folgezettel**
-- [Ausprobieren](/zettelkasten/ausprobieren/)
+- [Ausprobieren](/zettel/ausprobieren/)

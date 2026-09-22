@@ -23,4 +23,4 @@ Im Handbuch der psychischen Störungen (DSM) wurde die Homosexualität z.B. 1952
 ***
 
 **Folgezettel**
-- [Zentrale Diktatur und dezentrale Demokratie](/zettelkasten/diktatur-und-demokratie/)
+- [Zentrale Diktatur und dezentrale Demokratie](/zettel/diktatur-und-demokratie/)

@@ -22,4 +22,4 @@ Weg 1: setzt eine Ordnung als gegeben voraus und problematisiert deren Defekte. 
 Weg 2: hält das Normale für unwahrscheinlich. Eine Theorie dazu muss das Normale, alltäglich Erfahrbare ins Unwahrscheinliche auflösen und dann begreiflich machen, dass es trotzdem mit Regelmäßigkeit zustande kommt.
 ***
 
-**Folgezettel** - [Universalität der Gegenstandserfassung](/zettelkasten/universalitaet-der-gegenstandserfassung/)
+**Folgezettel** - [Universalität der Gegenstandserfassung](/zettel/universalitaet-der-gegenstandserfassung/)

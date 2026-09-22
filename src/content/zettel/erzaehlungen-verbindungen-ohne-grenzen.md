@@ -26,5 +26,5 @@ So sind z.B. 1,4 Milliarden Gläubige der Katholischen Kirche über die Bibel mi
 ***
 
 **Folgezettel**
-- [Erzählungen erweitern unsere biologische Bande](/zettelkasten/erzaehlungen-erweitern-biologische-bande/)
-- [Die Macht der Erzählungen](/zettelkasten/die-macht-der-erzaehlungen/)
+- [Erzählungen erweitern unsere biologische Bande](/zettel/erzaehlungen-erweitern-biologische-bande/)
+- [Die Macht der Erzählungen](/zettel/die-macht-der-erzaehlungen/)

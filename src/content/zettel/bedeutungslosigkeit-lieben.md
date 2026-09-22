@@ -21,4 +21,4 @@ Die Bedeutungslosigkeit ist die Essenz der Existenz. Sie ist überall und immer 
 Milan Kundera schrieb den Roman *Das Fest der Bedeutungslosigkeit* als 83jähriger.
 ***
 
-**Folgezettel** - [Gutes Verhältnis zum Schicksal](/zettelkasten/gutes-verhaeltnis-zum-schicksal/)
+**Folgezettel** - [Gutes Verhältnis zum Schicksal](/zettel/gutes-verhaeltnis-zum-schicksal/)

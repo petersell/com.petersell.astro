@@ -21,4 +21,4 @@ Interaktionen können schlichten Regeln folgen. Z.B. der Minderheiten-Regel, die
 ***
 
 **Folgezettel**
-- [Unnachgiebig versus flexibel](/zettelkasten/unnachgiebig-versus-flexibel/)
+- [Unnachgiebig versus flexibel](/zettel/unnachgiebig-versus-flexibel/)

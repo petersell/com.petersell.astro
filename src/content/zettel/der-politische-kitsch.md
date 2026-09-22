@@ -22,4 +22,4 @@ Das ist nicht weiter verwunderlich: politische Bewegungen beruhen nicht auf rati
 ***
 
 **Folgezettel**
-- [Der Große Marsch vorwärts](/zettelkasten/der-grosse-marsch-vorwaerts/)
+- [Der Große Marsch vorwärts](/zettel/der-grosse-marsch-vorwaerts/)
