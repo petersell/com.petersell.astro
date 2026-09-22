@@ -1,0 +1,19 @@
+---
+import Base from "../../layouts/Base.astro";
+import { getTaxonomyTerms } from "../../lib/taxonomy";
+
+const terms = [...(await getTaxonomyTerms("tags")).values()].sort(
+  (a, b) => b.entries.length - a.entries.length,
+);
+---
+
+<Base title="Tags">
+  <h1>Tags</h1>
+  <ul>
+    {terms.map((term) => (
+      <li>
+        <a href={`/tags/${term.slug}/`}>{term.label}</a> ({term.entries.length})
+      </li>
+    ))}
+  </ul>
+</Base>

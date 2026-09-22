@@ -1,0 +1,34 @@
+---
+import Base from "../../layouts/Base.astro";
+import { getTaxonomyTerms } from "../../lib/taxonomy";
+import type { TaxonomyTerm } from "../../lib/taxonomy";
+
+export async function getStaticPaths() {
+  const terms = await getTaxonomyTerms("categories");
+  return [...terms.values()].map((term) => ({
+    params: { slug: term.slug },
+    props: { term },
+  }));
+}
+
+interface Props {
+  term: TaxonomyTerm;
+}
+
+const { term } = Astro.props;
+
+const formatDate = (d: Date) =>
+  d.toLocaleDateString("de-DE", { year: "numeric", month: "long", day: "numeric" });
+---
+
+<Base title={`Kategorie: ${term.label}`}>
+  <h1>Kategorie: {term.label}</h1>
+  <ul>
+    {term.entries.map((entry) => (
+      <li>
+        <a href={entry.href}>{entry.title}</a>
+        {" "}<small>({entry.collectionLabel}, {formatDate(entry.date)})</small>
+      </li>
+    ))}
+  </ul>
+</Base>
