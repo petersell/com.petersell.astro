@@ -2,21 +2,24 @@
 import { getCollection, getEntries, render } from "astro:content";
 import Base from "../../layouts/Base.astro";
 import type { CollectionEntry } from "astro:content";
+import { buildBacklinkIndex, getBacklinksFor, type Backlink } from "../../lib/backlinks";
 
 export async function getStaticPaths() {
   const zettelEntries = await getCollection("zettel", ({ data }) => !data.draft);
+  const backlinkIndex = await buildBacklinkIndex();
 
   return zettelEntries.map((zettel) => ({
     params: { slug: zettel.id },
-    props: { zettel },
+    props: { zettel, backlinks: getBacklinksFor(backlinkIndex, `/zettel/${zettel.id}/`) },
   }));
 }
 
 interface Props {
   zettel: CollectionEntry<"zettel">;
+  backlinks: Backlink[];
 }
 
-const { zettel } = Astro.props;
+const { zettel, backlinks } = Astro.props;
 const { data } = zettel;
 const { Content } = await render(zettel);
 
@@ -47,6 +50,19 @@ const formatDate = (d: Date) =>
         ))}
         {data.seite && <> – S. {data.seite}</>}
       </p>
+    )}
+
+    {backlinks.length > 0 && (
+      <section>
+        <h2>Elternzettel + Backlinks</h2>
+        <ul>
+          {backlinks.map((b) => (
+            <li>
+              <a href={b.href}>{b.title}</a>
+            </li>
+          ))}
+        </ul>
+      </section>
     )}
   </article>
 </Base>
