@@ -30,18 +30,20 @@ const formatDate = (d: Date) =>
 <Base title={`${data.title} – Artikel`}>
   <article>
     <h1>{data.title}</h1>
-    <p>{formatDate(data.date)} · {data.author}</p>
-    {data.description && <p>{data.description}</p>}
+    <p class="meta">
+      {formatDate(data.date)} · {data.author}
+      {data.categories.length > 0 && <> · {data.categories.join(", ")}</>}
+      {data.tags.length > 0 && <> · {data.tags.join(", ")}</>}
+    </p>
+    {data.description && <p class="description">{data.description}</p>}
     {data.image && <img src={data.image} alt={data.title} />}
-    {data.categories.length > 0 && <p>Kategorien: {data.categories.join(", ")}</p>}
-    {data.tags.length > 0 && <p>Tags: {data.tags.join(", ")}</p>}
 
     {tocHeadings.length > 1 && (
-      <nav aria-label="Inhaltsverzeichnis">
+      <nav class="toc" aria-label="Inhaltsverzeichnis">
         <h2>Inhalt</h2>
         <ul>
           {tocHeadings.map((h) => (
-            <li style={h.depth === 3 ? "margin-left: 1em" : undefined}>
+            <li class={h.depth === 3 ? "sub" : undefined}>
               <a href={`#${h.slug}`}>{h.text}</a>
             </li>
           ))}
@@ -52,3 +54,36 @@ const formatDate = (d: Date) =>
     <Content />
   </article>
 </Base>
+
+<style>
+  .description {
+    color: var(--color-muted);
+    font-style: italic;
+  }
+
+  .toc {
+    margin: 1.5rem 0;
+    padding: 0.85rem 1rem;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+  }
+
+  .toc h2 {
+    margin-top: 0;
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: var(--color-muted);
+  }
+
+  .toc ul {
+    margin: 0;
+    padding-left: 1.25rem;
+  }
+
+  .toc .sub {
+    margin-left: 1rem;
+  }
+</style>
+

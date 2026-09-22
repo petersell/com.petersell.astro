@@ -41,53 +41,91 @@ const zitiertVonGesamt = zitiertVonZettel.length + zitiertVonStatus.length;
 
 <Base title={`${data.title} – Quellen`}>
   <article>
+    {data.image && (
+      <img class="cover" src={data.image} alt={`Buchcover von ${data.title}`} width="140" />
+    )}
     <h1>{data.title}</h1>
-    {data.image && <img src={data.image} alt={`Buchcover von ${data.title}`} width="200" />}
-    <p>
+    <p class="meta">
       Veröffentlicht: {formatDate(data.date)}
       {data.dnb && (
         <>
           {" "}· <a href={`https://${data.dnb}`}>DNB-Eintrag</a>
         </>
       )}
+      {data.categories.length > 0 && <> · {data.categories.join(", ")}</>}
+      {data.tags.length > 0 && <> · {data.tags.join(", ")}</>}
     </p>
-    {data.categories.length > 0 && (
-      <p>Kategorien: {data.categories.join(", ")}</p>
-    )}
-    {data.tags.length > 0 && <p>Tags: {data.tags.join(", ")}</p>}
 
     <Content />
+
+    <section class="zitiert-von">
+      <h2>Zitiert von ({zitiertVonGesamt})</h2>
+      {zitiertVonGesamt === 0 && <p>Noch keine Zettel oder Status-Posts verweisen auf diese Quelle.</p>}
+
+      {zitiertVonZettel.length > 0 && (
+        <>
+          <h3>Zettel</h3>
+          <ul>
+            {zitiertVonZettel.map((z) => (
+              <li>
+                <a href={`/zettel/${z.id}/`}>{z.data.title}</a>
+                {z.data.seite && <> (S. {z.data.seite})</>}
+              </li>
+            ))}
+          </ul>
+        </>
+      )}
+
+      {zitiertVonStatus.length > 0 && (
+        <>
+          <h3>Status-Posts</h3>
+          <ul>
+            {zitiertVonStatus.map((s) => (
+              <li>
+                <a href={`/status/${s.id}/`}>{s.data.title}</a>
+              </li>
+            ))}
+          </ul>
+        </>
+      )}
+    </section>
   </article>
-
-  <section>
-    <h2>Zitiert von ({zitiertVonGesamt})</h2>
-    {zitiertVonGesamt === 0 && <p>Noch keine Zettel oder Status-Posts verweisen auf diese Quelle.</p>}
-
-    {zitiertVonZettel.length > 0 && (
-      <>
-        <h3>Zettel</h3>
-        <ul>
-          {zitiertVonZettel.map((z) => (
-            <li>
-              <a href={`/zettel/${z.id}/`}>{z.data.title}</a>
-              {z.data.seite && <> (S. {z.data.seite})</>}
-            </li>
-          ))}
-        </ul>
-      </>
-    )}
-
-    {zitiertVonStatus.length > 0 && (
-      <>
-        <h3>Status-Posts</h3>
-        <ul>
-          {zitiertVonStatus.map((s) => (
-            <li>
-              <a href={`/status/${s.id}/`}>{s.data.title}</a>
-            </li>
-          ))}
-        </ul>
-      </>
-    )}
-  </section>
 </Base>
+
+<style>
+  .cover {
+    float: right;
+    margin: 0 0 1rem 1.5rem;
+  }
+
+  .zitiert-von {
+    margin-top: 2rem;
+    padding: 0.85rem 1rem;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+  }
+
+  .zitiert-von h2 {
+    margin-top: 0;
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: var(--color-muted);
+  }
+
+  .zitiert-von h3 {
+    font-size: 0.95rem;
+    margin-bottom: 0.25rem;
+  }
+
+  .zitiert-von ul {
+    margin: 0 0 1rem;
+    padding-left: 1.25rem;
+  }
+
+  .zitiert-von ul:last-child {
+    margin-bottom: 0;
+  }
+</style>
+

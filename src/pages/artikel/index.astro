@@ -12,13 +12,49 @@ const formatDate = (d: Date) =>
 
 <Base title="Artikel">
   <h1>Artikel</h1>
-  <ul>
+  <ul class="entries">
     {artikelEntries.map((artikel) => (
       <li>
         <a href={`/artikel/${artikel.id}/`}>{artikel.data.title}</a>
-        <p>{formatDate(artikel.data.date)}</p>
-        {artikel.data.description && <p>{artikel.data.description}</p>}
+        <p class="meta">{formatDate(artikel.data.date)}</p>
+        {artikel.data.description && <p class="description">{artikel.data.description}</p>}
       </li>
     ))}
   </ul>
 </Base>
+
+<style>
+  .entries {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .entries li {
+    padding: 0.85rem 0;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .entries li:first-child {
+    border-top: 1px solid var(--color-border);
+  }
+
+  .entries a {
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .entries a:hover {
+    text-decoration: underline;
+  }
+
+  .entries p {
+    margin: 0.15rem 0 0;
+  }
+
+  .description {
+    color: var(--color-muted);
+    font-style: italic;
+  }
+</style>
+
