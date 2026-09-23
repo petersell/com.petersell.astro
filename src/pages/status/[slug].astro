@@ -59,6 +59,11 @@ const formatDate = (d: Date) =>
     font-style: italic;
   }
 
+  /* Hochkant-Bilder (Klasse vom portrait-images-Plugin) nur 75 % breit */
+  article :global(img.portrait) {
+    max-width: 75%;
+  }
+
   .quelle {
     margin-top: 2rem;
     padding: 0.85rem 1rem;
