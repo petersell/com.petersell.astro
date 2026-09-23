@@ -35,7 +35,6 @@ const formatDate = (d: Date) =>
       {data.tags.length > 0 && <> · {data.tags.join(", ")}</>}
     </p>
     {data.description && <p class="description">{data.description}</p>}
-    {data.image && <img src={data.image} alt={data.title} />}
 
     <Content />
 
