@@ -1,0 +1,6 @@
+# Übergangsphase: Seite läuft nur unter apetersell.netlify.app,
+# die alten Hugo-Seiten sind noch live. Suchmaschinen sollen diese
+# Vorschau nicht indexieren (Duplicate Content).
+# Beim Launch unter www.petersell.com auf "Allow: /" umstellen.
+User-agent: *
+Disallow: /
