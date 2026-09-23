@@ -14,4 +14,4 @@ tags:
 Happy Birthday. Ich bin stolz auf meine Zocker-Konditor-Familie.
 <!--more-->
 
-<img src="../images/foto-minecraft/minecraft.jpg" alt="Minecraftkuchen" width="80%" />
+![Minecraftkuchen](../images/foto-minecraft/minecraft.jpg)

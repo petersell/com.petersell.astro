@@ -21,7 +21,7 @@ Sie generieren DITA-Output mit Hilfe eines DITA-OT-Images. Aber wie generieren S
 
 Warum sollte ich als DITA-Redakteur _Docker_ und ähnliches benutzen? Was bringt mir das? Auf den Punkt gebracht: das eigene Überleben als DITA-Redakteur.
 
-<img src="../images/dita-ot-bootstrap-mit-docker/containerschiff.jpg" alt="DITA-Kapitän" width="80%" />
+![DITA-Kapitän](../images/dita-ot-bootstrap-mit-docker/containerschiff.jpg)
 
 Sie sind der Kapitän auf einem großen Schiff voller Container. In jedem Container befindet sich entweder eine Version des DITA-Open-Toolkits oder ein DITA-OT-Plugin. Wenn Sie ein PDF oder HTML-Output benötigen, suchen Sie sich ein DITA-OT heraus, fügen ein oder mehrere Plugins hinzu und starten den Build.
 
@@ -123,6 +123,6 @@ Ebenso heißt meine ditamap-Datei _zks.ditamap_. Tragen Sie hier Ihre Ditamap ei
 Der Output landet innerhalb des DITA-Quellverzeichnisses im Verzeichnis `out/dita-bootstrap`.
 
 [caption="Abb. 1: "]
-<img src="../images/dita-ot-bootstrap-mit-docker/dita-ot-bootstrap-mit-docker.png" alt="Bootstrap-Output" width="90%" />
+![Bootstrap-Output](../images/dita-ot-bootstrap-mit-docker/dita-ot-bootstrap-mit-docker.png)
 
 Nach dem Docker-Run-Befehl füllte sich mein output-Ordner `out` mit den gewünschten HTML-Seiten - jetzt aber im Bootstrap-Look des Plugins.

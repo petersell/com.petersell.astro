@@ -13,4 +13,4 @@ tags:
 Ich kann auch romantetisch. Vorfreude auf ZAZ im September 2019 auf der IFA in Berlin.
 <!--more-->
 
-<img src="../images/zaz-videoausschnitt/zaz-videoausschnitt.png" alt="Zaz auf Treibsand" width="80%" />
+![Zaz auf Treibsand](../images/zaz-videoausschnitt/zaz-videoausschnitt.png)

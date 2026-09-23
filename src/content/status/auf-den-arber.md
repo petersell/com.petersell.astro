@@ -13,7 +13,7 @@ tags:
 Unsere Entspannung in den Herbstferien: wir marschieren auf den Großen Arber. Zweimal sind wir bereits gescheitert. Jetzt haben wir es geschafft.
 <!--more-->
 
-<img src="../images/status/bayrischerwald.png" alt="Auf den Arber" width="80%" />
+![Auf den Arber](../images/status/bayrischerwald.png)
 
 
 Nichts konnte uns mehr aufhalten.

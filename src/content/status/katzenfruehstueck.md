@@ -14,4 +14,4 @@ tags:
 Ich werde doch wohl ein Blaumeischen von einem Eierwärmer unterscheiden können! Wäre ja gelacht.
 <!--more-->
 
-<img src="../images/katzenfruehstueck/katzenfruehstueck.jpg" alt="Katzenfrühstück" width="80%" />
+![Katzenfrühstück](../images/katzenfruehstueck/katzenfruehstueck.jpg)

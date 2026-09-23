@@ -13,7 +13,7 @@ tags:
 in der Litfaßsäule. Wir waren mit dem Herrn am Samstag (27.10.15) zur Premiere [der Parkaue](http://parkaue.de/spielplan/moritz-in-der-litfasssaeule/?rubrik=repertoire) im Prater. Der Herr hatte so viel Spaß, dass er danach begann, das Buch von Christa Kozik zu lesen.
 <!--more-->
 
-<img src="../images/log-moritz/moritz-in-litfasssaeule.jpg" alt="Kiki the Cat" width="80%" />
+![Kiki the Cat](../images/log-moritz/moritz-in-litfasssaeule.jpg)
 
 > Alle sind sich im Weg. Nichts steht an seinem Platz. Gleich ist es wieder zu spät. Bei Familie Zack herrscht jeden Morgen Hektik. Am Abend aber muss Moritz dem Vater beichten: Schlechte Noten, Schuleschwänzen. Als schließlich seine Lehrerin zu Hause auftaucht, wendet sich das Blatt vollends gegen ihn.
 >
