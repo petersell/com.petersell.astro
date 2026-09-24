@@ -1,4 +1,5 @@
 import { getCollection } from "astro:content";
+import { getSerien, serieHref } from "./serie";
 
 export type TaxonomyEntry = {
   title: string;
@@ -54,6 +55,24 @@ export async function getTaxonomyTerms(field: "categories" | "tags"): Promise<Ma
         }
         terms.get(slug)!.entries.push(taxonomyEntry);
       }
+    }
+  }
+
+  // Serien nur mit ihrer Übersichtsseite, nicht mit jedem Teil
+  for (const { overview } of await getSerien()) {
+    const values = overview.data[field];
+    for (const value of values) {
+      const slug = slugify(value);
+      if (!terms.has(slug)) {
+        terms.set(slug, { label: value, slug, entries: [] });
+      }
+      terms.get(slug)!.entries.push({
+        title: overview.data.title,
+        date: overview.data.date,
+        href: serieHref(overview),
+        collectionLabel: "Serie",
+        terms: values,
+      });
     }
   }
 

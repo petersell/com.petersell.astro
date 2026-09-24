@@ -26,4 +26,4 @@ In der Tat war uns ja das Eingaberecht »gewährt«, und wenn wirklich mal zugun
 
 **Links**
 
-- [Die Protagonisten der DDR-Literatur](https://www.petersell.com/blog/essay-ddrprotagonisten/)
+- [Die Protagonisten der DDR-Literatur](/serie/ddr-protagonisten/)

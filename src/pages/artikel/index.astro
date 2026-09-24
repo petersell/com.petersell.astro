@@ -1,10 +1,21 @@
 ---
 import { getCollection } from "astro:content";
 import Base from "../../layouts/Base.astro";
+import { getSerien, serieHref } from "../../lib/serie";
 
-const artikelEntries = (await getCollection("artikel", ({ data }) => !data.draft)).sort(
-  (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
-);
+// Serien erscheinen hier mit ihrer Übersichtsseite
+const entries = [
+  ...(await getCollection("artikel", ({ data }) => !data.draft)).map((artikel) => ({
+    data: artikel.data,
+    href: `/artikel/${artikel.id}/`,
+    serieTeile: 0,
+  })),
+  ...(await getSerien()).map(({ overview, parts }) => ({
+    data: overview.data,
+    href: serieHref(overview),
+    serieTeile: parts.length,
+  })),
+].sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 
 const formatDate = (d: Date) =>
   d.toLocaleDateString("de-DE", { year: "numeric", month: "long", day: "numeric" });
@@ -13,11 +24,14 @@ const formatDate = (d: Date) =>
 <Base title="Artikel">
   <h1>Artikel</h1>
   <ul class="entries">
-    {artikelEntries.map((artikel) => (
+    {entries.map(({ data, href, serieTeile }) => (
       <li>
-        <a href={`/artikel/${artikel.id}/`}>{artikel.data.title}</a>
-        <p class="meta">{formatDate(artikel.data.date)}</p>
-        {artikel.data.description && <p class="description">{artikel.data.description}</p>}
+        <a href={href}>{data.title}</a>
+        <p class="meta">
+          {formatDate(data.date)}
+          {serieTeile > 0 && <> · Serie in {serieTeile} Teilen</>}
+        </p>
+        {data.description && <p class="description">{data.description}</p>}
       </li>
     ))}
   </ul>
