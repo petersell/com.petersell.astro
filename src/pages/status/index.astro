@@ -1,10 +1,25 @@
 ---
 import { getCollection } from "astro:content";
+import { Image } from "astro:assets";
+import path from "node:path";
 import Base from "../../layouts/Base.astro";
 
 const statusEntries = (await getCollection("status", ({ data }) => !data.draft)).sort(
   (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
 );
+
+// Ohne `image:` im Frontmatter dient das erste Bild im Text als Vorschau
+const contentImages = import.meta.glob<{ default: ImageMetadata }>(
+  "/src/content/images/**/*.{png,jpg,jpeg,gif,webp}",
+  { eager: true },
+);
+
+const firstBodyImage = (entry: (typeof statusEntries)[number]) => {
+  const src = entry.body?.match(/!\[[^\]]*\]\(([^)\s]+)/)?.[1];
+  if (!src || !entry.filePath) return undefined;
+  const file = "/" + path.posix.join(path.posix.dirname(entry.filePath), src);
+  return contentImages[file]?.default;
+};
 
 const formatDate = (d: Date) =>
   d.toLocaleDateString("de-DE", { year: "numeric", month: "long", day: "numeric" });
@@ -15,8 +30,12 @@ const formatDate = (d: Date) =>
   <ul class="entries">
     {statusEntries.map((status) => (
       <li>
-        {status.data.image && (
+        {status.data.image ? (
           <img class="thumb" src={status.data.image} alt={status.data.title} width="96" />
+        ) : (
+          firstBodyImage(status) && (
+            <Image class="thumb" src={firstBodyImage(status)!} alt={status.data.title} width={192} height={192} fit="cover" />
+          )
         )}
         <div>
           <a href={`/status/${status.id}/`}>{status.data.title}</a>
