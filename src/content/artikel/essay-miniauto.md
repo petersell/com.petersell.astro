@@ -24,8 +24,9 @@ Wieso gelingt mir das Zusammensetzen von kleinen Autos aus DDR-Zeiten innerhalb 
 
 Schauen wir uns ein Mini-Auto aus der Erbmasse des Nachbarn genauer an. Und siehe da: es ist simpel und es besteht fast nur aus standardisierten Bauteilen.
 
-[caption="Abb. 2: "]
-![](../images/essay-miniauto/plattform-polizei.jpg)
+![Plattform mit Grundbausteinen](../images/essay-miniauto/plattform-polizei.jpg)
+
+*Abb. 2: Plattform mit Grundbausteinen*
 
 Dieses Auto basiert auf einer Plattform und einem Fenstersteinchen. Sechs durchsichtige Steinchen, die das Prinzip eines Kombifahrzeugs treffend fassen. In allen drei Bausätzen kommt die Plattform und die Fenstersteinchen zum Einsatz. Es sind nicht nur drei Baukästen, es ist ein Baukastensystem!
 
@@ -64,8 +65,9 @@ Die Noppen an den Legosteinen lassen uns glauben, dass dies Modulbausteine sind.
 
 Etwas anderes ist am Miniauto interessant: die Plattform mit den Frontleuchten und den beiden Achsaufhängungen. Sie bilden eine Art Systemgrenze, innerhalb derer gebaut werden darf. Schaut man in die Legokiste der letzten drei Weihnachtsgeschenke, dann sehen sie schier unendliche Weite. Die Plastikplattform bildet zusammen mit der menschlichen Erfahrung, wie in Grundzügen ein Auto zusammengesetzt ist, die Plattform!
 
-[caption="Abb. 3: "]
-![](../images/essay-miniauto/plattform-rotkreuz.jpg)
+![Rote Plattform](../images/essay-miniauto/plattform-rotkreuz.jpg)
+
+*Abb. 3: Rote Plattform*
 
 Der durchsichtige Fensterstein fungiert als Modul. Er ist in vielen Autos einsetzbar und austauschbar. Weitere Module sind die Dachplatten und der Zwischenraum zwischen den Achsen. Alle anderen Steine wandern durch das Wissen des Autoschemas wie von allein an seinen Platz. Man kann die Autos nach Anleitung bauen, oder sich Variationen ohne Anleitung ausdenken.
 
@@ -84,8 +86,9 @@ Serie MdI (Ministerium des Inneren)
 * Preis: 5,50 Mark (der DDR)
 * Inhalt: 3 Fahrzeuge (Krankenwagen, Polizei, Post)
 
-[caption="Abb. 4: "]
-![](../images/essay-miniauto/verpackung-mdi.jpg)
+![Verpackung der Serie MdI](../images/essay-miniauto/verpackung-mdi.jpg)
+
+*Abb. 4: Verpackung der Serie MdI*
 
 Anhand der 3 PKW bzw. Transporter-Modell läßt sich sehr gut das Aufbauprinzip für PKWs ableiten. Kinder können
 nun PKWs in jeglicher Farbe bauen.
@@ -103,8 +106,9 @@ Ministerium auch die Staatssicherheit zugeordnet war und sich in manchen Postäm
 * Preis: 4,50 Mark (der DDR)
 * Inhalt: 2 Busse
 
-[caption="Abb. 5: "]
-![](../images/essay-miniauto/omnibus.jpg)
+![Ein Bus von zweien auf Originalverpackung](../images/essay-miniauto/omnibus.jpg)
+
+*Abb. 5: Ein Bus von zweien auf Originalverpackung*
 
 
 ### Baukasten Kranfahrzeuge
@@ -115,5 +119,6 @@ Ministerium auch die Staatssicherheit zugeordnet war und sich in manchen Postäm
 * Preis: 4,50 Mark (der DDR)
 * Inhalt: 2 Kranfahrzeuge
 
-[caption="Abb. 6: "]
-![](../images/essay-miniauto/kranfahrzeug.jpg)
+![Kranfahrzeug](../images/essay-miniauto/kranfahrzeug.jpg)
+
+*Abb. 6: Kranfahrzeug*

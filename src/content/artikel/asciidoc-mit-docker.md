@@ -35,11 +35,13 @@ Das gibt es. Und das Schönes ist, dass der Build via Docker verschiedene Ausgab
 
 In der readme-Datei des Projekts heißt es:
 
-----
+**Build-Befehl in der Dokumentation**
+
+```
 docker run -it \
   -u $(id -u):$(id -g) \
   -v <your directory>:/documents/ asciidoctor/docker-asciidoctor
-----
+```
 
 Diese Beispiel-Syntax gilt es anzupassen. Den Part `-u $(id -u):$(id -g)` sollten Sie in Ihrem Build-Befehl übernehmen. Er sorgt dafür, dass das Output-Verzeichnis editierbar ist. So können Sie z.B. einen Image-Ordner einfügen, wenn nötig.
 

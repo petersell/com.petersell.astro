@@ -94,9 +94,9 @@ Sie können Ihrem Image natürlich einen anderen Namen vergeben als _ditaot-boot
 
 Überprüfen Sie im selben Fenster, ob das Images gebaut wurde:
 
-----
+```
 $ docker images
-----
+```
 
 #### 4) Container starten für den Build
 
@@ -122,7 +122,8 @@ Ebenso heißt meine ditamap-Datei _zks.ditamap_. Tragen Sie hier Ihre Ditamap ei
 
 Der Output landet innerhalb des DITA-Quellverzeichnisses im Verzeichnis `out/dita-bootstrap`.
 
-[caption="Abb. 1: "]
-![Bootstrap-Output](../images/dita-ot-bootstrap-mit-docker/dita-ot-bootstrap-mit-docker.png)
+![Der Bootstrap-Output](../images/dita-ot-bootstrap-mit-docker/dita-ot-bootstrap-mit-docker.png)
+
+*Abb. 1: Der Bootstrap-Output*
 
 Nach dem Docker-Run-Befehl füllte sich mein output-Ordner `out` mit den gewünschten HTML-Seiten - jetzt aber im Bootstrap-Look des Plugins.

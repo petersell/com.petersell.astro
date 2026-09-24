@@ -11,8 +11,6 @@ tags:
     - techcomm
 ---
 
-:sectanchors:
-
 Für längere Texte und Anleitungen hatte ich bisher viele CMS genutzt: Wordpress, Kirby, Hugo und Known. Doch keines der CMS kannte ein Austauschformat. Jeder Text wurde in die jeweilige Datenbank abgelegt. Mit jedem Umzug gingen Texte verloren. Nun brachte [Tom Swan](https://www.tomswan.com/) mich auf die Idee, es mit Asciidoc zu versuchen. Hier die wichtigsten Schritte.
 <!--more-->
 
@@ -72,26 +70,29 @@ Die Möglichkeit, ein kleines Menü mit Asciidoc zusammenstellen zu können, üb
 
 Meine include-Datei, die das Menü mit zwei externen Weblinks enthält, siehe folgendermaßen aus:
 
-----
+```asciidoc
 :home: index.html[Home]
 :doku: doku.html[Softwaredokumentation]
 
-link:{home} | link:{doku} | [Stream](https://www.petersell.com) | [Impressum](https://www.petersell.com/pages/impressum)
-----
+link:{home} | link:{doku} | https://www.petersell.com[Stream] | https://www.petersell.com/pages/impressum[Impressum]
+```
 
 Diese include-Datei `include-menu.adoc` habe ich in jeder Asciidoc-Datei unterhalb der Attribute eingebunden:
 
-   include::include-menu.adoc[]
+```asciidoc
+include::include-menu.adoc[]
+```
 
 
 Diese hier aufgerufene HTML-Seite sieht als `doku-asciidoc.adoc` im Header folgendermaßen aus:
 
-----
+```asciidoc
 :title: Asciidoc
 :sourcedir: ../
 :docinfo: shared
 :icons: font
 :sectanchors:
+:imagesdir: images
 :doctype: article
 :filename: doku-asciidoc
 :date: 22.01.2019
@@ -100,22 +101,24 @@ Diese hier aufgerufene HTML-Seite sieht als `doku-asciidoc.adoc` im Header folge
 
 - - -
 
-### {title}
+== {title}
 
 - - -
 
-#### Eine Homepage mit Asciidoc erstellen
+=== Eine Homepage mit Asciidoc erstellen
 
 [abstract]
 Für längere Texte und Anleitungen hatte ich bisher viele CMS genutzt: Wordpress, Kirby, Hugo und Known. Doch keines der CMS kannte ein Austauschformat. Jeder Text wurde in die jeweilige Datenbank abgelegt. Mit jedem Umzug gingen Texte verloren. Nun brachte {web-tomswan} mich auf die Idee, es mit Asciidoc zu versuchen. Hier die wichtigsten Schritte.
-----
+```
 
 ### Inhaltsverzeichnis einfügen
 
 Wenn Sie auf bestimmten Seiten ein Inhaltsverzeichnis erstellen möchten, fügen Sie diese beiden Attribute ein:
 
-----
-----
+```asciidoc
+:toc-title: Inhalt
+:toc: macro
+```
 
 An die Stelle in der adoc-Datei, wo das Inhaltsverzeichnis erscheinen soll, fügen Sie `toc::[]` ein.
 

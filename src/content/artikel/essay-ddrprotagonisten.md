@@ -37,11 +37,9 @@ bewertet.
 
 ### Download
 
-[link=https://github.com/petersell/ddrprotagonisten/raw/master/ddrprotagonisten.pdf]
-![](../images/essay-ddrprotagonisten/download-pdf.png)
+[![](../images/essay-ddrprotagonisten/download-pdf.png)](https://github.com/petersell/ddrprotagonisten/raw/master/ddrprotagonisten.pdf)
 
-[link=https://github.com/petersell/ddrprotagonisten/raw/master/ddrprotagonisten.epub]
-![](../images/essay-ddrprotagonisten/download-epub.png)
+[![](../images/essay-ddrprotagonisten/download-epub.png)](https://github.com/petersell/ddrprotagonisten/raw/master/ddrprotagonisten.epub)
 
 ### Zur Auswahl der Prosawerke
 
