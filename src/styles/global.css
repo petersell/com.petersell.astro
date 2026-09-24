@@ -106,6 +106,11 @@ iframe[src*="youtube-nocookie.com/embed"] {
   border-radius: 4px;
 }
 
+/* Expressive Code: Scrollbalken in Firefox (EC setzt nur ::-webkit-scrollbar) */
+.expressive-code pre {
+  scrollbar-color: var(--color-border) var(--color-surface);
+}
+
 /* Fußnoten (Markdown [^n]) */
 .footnotes {
   margin-top: 3rem;
