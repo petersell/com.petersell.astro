@@ -12,9 +12,12 @@
   --color-important: #8250df;
   --color-caution: #d1242f;
   --color-warning: #9a6700;
-  --font-mono: ui-monospace, "SF Mono", "Cascadia Code", "JetBrains Mono", Consolas,
-    "Liberation Mono", Menlo, monospace;
-  --content-width: 68ch;
+  /* Variante C: Mono für Überschriften, Navigation, Metadaten und Code,
+     Fließtext serifenlos (Schriften via Fontsource in Base.astro) */
+  --font-mono: "JetBrains Mono", ui-monospace, "SF Mono", Consolas, "Liberation Mono", monospace;
+  --font-sans: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  /* feste Breite statt ch, damit Navigation (Mono) und Text (Sans) fluchten */
+  --content-width: 42rem;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -45,8 +48,27 @@ body {
   margin: 0;
   background: var(--color-bg);
   color: var(--color-fg);
+  font-family: var(--font-sans);
+  font-size: 1.03rem;
+  line-height: 1.65;
+}
+
+/* Rahmen der Seite in Monospace (Terminal-Charakter) */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.site-nav,
+.meta,
+.entries a,
+.toc,
+.admonition-title,
+.serie-label,
+.pager,
+.site-footer {
   font-family: var(--font-mono);
-  line-height: 1.6;
 }
 
 a {
@@ -67,7 +89,7 @@ a:hover {
 .site-nav ul {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.25rem 1.25rem;
+  gap: 0.25rem 1rem;
   list-style: none;
   margin: 0;
   padding: 0.85rem max(1rem, calc((100% - var(--content-width)) / 2));
@@ -76,6 +98,7 @@ a:hover {
 .site-nav a {
   color: var(--color-fg);
   text-decoration: none;
+  font-size: 0.9rem;
   font-weight: 600;
 }
 
@@ -97,6 +120,7 @@ h3 {
 
 h1 {
   color: var(--color-accent);
+  font-weight: 800;
 }
 
 img {
