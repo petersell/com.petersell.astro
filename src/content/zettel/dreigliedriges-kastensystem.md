@@ -13,8 +13,7 @@ zettelnummer: 4.4
 fmContentType: zettelkasten
 ---
 
-> **Hauptzettel**
->
+> [!important] Hauptzettel
 > Ein Unternehmen als Organisationsform entwickelt sich nach etwa 25 Mitarbeitern von einer einfachen Hierarchie "Chef versus Mitarbeiter" zu einem dreigliedrigen Kastensystem.
 >
 > 1. Geschäftsführung

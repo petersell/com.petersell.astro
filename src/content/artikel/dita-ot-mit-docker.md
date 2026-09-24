@@ -30,8 +30,7 @@ Natürlich habe ich beim Befolgen der Anleitung viel falsch gemacht, und fast h�
 
 ### Anleitung
 
-> **Tip — Voraussetzung**
->
+> [!tip] Voraussetzung
 > Sie haben Docker installiert.
 
 In der Dokumentation zum DITA OpenToolkit heißt es:

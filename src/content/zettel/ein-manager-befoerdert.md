@@ -19,8 +19,7 @@ fmContentType: zettelkasten
 Jeder, der schon einmal befördert wurde, kennt das Geheimnis. Beförderung ist weder eine Ehre noch eine Belohnung und hat sehr wenig zu tun mit den Fähigkeiten eines Angestellten oder den Bedürfnissen der Firma. Beförderung ist eine Neuverteilung der verfügbaren Kräfte, um etwas auf den Weg zu bringen, das ein Manager - aus welchen Gründen auch immer - nicht selbst tun möchte.
 <!--more-->
 <!-- FM:Snippet:Start data:{"id":"Admonition - Notiz","fields":[]} -->
-> **Comment**
->
+> [!note] Kommentar
 > *Lifetime Employment - A Corporate Nightmare* lautet der englische Originaltitel. Der deutsche *Das Aufsteiger-Prinzip* ist auch nicht schlecht.
 >
 > Die Betonung liegt hier auf *ein Manager*. Das zu Fleisch gewordene Unternehmen. Es hat nichts mit *den Bedürfnissen der Firma* zu tun. Übertreiben es die Manager, muss die erste Ebene mittels Entlassungen korrigieren.

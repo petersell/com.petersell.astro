@@ -26,8 +26,7 @@ Quelle: [hugo-notice von Nicolas Martignoni](https://github.com/martignoni/hugo-
 
 Da ich mein Template **nicht** im Ordner `themes` als git-submodule betreibe, kopiere ich alles in meinen lokalen `layouts`-Ordner und synchronisiere diesen zugleich mit meinen Content-Dateien.
 
-> **Info**
->
+> [!note]
 > Sie müssen in der `config.toml` angeben, ob Sie auf Ihrer Webseite mit einer Standardsprache arbeiten, oder mehrere, nahezu gleichberechtigte Sprachen nutzen. Da ich Deutsch als Standardsprache nutze, habe ich in die `config.toml` diesen Eintrag hinzugefügt: `defaultContentLanguage = 'de'`.
 
 ### Einmaliges Einrichten
@@ -55,8 +54,7 @@ Sie müssen in der `config.toml` angeben, ob Sie auf Ihrer Webseite ...
 
 ### Beispiel für eine Warnung
 
-> **Warning**
->
+> [!warning]
 > This is a warning notice. Be warned!
 
 ```

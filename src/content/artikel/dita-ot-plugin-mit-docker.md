@@ -31,8 +31,7 @@ Aber ich möchte das Aussehen verändern mit Hilfe des Plugins [DITA Bootstrap](
 
 ### Anleitung
 
-> **Tip — Voraussetzung**
->
+> [!tip] Voraussetzung
 > Sie haben Docker installiert.
 
 #### Dockerfile erstellen

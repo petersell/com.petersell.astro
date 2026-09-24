@@ -19,8 +19,7 @@ You have a project on gitlab with the URL *myname.gitlab.io/project* and would n
 Quelle: [GitLab Pages custom domains](https://docs.gitlab.com/user/project/pages/custom_domains_ssl_tls_certification/)
 
 <!-- FM:Snippet:Start data:{"id":"Admonition - Voraussetzung","fields":[]} -->
-> **Info**
->
+> [!note]
 > You have access to the DNS entries of your domains with your web hosting service provider.
 <!-- FM:Snippet:End -->
 

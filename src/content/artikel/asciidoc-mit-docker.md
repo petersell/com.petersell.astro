@@ -15,8 +15,7 @@ Sie müssen nicht für jedes Output-Format des Asciidoctors ein Extra-Tool insta
 <!--more-->
 Diese Quelle ermöglichte mir den Artikel: [Asciidoctor Docker Container](https://github.com/asciidoctor/docker-asciidoctor)
 
-> **Tip — Voraussetzung**
->
+> [!tip] Voraussetzung
 > Sie haben Docker installiert.
 
 ### Kontext

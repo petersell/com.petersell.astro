@@ -3,6 +3,7 @@ import { defineConfig } from 'astro/config';
 import { satteri } from '@astrojs/markdown-satteri';
 import expressiveCode from 'astro-expressive-code';
 import portraitImages from './src/plugins/hast-portrait-images.mjs';
+import admonitions from './src/plugins/hast-admonitions.mjs';
 
 // https://astro.build/config
 export default defineConfig({
@@ -32,7 +33,7 @@ export default defineConfig({
   ],
   markdown: {
     processor: satteri({
-      hastPlugins: [portraitImages],
+      hastPlugins: [portraitImages, admonitions],
       features: {
         // Fußnoten-Beschriftung auf Deutsch (Standard: "Footnotes", "Back to reference …")
         gfm: {
