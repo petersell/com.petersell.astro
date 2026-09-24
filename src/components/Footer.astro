@@ -1,0 +1,31 @@
+---
+// Footer wie auf der alten Hugo-Seite (layouts/partials/footer.html),
+// ohne die Schaltfläche „Zur Startseite“.
+---
+
+<footer class="site-footer">
+  <p class="copyright">
+    Sämtliche Beiträge stehen unter einer <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.
+  </p>
+  <!-- h-card (IndieWeb), unsichtbar -->
+  <p class="h-card vcard" hidden>
+    <a class="u-url p-author p-name url" href="https://www.petersell.com" rel="me">Andreas Petersell</a>
+    <span class="p-locality">Berlin</span>
+    <span class="p-country-name">Germany</span>
+  </p>
+</footer>
+
+<style>
+  .site-footer {
+    max-width: var(--content-width);
+    margin: 0 auto;
+    padding: 1.5rem 1rem 2rem;
+    border-top: 1px solid var(--color-border);
+  }
+
+  .copyright {
+    margin: 0;
+    font-size: 80%;
+    text-align: center;
+  }
+</style>
