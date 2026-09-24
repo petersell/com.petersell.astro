@@ -40,7 +40,7 @@ sein Autor in der DDR gelebt und es in der DDR geschrieben hat? Das
 könnte, das müßte genügen, aber man kann weiter überlegen. Becker wollte
 einen Film aus dem Stoff machen, konnte damit aber nicht bei der
 einzigen Filmgesellschaft im Staat landen, so schrieb er den Roman,
-typisch DDR.”[^1](#item-literature.xhtml#fntarg_1) - Was macht
+typisch DDR.”[^1] - Was macht
 DDR-Literatur aus? Ist allein vom autonomen Text auszugehen oder ist sie
 untrennbar mit dem sozio-kulturellen Hintergrund "DDR-Gesellschaft"
 verbunden? Folgendes Rezensionsfazit über Volker Brauns _Unvollendete
@@ -52,7 +52,7 @@ legt letzteres nah:
 > Zweifellos. Spielte die Geschichte nicht in der DDR, hätte sich kein
 > Verlag in der Bundesrepublik bereitgefunden, sie zu drucken. Diese
 > unvollendete Geschichte ist vollendeter
-> Edelkitsch.[^2](#item-literature.xhtml#fntarg_2)
+> Edelkitsch.[^2]
 
 So will diese Arbeit im 2. Kapitel die Frage anreißen, was die
 Rahmenbedingungen für eine spezifische DDR-Literatur waren und welche
@@ -67,11 +67,5 @@ angedeutete Bild des Kämpfertyps um der eigenen Identität willen für
 alle Protagonisten aufrechterhalten werden kann, wird in der Besprechung
 der vier Prosawerke näher zu untersuchen sein.
 
-[^1](#item-literature.xhtml#fnsrc_1) Kopka, Fritz-Jochen: Von der
-Unübertrefflichkeit des ersten Buches. Jurek Becker: »Jakob der Lügner«.
-In: Verrat an der Kunst? Rückblicke auf die DDR-Literatur. Berlin,
-Weimar 1993
-
-[^2](#item-literature.xhtml#fnsrc_2) van Ingen, Ferdinand: Volker
-Braun: Unvollendete Geschichte. In: Deutsche Bücher, Nr. 3/1978,
-Amsterdam (Editions Rodopi), S. 268
+[^1]: Kopka, Fritz-Jochen: Von der Unübertrefflichkeit des ersten Buches. Jurek Becker: »Jakob der Lügner«. In: Verrat an der Kunst? Rückblicke auf die DDR-Literatur. Berlin, Weimar 1993
+[^2]: van Ingen, Ferdinand: Volker Braun: Unvollendete Geschichte. In: Deutsche Bücher, Nr. 3/1978, Amsterdam (Editions Rodopi), S. 268

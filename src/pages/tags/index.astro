@@ -7,8 +7,8 @@ const terms = [...(await getTaxonomyTerms("tags")).values()].sort(
 );
 ---
 
-<Base title="Tags">
-  <h1>Tags</h1>
+<Base title="Stichwörter">
+  <h1>Stichwörter</h1>
   <ul class="cloud">
     {terms.map((term) => (
       <li>

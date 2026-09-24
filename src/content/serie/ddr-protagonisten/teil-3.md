@@ -16,7 +16,7 @@ Thema: den Alltag. Für “räumlich und zeitlich Entfernte” wird die
 Einfühlung des Lesers durch ein Motto sofort nachgereicht: “In ... »Es
 geht seinen Gang« lagen gleichermaßen die Gewißheit geschichtlichen
 Fortschritts wie die Kapitulation vor der Robustheit des
-Schlendrians.”[^1](#item-literature.xhtml#fntarg_1) Die Darstellung
+Schlendrians.”[^1] Die Darstellung
 der Arbeitswelt, so deutet letzteres an, soll dabei nicht fehlen. Eine
 Synopse wäre schnell zur Hand:
 
@@ -36,7 +36,7 @@ nimmt teil am Geschehen und vermittelt dies zugleich. Er hat einen
 “Leib”: d. h. für ihn entspringt das Erzählen einer existentiellen
 Motivation. “Mit anderen Worten, die Vollendung des Lebens eines
 Ich-Erzählers wird erst mit der Vollendung des Erzählaktes
-erreicht.”[^2](#item-literature.xhtml#fntarg_2) Wülffs
+erreicht.”[^2] Wülffs
 Erzählmotivation ist das “Bedürfnis nach ordnender Überschau und
 Sinnsuche”.
 
@@ -77,9 +77,9 @@ Daß es mit der Solidarität der Menschen “nicht weit her ist”, hat er
 früh lernen müssen. Ist der Roman von einem lockeren, kolloquialen
 Erzählgestus geprägt, so ist es diese Episode, die “Schlacht vom
 Leuschnerplatz” (23), ganz besonders. So wird sie als die “glanzvollste
-Passage”[^3](#item-literature.xhtml#fntarg_3) des Roman gesehen. Die
+Passage”[^3] des Roman gesehen. Die
 “Schnoddrigkeit... tradiert den amerikanischen Roman, Selby oder C.
-Bukowski.” [^4](#item-literature.xhtml#fntarg_4)
+Bukowski.” [^4]
 
 **3-05** Der Leser kann in dem “gebrannten Kind” kaum noch
 einen Helden wie “Superman Kortschagin” (15) erwarten, doch versucht der
@@ -128,7 +128,7 @@ Jäger:
 > gewünschten Resultate einstellten. Die Unzufriedenheit hatte somit einen
 > Adressaten: die Subjekte, die von den staatlichen Mitteln nicht den
 > richtigen Gebrauch machten und so die gewünschten Ergebnisse
-> vereitelten.[^5](#item-literature.xhtml#fntarg_5)
+> vereitelten.[^5]
 
 **3-08** Demnach hätte ein jeder DDR-Arbeiter viel zu tun.
 Zahlreiche Bewährungsproben, intellektuelle wie physische, gäbe es zu
@@ -136,7 +136,7 @@ bestehen. So schreibt das Kulturpolitische Wörterbuch, dass “die
 sozialistische Persönlichkeit sich vor allem in der Arbeit für die
 sozialistische Gesellschaft und in den verschiedenen Formen
 sozialistischer Kollektive
-entwickelt.”[^6](#item-literature.xhtml#fntarg_6) Wülffs Arbeitswelt
+entwickelt.”[^6] Wülffs Arbeitswelt
 lernt der Leser in der Hauptsache über die “Spinnstunde” (44), der
 perspektivischen Beratung des Kollektivs mit Grosser als Leiter kennen.
 Dort erzählt Wülff die Einzelheiten und sinniert über Kollegen und die
@@ -209,7 +209,7 @@ den Konsum” (58) als eines höheren Lohns.
 > Aufsteiger ist unweigerlich ein lebensunfähiger Asket. Qualifikation ist
 > nicht mehr Lust und Bedürfnis aller, sondern der Ehrgeiz einzelner
 > geworden: »Keiner drängte mehr, dass sich jemand qualifizierte, wenn ich
-> von Jutta absah«. (42)[^7](#item-literature.xhtml#fntarg_7)
+> von Jutta absah«. (42)[^7]
 
 Es sind die hemmenden Arbeitsverhältnisse, die den Helden Wülf in erster
 Linie dazu bringen, im Arbeitsleben sich den Erwartungen der
@@ -229,7 +229,7 @@ Sinne auch ist. Wolf Biermann weiß es noch 1990:
 > lebenslangen Frührentner fangen an ranzuklotzen wie sonst nur am
 > Wochenende auf der Datscha. Der chronische Bummelstreik ist beendet. Auf
 > einem Arbeitsplatz werden sich nicht drei abgestumpfte Leute
-> räkeln.[^8](#item-literature.xhtml#fntarg_8)
+> räkeln.[^8]
 
 **3-13** Auch der alte Parteigenosse Huppel bleibt vom
 hemmendem Dirigismus und Bevormundung nicht verschont:
@@ -258,7 +258,7 @@ den richtigen Gebrauch mach(t)en.” (Grunenberg) Ganz anders Wülff:
 > Beat, Ringelsocken Guevara-Poster, Brecht und Dialektik). Nicht die
 > wirklichen Klassenkämpfe, sondern ihr Pathos, durch die Zwänge der
 > Leistungsgesellschaft zunehmend
-> ausgehöhlt.[^9](#item-literature.xhtml#fntarg_9)
+> ausgehöhlt.[^9]
 
 **3-14** Diese oft bemühten Worte Heiner Müllers aus dem
 Jahre 1977 können für die Erfahrung aller Protagonisten dieser Arbeit
@@ -280,7 +280,7 @@ Schilderung des letzten Jahres als erzählendes Ich.
 Zufriedenheit mit dem kleinen Kreis von Essen und Trinken, Frau und
 passabler Arbeit nicht einfach Rückfall ins Spießerdasein ist... ,
 sondern bewußte Abgrenzung von den 'Kämpfern'
-heute.”[^10](#item-literature.xhtml#fntarg_10) Diese Abgrenzung
+heute.”[^10] Diese Abgrenzung
 bedarf von seiten Wülff keiner flammenden Verteidigungsreden oder
 anderer Aktionen, zu der man sich öffentlich bekennen muß. Sein
 Anderssein gegenüber den Wunschvorstellungen des Staates ist ihm
@@ -301,11 +301,11 @@ Neuberts Reaktion im “Sonntag” kommt einem Urteil gleich.
 > Viele zufällige Mikro-Teilchen ergeben noch nicht die objektive
 > Wahrheit... Der kleinbleibende Mann reagiert sein Mißbehagen ab, das er
 > selbst immerzu in sich
-> produziert.[^11](#item-literature.xhtml#fntarg_11)
+> produziert.[^11]
 
 Rüdiger Bernhardts Urteil manifestiert sich schon im Titel seiner Wortmeldung: “»Die Mühen des
 Wolfgang Wülff«, die als Folge des individuellen Versagens jenes
-Ich-Erzählers entstehen”[^12](#item-literature.xhtml#fntarg_12) Er
+Ich-Erzählers entstehen”[^12] Er
 vermißt die Distanz seitens des Autors zur Erzählerfigur, so daß Wülff
 als “repräsentativ für gesellschaftliche Vorgänge” erscheinen muß.
 Huppel hätte als Korrektiv und relativierende Kraft zu Wülff fungieren
@@ -322,7 +322,7 @@ umrissen:
 > Gegenbeispiele, wo solches Verarmen nicht der Fall sei, so daß am Schluß
 > der Sachverhalt, um dessentwillen der Autor zur Feder gegriffen hat,
 > nicht mehr als eine Episode bildet, über die sich dann keiner mehr
-> erregt.[^13](#item-literature.xhtml#fntarg_13)
+> erregt.[^13]
 
 **3-17** Diese Argumentation soll auch beim zweiten in der
 DDR erschienenen Werk dieser Arbeit, Heins _Fremdem Freund_, eine Rolle
@@ -333,7 +333,7 @@ und dabei kommentiere, werte”:
 > Ich füge hin und wieder ... eine Fußnote hinzu, und da erteile ich
 > meinem Wülff Zensuren, wie da sein könnten: Hier irrt Wolfgang!
 > Mangelhaftes Klassenbewußtsein! Kollegiales Verhalten: 3
-> minus...[^14](#item-literature.xhtml#fntarg_14)
+> minus...[^14]
 
 **3-18** Sollte es Loests Ziel gewesen sein, eine
 möglichst exemplarische Figur zu schaffen, “die mit dem Sozialismus
@@ -342,7 +342,7 @@ Indiz dafür sein, dass ihm das gelungen ist. “Loests Grundthema ist,
 dass die gesellschaftliche Dialektik den Widerstand des einzelnen
 braucht. So ist die Bequemlichkeit von Wolfgang Wülff als die Weigerung
 entwickelt, sich korrumpieren zu lassen. (Wülff als neuer
-Taugenichts)[^15](#item-literature.xhtml#fntarg_15). Bedarf es
+Taugenichts)[^15]. Bedarf es
 einiger Mühe, den Opportunismus Wülffs im Arbeitsleben als teilweise
 begründet zu erklären, ist die Frage nach Opportunismus im Privatleben
 völlig überflüssig, denn dort ist er unbestechlich. So macht seine Frau
@@ -428,7 +428,7 @@ Anwendung finden:
 **3-22** Antonia Grunenberg hält Wülff weder
 für “oppositionell noch klammheimlich illoyal. Er ist ein treuer
 Staatsbürger, der seinem Staat und seiner Partei
-vertraut...”[^16](#item-literature.xhtml#fntarg_16) Doch kann man
+vertraut...”[^16] Doch kann man
 von Vertrauen sprechen bei einem Menschen, der sich eingerichtet, und
 was Politik betrifft, resigniert hat? Es mag der Schein entstehen, Wülff
 sei unpolitisch, doch ist er erstaunlich gut über Politik informiert.
@@ -440,7 +440,7 @@ für ein auditorium maximum (106).
 Mannes nachzeichnet - sein vermeintliches berufliches und politisches
 'Versagen' ..., kann er die DDR-Gesellschaft zeigen, wie sie heute
 weithin ist: spießig und muffig, leistungsorientiert und unsolidarisch,
-autoritär und selbstgerecht.”[^17](#item-literature.xhtml#fntarg_17)
+autoritär und selbstgerecht.”[^17]
 Ein westdeutsches Urteil vor dem Hintergrund des offiziellen
 Selbstverständnisses der DDR. Für den heutigen Leser hält Loests Buch
 eine zwar nicht wertfreie, doch sehr liebevolle, detailgetreue Chronik
@@ -457,7 +457,7 @@ Erzähler seine Zufriedenheit, zu Beginn (30, 67) genauso wie am Ende
 (222). Seine ganze Aufmerksamkeit ist dem Privatleben gewidmet. Dort
 “entfalten sich Tugenden wie praktischer Sinn und Phantasie,
 Sensibilität für Natur und Menschen, Freundlichkeit, die Vergnügungen
-der Sinne.”[^18](#item-literature.xhtml#fntarg_18) Wenn er von sich
+der Sinne.”[^18] Wenn er von sich
 sagt, er sei kein Held (203) (im Sinne offizieller DDR-Propaganda), so
 mag das vielleicht genau der Nährboden sein für seine bestechendste
 Eigenschaft, seiner ganz individuellen Humanität. Die Humanität, “die
@@ -476,7 +476,7 @@ Ich-Erzählung betont Franz Stanzel die “innere
 Spannung zwischen dem Ich als Helden und dem Ich als Erzähler”. Für
 diese beiden Phasen im Leben des Erzähler-Ichs führte Stanzel die
 Begriffe _erlebendes Ich_ und _erzählendes Ich_
-[^19](#item-literature.xhtml#fntarg_19)ein.
+[^19]ein.
 
 > Die Erzähldistanz, die zeitlich, räumlich und psychologisch die beiden
 > Phasen des Erzähler-Ich trennt, ist im allgemeinen ein Maß für die
@@ -484,7 +484,7 @@ Begriffe _erlebendes Ich_ und _erzählendes Ich_
 > unterworfen war, ehe es begann, seine Geschichte zu erzählen. [...] Die
 > Vielfalt der Gestaltungen der Erzähldistanz reicht von Identifikation
 > bis zur völligen Entfremdung zwischen erzählendem und erlebendem
-> Ich.[^20](#item-literature.xhtml#fntarg_20)
+> Ich.[^20]
 
 Für Wülff liegt die Leuschnerplatz-Episode fast zehn Jahre zurück, so
 daß man annehmen kann, dass er sie inzwischen vollends verarbeitet hat,
@@ -493,12 +493,12 @@ daß je länger die Erzähldistanz, je entfernter das erzählende Ich dem
 erlebenden Ich steht, desto weiter ist der Wissens- und
 Wahrnehmungshorizont des erlebenden Ich und desto größer ist die Wirkung
 der Erinnerung als Katalysator, der die Erlebnissubstanz zu klären
-imstande ist.[^21](#item-literature.xhtml#fntarg_21)
+imstande ist.[^21]
 
 **3-26** So monierte Eberhardt Günther im Verlag bei
 Vorbesprechungen, dass Wülff im Laufe des Buches keinerlei Entwicklung
 durchmacht, weder im negativen noch im positivem
-Sinne.[^22](#item-literature.xhtml#fntarg_22) So war es vom Autor
+Sinne.[^22] So war es vom Autor
 wohl beabsichtigt. Folglich fungieren Wülffs inneren Monologe weniger
 als Selbstfindung, sondern hauptsächlich als Rechtfertigung Huppel
 gegenüber. Im Gegensatz zu letzterem hat Wülff keine Ideale, um die er
@@ -509,13 +509,13 @@ Gerhard Zwerenz äußerte sich im Rundfunk:
 
 > Das rätselhafte Buch kann ebenso ein raffiniertes, opportunistisches
 > Bekenntnis zum DDR-Untertanen sein wie eine ungeheuerliche sarkastische
-> Satire darauf. [^23](#item-literature.xhtml#fntarg_23)
+> Satire darauf. [^23]
 
 Mit anderen Worten: gibt Wülff nur vor, zufrieden zu sein, oder ist er
 es wirklich? Für Rüdiger Bernhardt scheint letzteres
 der Fall zu sein: “... seine Zufriedenheit wird ihm nicht zum Problem,
 denn als Problem erscheint nur, daß Wülff die immer kleinere Ausführung
-von Zufriedenheit sucht.”[^24](#item-literature.xhtml#fntarg_24) Und
+von Zufriedenheit sucht.”[^24] Und
 meint damit Wülffs neue Gefährtin. Wenn der Roman _Es geht seinen
 Gang..._ schon nicht rückgängig gemacht werden konnte, mußte folgender
 Ratschlag an den Rezipienten her:
@@ -523,7 +523,7 @@ Ratschlag an den Rezipienten her:
 
 > Im Ensemble der Gegenwartsliteratur erhält dieser Roman seinen
 > Stellenwert deswegen auch durch das Korrektiv, das der kritische Leser
-> immer bilden sollte.[^25](#item-literature.xhtml#fntarg_25)
+> immer bilden sollte.[^25]
 
 Dies ist insofern interessant, als daß die Fähigkeit “des
 Korrektiv-Bildens” dem Leser bei Christoph Heins Novelle _Der fremde
@@ -538,10 +538,10 @@ Privileg ausgeschlossen. Auch das wirkt sympathiesteuernd.
 **3-27** Heinz Hillmann definiert Subjektivität “als
 das sich im Unglück über seine persönliche Beschränktheit, im
 hellsichtig werdenden Zorn über die allgemeinen Beschränkungen erfahrene
-Subjekt...”[^26](#item-literature.xhtml#fntarg_26) , um daraus auf
+Subjekt...”[^26] , um daraus auf
 Wülff abzuleiten, dass dessen “Subjektivität sich ausprägt als Negation
 des unglücklichen Bewußtseins, das wir ja seit Christa T. zur Genüge
-kennen.”[^27](#item-literature.xhtml#fntarg_27)
+kennen.”[^27]
 
 > Aber diese Negation ist durch und durch widersprüchlich und deshalb
 > höchst instabil. Um den Widerspruch von Ideal und schlechter
@@ -557,7 +557,7 @@ kennen.”[^27](#item-literature.xhtml#fntarg_27)
 > er will. Die große Persönlichkeit einer älteren Generation wird tragisch
 > gebrochen; die kleine ist - aus solchen Gründen - sogleich gebrochene
 > Persönlichkeit, die aber trotz ihrer Reduktion noch ständig kollidiert
-> und damit tragikomisch wird.[^28](#item-literature.xhtml#fntarg_28)
+> und damit tragikomisch wird.[^28]
 
 Wülff hat jedoch kein “Ideal” aufzugeben für etwas anderes. Für ihn gab
 es immer schon die ihn umgebende Realität, einschließlich verlogener
@@ -576,7 +576,7 @@ Wülff habe eine Objektrolle inne und sie auch akzeptiert:
 > withdrawing from active public existence and eschewing attempts at
 > social change, Wolfgang becomes an object , a victim of ...
 > relationsships of domination, which he accepts as an alien fate from
-> without.[^29](#item-literature.xhtml#fntarg_29)
+> without.[^29]
 
 Außer daß er Wülffs Privatleben als “meaningless” abwertet (Claudias aus
 _dem fremden Freund_ wäre es dann um so mehr), stellt sich analog der
@@ -603,109 +603,10 @@ Hans-Joachim Maaz aus der Psychotherapie:
 > die Entwicklung stoppte und nichts mehr richtig funktionierte. Es ist
 > so, als wenn ein Kind mit erfrorenen Fingern zu seiner Mutter sagen
 > würde: Das hast du nun davon, warum ziehst du mir keine Handschuhe an!
-> [^30](#item-literature.xhtml#fntarg_30)
+> [^30]
 
 “Kein Stoff für eine Tragödie” (218), aber für _Es geht seinen Gang oder
 Mühen in unserer Ebene_.
-
-[^1](#item-literature.xhtml#fnsrc_1) Loest, Erich: Es geht seinen
-Gang oder Mühen in unserer Ebene, München 1994 (dtv 10430), alle Zitate
-folgen dieser Ausgabe
-
-[^2](#item-literature.xhtml#fnsrc_2) Stanzel, Franz K.: Theorie des
-Erzählens, Göttingen 1995, S. 128f
-
-[^3](#item-literature.xhtml#fnsrc_3) Mohr, Heinrich: Mühen in
-unserer Ebene. Erich Loest und sein neuer Roman. In: Deutschland-Archiv,
-H.8/1978, Köln 1978, S. 876
-
-[^4](#item-literature.xhtml#fnsrc_4) Fritz R. Fries in: Loest,
-Erich: Der vierte Zensor. Vom Entstehen und Sterben eines Romans in der
-DDR. Köln 1984, S. 36
-
-[^5](#item-literature.xhtml#fnsrc_5) Jäger, Andrea:
-Schriftsteller-Identität und Zensur. In: Literatur in der DDR,
-Rückblicke, Sonderband Text + Kritik, Hrg. Heinz Ludwig Arnold und
-Frauke Meyer-Gosau, München 1991, S. 140, siehe auch Fußn. 21
-
-[^6](#item-literature.xhtml#fnsrc_6) Kulturpolitisches Wörterbuch,
-Berlin 1978 (Dietz-Verlag), S. 553
-
-[^7](#item-literature.xhtml#fnsrc_7) Hillmann, Heinz: Subjektivität
-in der Prosa. In: Hansers Sozialgeschichte der deutschen Literatur, Bd.
-11, Hrg. Hans Jürgen Schmitt, München Wien 1983, S. 433
-
-[^8](#item-literature.xhtml#fnsrc_8) Biermann, Wolf: Nur wer sich
-ändert, bleibt sich treu. In: Thomas Anz (Hrg): Der Literaturstreit im
-vereinten Deutschland, München 1991, S. 154
-
-[^9](#item-literature.xhtml#fnsrc_9) Heiner Müller zit. n.:
-Emmerich, Wolfgang: Kleine Literaturgeschichte der DDR. Darmstadt 1989,
-S. 16
-
-[^10](#item-literature.xhtml#fnsrc_10) Heinz Hillmann: s. Fußn. 57,
-S. 432
-
-[^11](#item-literature.xhtml#fnsrc_11) Neubert, Werner: Es geht
-seinen Gang. In: Sonntag Nr. 31, 1978, S. 4f
-
-[^12](#item-literature.xhtml#fnsrc_12) Bernhardt, Rüdiger: Die Mühen
-des Wolfgang Wülf. In: Neue Deutsche Literatur, H. 11/1978, S. 141
-
-[^13](#item-literature.xhtml#fnsrc_13) zit. n.: Loest, Erich: Der
-vierte Zensor. Vom Entstehen und Sterben eines Romans in der DDR. Köln
-1984, S. 20
-
-[^14](#item-literature.xhtml#fnsrc_14) ebd. S. 24
-
-[^15](#item-literature.xhtml#fnsrc_15) Alexander von Bormann, zit.
-n.: Loest, Erich: Der vierte Zensor. Vom Entstehen und Sterben eines
-Romans in der DDR. Köln 1984, 62
-
-[^16](#item-literature.xhtml#fnsrc_16) Grunenberg, Antonia: Aufbruch
-der inneren Mauer. Politik und Kultur in der DDR 1971-1990, Bremen 1990,
-S. 193
-
-[^17](#item-literature.xhtml#fnsrc_17) Emmerich, Wolfgang: Kleine
-Literaturgeschichte der DDR. Darmstadt 1984, S. 203
-
-[^18](#item-literature.xhtml#fnsrc_18) Mohr, Heinrich: Mühen in
-unserer Ebene. Erich Loest und sein neuer Roman. In: Deutschland-Archiv,
-H.8/1978, Köln 1978, S. 877
-
-[^19](#item-literature.xhtml#fnsrc_19) Stanzel, Franz K.: Theorie
-des Erzählens, Göttingen 1995, S. 271
-
-[^20](#item-literature.xhtml#fnsrc_20) ebd. S. 272
-
-[^21](#item-literature.xhtml#fnsrc_21) vgl. ebd. S. 273
-
-[^22](#item-literature.xhtml#fnsrc_22) vgl. Loest, Erich: Der vierte
-Zensor. Vom Entstehen und Sterben eines Romans in der DDR. Köln 1984, S.
-26
-
-[^23](#item-literature.xhtml#fnsrc_23) ebd. S. 37
-
-[^24](#item-literature.xhtml#fnsrc_24) Bernhardt, Rüdiger: Die Mühen
-des Wolfgang Wülff. In: Neue Deutsche Literatur, H. 11/1978, S. 145
-
-[^25](#item-literature.xhtml#fnsrc_25) ebd. S. 148
-
-[^26](#item-literature.xhtml#fnsrc_26) Hillmann, Heinz:
-Subjektivität in der Prosa. In: Hansers Sozialgeschichte der deutschen
-Literatur, Bd. 11, Hrg. Hans Jürgen Schmitt, München Wien 1983, S. 386
-
-[^27](#item-literature.xhtml#fnsrc_27) ebd. S. 432
-
-[^28](#item-literature.xhtml#fnsrc_28) ebd. S. 432f
-
-[^29](#item-literature.xhtml#fnsrc_29) Knowlton, James: »Mit dem
-Sozialismus gewachsen« Erich Loest´s Novel Es geht seinen Gang oder
-Mühen in unserer Ebene And Recent GDR Cultural Policy. In:
-Neophilologus, Bd. 68, H.4, Oktober 1984, Groningen, S. 594
-
-[^30](#item-literature.xhtml#fnsrc_30) Maaz, Hans Joachim: Der
-Gefühlsstau. Ein Psychogramm der DDR. München 1992, S. 93
 
 ## Literaturverzeichnis
 
@@ -760,3 +661,34 @@ Spiegel ihrer Literatur, Hrsg. v. Gisela Helwig, Köln 1986
 Schmitt, Hans Jürgen: Die journalistische Bedeutung neuerer
 Erzählformen. In: Hansers Sozialgeschichte der deutschen Literatur, Bd.
 11, Hrg. Hans Jürgen Schmitt, München Wien 1983
+
+[^1]: Loest, Erich: Es geht seinen Gang oder Mühen in unserer Ebene, München 1994 (dtv 10430), alle Zitate folgen dieser Ausgabe
+[^2]: Stanzel, Franz K.: Theorie des Erzählens, Göttingen 1995, S. 128f
+[^3]: Mohr, Heinrich: Mühen in unserer Ebene. Erich Loest und sein neuer Roman. In: Deutschland-Archiv, H.8/1978, Köln 1978, S. 876
+[^4]: Fritz R. Fries in: Loest, Erich: Der vierte Zensor. Vom Entstehen und Sterben eines Romans in der DDR. Köln 1984, S. 36
+[^5]: Jäger, Andrea: Schriftsteller-Identität und Zensur. In: Literatur in der DDR, Rückblicke, Sonderband Text + Kritik, Hrg. Heinz Ludwig Arnold und Frauke Meyer-Gosau, München 1991, S. 140, siehe auch Fußn. 21
+[^6]: Kulturpolitisches Wörterbuch, Berlin 1978 (Dietz-Verlag), S. 553
+[^7]: Hillmann, Heinz: Subjektivität in der Prosa. In: Hansers Sozialgeschichte der deutschen Literatur, Bd. 11, Hrg. Hans Jürgen Schmitt, München Wien 1983, S. 433
+[^8]: Biermann, Wolf: Nur wer sich ändert, bleibt sich treu. In: Thomas Anz (Hrg): Der Literaturstreit im vereinten Deutschland, München 1991, S. 154
+[^9]: Heiner Müller zit. n.: Emmerich, Wolfgang: Kleine Literaturgeschichte der DDR. Darmstadt 1989, S. 16
+[^10]: Heinz Hillmann: s. Fußn. 57, S. 432
+[^11]: Neubert, Werner: Es geht seinen Gang. In: Sonntag Nr. 31, 1978, S. 4f
+[^12]: Bernhardt, Rüdiger: Die Mühen des Wolfgang Wülf. In: Neue Deutsche Literatur, H. 11/1978, S. 141
+[^13]: zit. n.: Loest, Erich: Der vierte Zensor. Vom Entstehen und Sterben eines Romans in der DDR. Köln 1984, S. 20
+[^14]: ebd. S. 24
+[^15]: Alexander von Bormann, zit. n.: Loest, Erich: Der vierte Zensor. Vom Entstehen und Sterben eines Romans in der DDR. Köln 1984, 62
+[^16]: Grunenberg, Antonia: Aufbruch der inneren Mauer. Politik und Kultur in der DDR 1971-1990, Bremen 1990, S. 193
+[^17]: Emmerich, Wolfgang: Kleine Literaturgeschichte der DDR. Darmstadt 1984, S. 203
+[^18]: Mohr, Heinrich: Mühen in unserer Ebene. Erich Loest und sein neuer Roman. In: Deutschland-Archiv, H.8/1978, Köln 1978, S. 877
+[^19]: Stanzel, Franz K.: Theorie des Erzählens, Göttingen 1995, S. 271
+[^20]: ebd. S. 272
+[^21]: vgl. ebd. S. 273
+[^22]: vgl. Loest, Erich: Der vierte Zensor. Vom Entstehen und Sterben eines Romans in der DDR. Köln 1984, S. 26
+[^23]: ebd. S. 37
+[^24]: Bernhardt, Rüdiger: Die Mühen des Wolfgang Wülff. In: Neue Deutsche Literatur, H. 11/1978, S. 145
+[^25]: ebd. S. 148
+[^26]: Hillmann, Heinz: Subjektivität in der Prosa. In: Hansers Sozialgeschichte der deutschen Literatur, Bd. 11, Hrg. Hans Jürgen Schmitt, München Wien 1983, S. 386
+[^27]: ebd. S. 432
+[^28]: ebd. S. 432f
+[^29]: Knowlton, James: »Mit dem Sozialismus gewachsen« Erich Loest´s Novel Es geht seinen Gang oder Mühen in unserer Ebene And Recent GDR Cultural Policy. In: Neophilologus, Bd. 68, H.4, Oktober 1984, Groningen, S. 594
+[^30]: Maaz, Hans Joachim: Der Gefühlsstau. Ein Psychogramm der DDR. München 1992, S. 93

@@ -106,6 +106,45 @@ iframe[src*="youtube-nocookie.com/embed"] {
   border-radius: 4px;
 }
 
+/* Fußnoten (Markdown [^n]) */
+.footnotes {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--color-border);
+  font-size: 0.85rem;
+}
+
+.footnotes h2 {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--color-muted);
+}
+
+.footnotes li {
+  margin: 0.4rem 0;
+}
+
+.footnotes p {
+  margin: 0;
+}
+
+[data-footnote-ref] {
+  text-decoration: none;
+}
+
+[data-footnote-ref]::before {
+  content: "[";
+}
+
+[data-footnote-ref]::after {
+  content: "]";
+}
+
+[data-footnote-backref] {
+  text-decoration: none;
+}
+
 .meta {
   color: var(--color-muted);
   font-size: 0.9rem;

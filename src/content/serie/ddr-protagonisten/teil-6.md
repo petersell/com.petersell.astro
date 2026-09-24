@@ -28,7 +28,7 @@ Tod ihres Freundes und Liebhabers zum Anlaß, das letzte, mit ihm von
 Zeit zu Zeit verbrachte Jahr Revue passieren zu lassen. Ihr mangelt es
 zumindestens äußerlich an nichts, sie ist zufrieden. Ihr Leben “verläuft
 mit der Stupidität eines Perpendikelschlages” (197)
-[^1](#item-literature.xhtml#fntarg_1) und erfährt nur durch die
+[^1] und erfährt nur durch die
 Umstellung auf die Sommerzeit ein wenig Abwechslung. Die Tatsache der
 Sprachäußerung durch die Ich-Erzählerin allein signalisieren schon die
 Bewältigung der Geschehnisse. Die schwierige Wahl des richtigen
@@ -63,7 +63,7 @@ Heins Novelle:
 > auf eine Verständigung über das persönliche Betroffensein und Versagen
 > einer Figur in den sie umgebenden Verhältnissen reduzieren, sondern
 > hinterfragt durch sie diese Verhältnisse selbst.
-> [^2](#item-literature.xhtml#fntarg_2)
+> [^2]
 
 In diesem umfassenden Einleitungsabsatz zur Novellenrezension ist
 anstelle einer Protagonistin und ihrer Identität zu Recht vom Bild eines
@@ -98,7 +98,7 @@ nähert sich dem Distinktionsmerkmal über den “Anti-Helden” Hein´scher Pr�
 > solchen Typus nicht finden. Alle hier genannten Autoren präsentieren
 > Helden, die aus der Ehe aussteigen, aus der verlogenen Moral, von der
 > Karriereleiter abstürzen, aber sie überwinden die ihnen angetanenen
-> Verletzungen oder Zumutungen.[^3](#item-literature.xhtml#fntarg_3)
+> Verletzungen oder Zumutungen.[^3]
 
 Auch Marons Josefa ließe sich neben Becker und Loest stellen, denn ob
 Marons Hauptfigur die Zumutungen überwindet oder nicht, ist in diesem
@@ -155,7 +155,7 @@ Aufnahme der Novelle auch außerhalb der DDR äußerte er sich:
 > Vielleicht liegt darin der Grund, warum das Buch über die DDR hinaus
 > wirken konnte. Das ist aber ein nachträglich angestellte Vermutung und
 > war kein Anlaß zum Schreiben. Aus Theorie entsteht keine
-> Literatur.[^4](#item-literature.xhtml#fntarg_4)
+> Literatur.[^4]
 
 Die “Kosten der Zivilisation” sind inzwischen bei der Betrachtung des
 fremden Freundes zu einem unverzichtbaren Schlüsselwort geworden. Daß
@@ -184,7 +184,7 @@ Probleme nicht lösen lassen.
 > wozu sich also damit beschäftigen. (115)
 
 Entgegen ihren Erfahrungen nutzt sie einen Kurzurlaub, um in die Stadt
-ihrer Kindheit, nach G. [^5](#item-literature.xhtml#fntarg_5) zu
+ihrer Kindheit, nach G. [^5] zu
 fahren. Im Mittelpunkt ihrer Reise in die Vergangenheit steht die
 Erinnerung an den Verlust von zwei geliebten Menschen. Der
 schmerzlichste Verlust vielleicht ihres ganzen Lebens ist der der
@@ -218,7 +218,7 @@ totalitären Gesellschaft.
 > children by talking about events such as the 1953 in the GDR which,
 > officially, should never have happened and therefore never did. The
 > result is again fatal: Claudia loses all interest in a spirit of
-> inquiry. [^6](#item-literature.xhtml#fntarg_6)
+> inquiry. [^6]
 
 **6-08** Katharina ist gläubig und in der Jungen
 Gemeinde aktiv. Die beiden Mädchen wollen die Entscheidung, welche die
@@ -243,22 +243,22 @@ Form des Konflikts nur die Oberfläche beschreibt. Anlaß der Verletzung
 war der Streit mit der Schulfreundin, ein Streit aus verletzter Liebe,
 der - in den Schulen der fünfziger Jahren durchaus üblich - die Form
 einer pseudopolitischen Auseinandersetzung zwischen Kindern
-annahm.”[^7](#item-literature.xhtml#fntarg_7) Peter Peters beschreibt die
+annahm.”[^7] Peter Peters beschreibt die
 identitätsstiftende Wirkung Katharinas für Claudia als die eines
 Spiegels, “in dem ihr Ich sein gewünschte Entsprechung fand. Claudias
 Objektliebe fand in Katharina die narzißtische Rückkopplung, die
 ausblieb, als ein Dritter dazwischen
-trat.”[^8](#item-literature.xhtml#fntarg_8)
+trat.”[^8]
 
 **6-09** Claudia verliert noch ein weiteres Idol: ihren
-“Vaterersatz”[^9](#item-literature.xhtml#fntarg_9) Onkel Gerhard.
+“Vaterersatz”[^9] Onkel Gerhard.
 “Er war für mich wie ein Großvater, und ich glaube, auch er betrachtete
 mich als sein Ziehkind...” (154). Der Onkel hatte in der NS-Zeit als
 Sozialdemokrat die Mitglieder der SPD und KPD aus G. an die Nazis
 verraten. Er wird als zweiundsiebzigjähriger zu fünf Jahren Zuchthaus
 verurteilt. Zum zweiten Mal muß sie erfahren, daß die Identifikation
 (Vaterersatz) mit einem geliebten Menschen sich im Gegensatz zur
-“öffentlichen Meinung”[^10](#item-literature.xhtml#fntarg_10)
+“öffentlichen Meinung”[^10]
 befindet.
 
 **6-10** Claudia hat nach der Verurteilung des
@@ -271,13 +271,13 @@ historisch konstruierte Konnotationen oder Mythen zurück: “the myth of
 sexuality as both the core of identity and as extra-discursive
 'nature'... (Claudia beschreibt ihren Freund Henry als Stadtmensch und
 vermittelt somit von sich den Eindruck eines
-'Naturmenschen')”[^11](#item-literature.xhtml#fntarg_11)
+'Naturmenschen')”[^11]
 
 > On the other hand, Claudia´s story also mobilizes the myth of 'woman as
 > the reprensentation of sexuality'... Hein´s text works with and relies
 > upon the reader´s culturally and historically fixed associations of
 > woman, nature, and sexuality.
-> [^12](#item-literature.xhtml#fntarg_12)
+> [^12]
 
 In der Tat mag dem Leser die Assoziation von Sexualität und Identität
 bei einem weiblichen Helden leichter fallen als bei einem 16jährigen
@@ -346,7 +346,7 @@ gravierenden, vom Autor kritisch ausgestellten Erfahrungen mit Eltern,
 Lehrern und Instanzen weisen wohl in Richtung auf eine Lebenshaltung, in
 der die Not des Liebesentzugs in die “Tugend” des Verzichts auf innige
 menschliche Bindungen umgeschlagen
-ist.”[^13](#item-literature.xhtml#fntarg_13)
+ist.”[^13]
 
 **6-15** Was sie unter dem Eindruck ihrer Kindheit
 nachfolgend zu etablieren versucht, ist ein Lebenskonzept bar jeder
@@ -365,7 +365,7 @@ vierzigjährigen Protagonistin zur Disposition steht.
 > Im Buch wird gezeigt, wie nach dem Programm und der Praxis Claudias die
 > Zielstellung funktioniert, das Miteinander der Menschen auf strenger
 > Umzäunung der Privatsphäre des einzelnen zu
-> begründen.[^14](#item-literature.xhtml#fntarg_14)
+> begründen.[^14]
 
 Der Versuch Claudias, über ihre Vergangenheit ein anderes Verständnis zu
 ihrer Gegenwart zu erhalten, scheitert.
@@ -395,7 +395,7 @@ dabei eine weitere Komponente der Novelle:
 > can convince herself that her caution is both common sense and a symptom
 > of a general malaise beyond her control. Her philosophy, whatever truth
 > it might contain, is a psychological stratagem.
-> [^15](#item-literature.xhtml#fntarg_15)
+> [^15]
 
 Es ist von “Zivilisation” die Rede, die Claudias Lebenskonzept der
 Abschottung wesentlich mit hervorgebracht hat. Es entsteht der Eindruck
@@ -416,7 +416,7 @@ geht davon aus, daß der Text auf zweierlei Art gelesen werden muß.
 unterscheiden, indem er den psychologischen Subtext mitliest. Zweitens
 muß der Leser zwischen der Erzählerin und ihrer Wahrnehmung der Umwelt
 unterscheiden, indem er den sozialen Kontext
-mitliest.”[^16](#item-literature.xhtml#fntarg_16) Die erste
+mitliest.”[^16] Die erste
 Leseperspektive nennt er das “hermeneutische Lesemodell”:
 
 > Es operiert mit der Unterscheidung zwischen Oberfläche und Tiefe,
@@ -429,13 +429,13 @@ Leseperspektive nennt er das “hermeneutische Lesemodell”:
 > moderne Erzählung des Subjekts, auch wenn sie in der entfremdeten Form
 > des abwesenden Subjekts präsentiert wird, da diese Abwesenheit den Leser
 > an dessen Stelle setzt, ihn zum Mitautor bzw. zum Psychoanalytiker
-> macht.[^17](#item-literature.xhtml#fntarg_17)
+> macht.[^17]
 
 Letzteres erklärt, warum alle Rezensenten von einer Protagonistin
 ausgehen, “dessen Modellierung schon längst hinter ihm liegt, wenn es zu
 sprechen beginnt. Dieses Subjekt ist 'fertig', im Zustand seiner
 (beinahe) perfekten
-Panzerung.”[^18](#item-literature.xhtml#fntarg_18) Der Entschluß zur
+Panzerung.”[^18] Der Entschluß zur
 Etablierung dieser “Lebensstrategie” liegt in Claudias Jugend. Ein
 Kommilitone wirft ihr vor, “bewußtlos wie ein Tier zu leben.” (103) Auch
 hier kommt Franz Stanzels Hinweis auf die Erzähldistanz zum Tragen: diesmal in Form einer völligen Entfremdung
@@ -448,7 +448,7 @@ Roberts das “funktionale Modell”. Es “überlagert die blockierte Erzählun
 Subjekts mit der Perspektive des Beobachters. Beobachter, Verfremdung
 und modellhafte Konstruktion gehören zusammen: statt Selbstdeutung haben
 wir die kalte, distanzierte Registrierung des
-Alltagslebens.”[^19](#item-literature.xhtml#fntarg_19)
+Alltagslebens.”[^19]
 Hermeneutisches und funktionales Modell (Vergangenheit und Gegenwart)
 führt Roberts in einem “symptomatischen Modell” wieder zusammen:
 Claudias Verlust der Vergangenheit und ihre Selbstentfremdung als
@@ -458,7 +458,7 @@ Zivilisation”.
 
 **6-19** Diese Trennung der “Leseperspektiven” mag
 Aufschluß über das Unbehagen einiger DDR-Rezensenten mit dem Hein´schen
-Text geben. So zweifelt Rüdiger Bernhardt an der Kompetenz des Lesers mit dessen “vorhandener Erfahrung”[^20](#item-literature.xhtml#fntarg_20). Dieser Zweifel
+Text geben. So zweifelt Rüdiger Bernhardt an der Kompetenz des Lesers mit dessen “vorhandener Erfahrung”[^20]. Dieser Zweifel
 konzentriert sich aber weniger auf das “hermeneutische Lesemodell”,
 sondern stößt sich an Claudia als Beobachterin. Er rekapituliert die
 anderen Figuren, um festzustellen, daß “alle von ähnlichen Eigenschaften
@@ -474,7 +474,7 @@ Bild der Gesellschaft macht Bernhardt Sorge.
 > dadurch zu begegnen, daß man der kritischen Distanz des Lesers vertraut.
 > Es bleibt dahingestellt, ob diese kritische Distanz mit der vorhandenen
 > Erfahrung des Publikums im Umgang mit Literatur möglich
-> ist.[^21](#item-literature.xhtml#fntarg_21)
+> ist.[^21]
 
 Die “kritische Distanz” will Bernhardt auch auf die Claudia als
 Beobachterin erweitert wissen. Doch hier kann der Leser zu Recht
@@ -492,14 +492,14 @@ Zweitens bekäme die Novelle den Charakter einer Episode. Der Leser
 könnte sich mit dem Hinweis auf diese 'guten Figuren' zurücklehnen und
 wäre aus der “grundsätzlichen Aufforderung zur Auseinandersetzung, zur
 Kritik und Selbstkritik an sozialen
-Verhaltensmustern”[^22](#item-literature.xhtml#fntarg_22) entlassen.
+Verhaltensmustern”[^22] entlassen.
 So sieht denn Hörnigk gerade den
 Verweis auf “Korrekturbedürftigkeit” auch seitens des Lesers darin, daß
 Claudias Umgebung ihre Haltung nicht in Frage stellt
-[^23](#item-literature.xhtml#fntarg_23). Doch Bernhardt hoffte
+[^23]. Doch Bernhardt hoffte
 ebenso wie bei Loest fünf Jahre zuvor, daß die düsteren Erfahrungen
 Claudias “im Verhältnis zwischen point of view und Erzählerstandpunkt
-relativiert werden”[^24](#item-literature.xhtml#fntarg_24).
+relativiert werden”[^24].
 
 **6-20** Antonia
 Grunenberg hebt wie das Gros der Rezensenten die kritische Auseinandersetzung mit der Person Claudias, der “modellhaften Konstruktion” der Novelle hervor.
@@ -509,7 +509,7 @@ Doch ging sie von einer homogenen DDR-Rezeption aus, wenn sie schreibt:
 > literarischen Neuerungen noch immer auf das Niveau der
 > Lebenshilfeliteratur und der positiven Helden eingeschworen ist, als
 > Provokation aufgegriffen wird, versteht sich von
-> selbst.[^25](#item-literature.xhtml#fntarg_25)
+> selbst.[^25]
 
 Wieder wird Rüdiger
 Bernhardt und Genossen mit der gesamten DDR-Leserschaft gleichgesetzt. Man könnte
@@ -518,17 +518,17 @@ Rezeption des Struwwelpeters in der Lage. So abwegig ist dieser
 Vergleich nicht, wenn
 Kaufmann, Hörnigk u.a. vom “Warnbild” sprechen und Niven von der Novelle
 als “piece of psychotherapy by example: moral shock as
-corrective.”[^26](#item-literature.xhtml#fntarg_26) Es ist ein
+corrective.”[^26] Es ist ein
 sinnloses Unterfangen, Christoph Hein pädagogische Ambitionen eines
 Bertolt Brecht unterstellen zu wollen, aber jeder DDR-Rezipient konnte zumindest dessen Schema des Epischen Theaters abrufen, um sich so rechtzeitig der “Mitautorenschaft” zu gegenwärtigen: “Die epische Form macht den Zuschauer zum Betrachter, aber weckt seine Aktivität, erzwingt von ihm
-Entscheidungen...”[^27](#item-literature.xhtml#fntarg_27)
+Entscheidungen...”[^27]
 
 **6-21** Rüdiger Bernhardt war 1983 nur einer von mehreren
 Rezensenten der Novelle in den “Weimarer Beiträgen”. Im selben Beitrag
 “Für und wider” sprach schon Brigitte Böttcher vom Hein´schen
-Text nur als “Modell”[^28](#item-literature.xhtml#fntarg_28) und
+Text nur als “Modell”[^28] und
 Bernd Leistner vom
-“Kunst-Stück”[^29](#item-literature.xhtml#fntarg_29) . Letzterer ist
+“Kunst-Stück”[^29] . Letzterer ist
 es auch, der Heins Versuch, in den Schlußzeilen auch dem wankelmütigsten
 Leser die Identifikation mit der Protagonistin unmöglich zu machen, als
 nicht unbedingt notwendig erachtet:
@@ -538,7 +538,7 @@ nicht unbedingt notwendig erachtet:
 > und Täuschungsfunktion (in bezug auf die sich mitteilende Figur)
 > kenntlich wird. Vielleicht läßt er diese Funktion mitunter allzuoft
 > hervortreten, so etwa in den platt geratenen zwanzig Schlußzeilen der
-> Novelle.[^30](#item-literature.xhtml#fntarg_30)
+> Novelle.[^30]
 
 Es kann also trotz des neuen Kommunikationsmodells des Autors nicht von
 einem unbeweglichen, auf “Lebenshilfeliteratur eingeschworenen”
@@ -550,7 +550,7 @@ Begriff des “sozialistischen kritischen Realismus” zusammen.
 > gibt, indem sie Defizite vorstellt, Bilder, hinter denen das steckt, was
 > gewünscht, erhofft wird, die die Phantasie mobilisieren, aber offen sind
 > für konkretere Erfüllungen an positiven
-> Gehalt.[^31](#item-literature.xhtml#fntarg_31)
+> Gehalt.[^31]
 
 Nun rechtfertigt Claudia ihr Lebenskonzept neben den deformierten
 Beziehungen um sie herum auch mit dem Hinweis auf die Zivilisation als
@@ -560,7 +560,7 @@ Verdrängungsmechanismus. Doch:
 > Schriftsteller prägnanter und schärfer beschrieben. Neu bei Hein ist die
 > Verschränkung von tradierten bürgerlichen Sozialisationsstrategien mit
 > realsozialistischer
-> Deformation.[^32](#item-literature.xhtml#fntarg_32)
+> Deformation.[^32]
 
 Hannes Krauss´
 Feststellung ist auch für den DDR-Rezipienten zuzustimmen. Nur das Neue wäre dann besser andersherum zu bezeichnen: neu ist die “Verschränkung
@@ -591,10 +591,10 @@ Grundeinstellung als Voraussetzung seines Kommunikationsmodells.
 
 > “Ich bin nicht der Auffassung, ich könnte oder sollte Leute auffordern,
 > in einer bestimmten Weise zu leben oder zu
-> denken”[^33](#item-literature.xhtml#fntarg_33)
+> denken”[^33]
 >
 > ”Ich ... bin nicht klüger als der Leser und kann nur in Dialog mit ihm
-> treten.”[^34](#item-literature.xhtml#fntarg_34)
+> treten.”[^34]
 
 Einen Dialog mit Menschen, “die über die gleiche Vielzahl an
 Informationen verfügen”. Ohne diese Einstellung wären die Anspielungen
@@ -605,7 +605,7 @@ politische Dimension in Heins Schreiben auszumachen:
 
 > ...namely the attempt to realize through the formal structure of his
 > texts that which is lacking in the political system: the idea of
-> participatory democracy. [^35](#item-literature.xhtml#fntarg_35)
+> participatory democracy. [^35]
 
 Würde man bei dem Bild der demokratischen Autorenschaft bleiben, wäre es
 nur eine Autorenschaft im Rahmen einer sogenannten
@@ -613,7 +613,7 @@ http://de.wikipedia.org/wiki/Sozialistische_Demokratie[sozialistischen
 Demokratie]: mitgestalten nur in vorgeschriebener Weise. Hein gibt durch
 zu viele künstlerische Mittel dem Leser zu verstehen, wie die
 Reflexionen seiner Protagonistin zu deuten sind. Die Diagnose des
-Leser-Psychoanalytikerslink: #item-literature.xhtml#fntarg_36[^36^] ist
+Leser-Psychoanalytikers[^36] ist
 vorgegeben. Folgt der Leser nicht mehr dem Modell der Mitautorenschaft,
 ist er lediglich Rezipient “auf dem Niveau der Lebenshilfeliteratur”.
 Diese Art der Rezeption des Werkes wäre, wie bereits erwähnt, ohne
@@ -627,14 +627,14 @@ zu unterlaufen.
 > werden... Mit anderen Worten, das wirkliche Subjekt bzw. potentielle
 > Subjekt des Textes ist der Leser. [...] er soll durch ihren (Claudias d.
 > A.) Text auf den ängstlich verdeckten / aufgedeckten Subtext
-> schauen...[^37](#item-literature.xhtml#fntarg_37)
+> schauen...[^37]
 
 Wenn ein “Subjekt” als Mitautor etwas machen “soll” (!), erhält nicht
 nur die “demokratische Autorenschaft”, sondern auch der Begriff
 “Subjekt” neuerlichen Erklärungsbedarf. Wichtiger in diesem Zusammenhang
 ist jedoch die Tatsache, daß “Identität zur wirkungsästhetischen
 Intention wird, die auf den Rezipienten bezogen
-wird”[^38](#item-literature.xhtml#fntarg_38). Diese Intention ist
+wird”[^38]. Diese Intention ist
 auf keinem Fall mit einer Protagonistin als Identifikationsfigur zu
 realisieren. Der Ich-Erzähler mit seiner vermittelten Authentizität
 bietet aber geradezu ein verlockendes Angebot zur Identifikation. Wie
@@ -643,7 +643,7 @@ Lesers von seiner Protagonistin zu garantieren?
 
 **6-24** Der Novelle ist wie ein Motto in Kursivschrift
 ein Traum, “ein fernes Erinnern”
-vorangestellt[^39](#item-literature.xhtml#fntarg_39). Ein
+vorangestellt[^39]. Ein
 Ich-Erzähler sieht sich unter Lebensgefahr gezwungen, eine Brücke zu
 überqueren. Der Begleiter, dessen Gesichtszüge verschwommen bleiben,
 krallt sich im Arm des Erzählers fest. Es bleibt unklar, ob die Passage
@@ -668,7 +668,7 @@ und die Unmöglichkeit des Identifizierens mit ihm durch den Leser. Der
 Traum hat, im Gegensatz zum Beispiel zu Josefas geträumter
 Frauentagsansprache, einen strengen strukturellen Bezug zum folgenden
 Text. “The story that follows is an enactment of the dream
-scene.”[^40](#item-literature.xhtml#fntarg_40) Tatsächlich sind die
+scene.”[^40] Tatsächlich sind die
 möglichen Parallelen zum Text glaubwürdig deutbar. Dies würde jedoch
 nicht die Existenz des kursiven Textes als Prolog erklären. Für Peters
 ist das Ende der Traumsequenz deutlicher Hinweis darauf, daß diesem
@@ -682,7 +682,7 @@ Prolog als Allegorie eine genaue Funktion im Text zukommt.
 > Beginn eine Rezeptionsperspektive vorgegeben, die die 'realen'
 > Oberflächenstrukturen fragwürdig macht und als bloßen Ausdruck anderer
 > tiefgreifender Sachverhalte kennzeichnet.
-> [^41](#item-literature.xhtml#fntarg_41)
+> [^41]
 
 **6-25** Trotz dieser Einleitung und des von Beginn an
 durchgehaltenen kühlen Tons ist eine mögliche Identifikation des Lesers
@@ -721,7 +721,7 @@ die Mühe des Zählens:
 > Alltagspraktiken eines gewohnheitsmäßigen Zusammenlebens zwischen Mann
 > und Frau... Neun Ehen vergegenwärtigt sie sich während ihres Monologes;
 > und das Motiv der disparaten Ehe durchzieht auf diese Weise die Novelle
-> als eine Art Zentralmotiv. [^42](#item-literature.xhtml#fntarg_42)
+> als eine Art Zentralmotiv. [^42]
 
 So bleiben ihr z. B. die “Abgründe” von Fred und Maria auch nach Henrys
 Tod erhalten. “Im Sommer fuhr ich wie in jedem Jahr an die See. Ich
@@ -761,11 +761,11 @@ begreift, der einen Bezug zur Vergangenheit herstellt. “Wie das
 Individuum sich zu seiner Geschichte stellt, wird zum entscheidenden
 Aspekt seiner Identität erhoben. Subjekt der Geschichte zu sein,
 bedeutet [...], an ihr bewußt
-teilzunehmen.”[^43](#item-literature.xhtml#fntarg_43) Doch was
+teilzunehmen.”[^43] Doch was
 heißt, “bewußt an der Geschichte teilnehmen?” Nicht den geringsten
 Verdacht einer Worthülse setzt sich Brigitte Böttchers 1983 gezogene
 Konsequenz aus: “Tod oder 'in Gesellschaft leben', kommunikativ,
-verantwortlich.”[^44](#item-literature.xhtml#fntarg_44)
+verantwortlich.”[^44]
 
 **6-28** So glaubt J. H. Reid in Christoph Hein
 den Moralisten zu erkennen.
@@ -774,11 +774,11 @@ den Moralisten zu erkennen.
 > Enlightment tradition which many of his West German colleagues have
 > abandoned. In spite of his denials, Hein ist essentially a moralist. The
 > insistence that his readers make moral choices is a fundamental aspect
-> of the dialogue.[^45](#item-literature.xhtml#fntarg_45)
+> of the dialogue.[^45]
 
 Herzinger und Preußler gehen bis zur Formulierung eines Vorwurfs weiter.
 “Indem sich die Individuen von ihrer persönlichen Panzerung befreien,
-handeln sie politisch”[^46](#item-literature.xhtml#fntarg_46) , denn
+handeln sie politisch”[^46] , denn
 Heins Lösungsanspruch ist durch die Verbindung des Verhärtungsprozesses
 der Individuen mit gesellschaftlich-politischer Repression
 gesellschaftlicher Natur.
@@ -787,7 +787,7 @@ gesellschaftlicher Natur.
 > Zwangsverhältnisse verhindert, sondern auch durch Konsumorientierung
 > [...] Die Gemeinschaft der Intelligenz, die der Kulturschaffenden
 > selbst, wird bedroht durch universelle
-> Verflachung.[^47](#item-literature.xhtml#fntarg_47)
+> Verflachung.[^47]
 
 Nach Meinung von Herzinger/Preußler begründen eine Reihe von DDR-Autoren
 das Scheitern des Sozialismus mit dem ungenügenden Bruch mit der
@@ -798,7 +798,7 @@ westlichen Zivilisation. Sie behaupten,
 > durch den Bankrott des Realsozialismus zu retten versucht und zudem eine
 > Rechtfertigungsargumentation für das Fortbestehen des sozialistischen
 > Staates bereitstellt, die dessen offizielle Ideologie nicht mehr zu
-> leisten vermag.[^48](#item-literature.xhtml#fntarg_48)
+> leisten vermag.[^48]
 
 In der Mehrzahl beziehen sich die Argumente auf Äußerungen des
 Essayisten und Politikers Christoph Hein. Doch spricht eine umstrittene,
@@ -810,7 +810,7 @@ künstlerischen Werks.
 > anarchistischen oder asozialen oder sozialen. Das ist die
 > moralisch-pädagogische Seite, die jedes Werk auch hat, unwillentlich
 > oder widerwillig, diese Aufgabe muß es erfüllen, durch und für die
-> Gesellschaft. [^49](#item-literature.xhtml#fntarg_49)
+> Gesellschaft. [^49]
 
 **6-29** In Anlehnung an Walter
 Benjamin sah sich Christoph Hein in Gesprächen in erster Linie als Chronist, so daß der Aufbau-Verlag seine Sekundärliteratur-Anthologie unter dem Titel
@@ -825,214 +825,6 @@ kann er nur sein, wenn er Claudia beschreiben, erzählen läßt über
 Ereignisse, Umgebung und Befindlichkeiten der anderen. Kurz: “Chroniken”
 über “Land und Leute” erhält der Leser nur im “funktionalen Lesemodell”
 mit Claudia als Beobachter.
-
-[^1](#item-literature.xhtml#fnsrc_1) Christoph Hein: Der fremde
-Freund, Berlin u. Weimar 1987 (Aufbau-Verlag), alle Zitate folgen dieser
-Ausgabe
-
-[^2](#item-literature.xhtml#fnsrc_2) Hörnigk, Frank: Christoph Hein.
-In: Literatur der Deutschen Demokratischen Republik.
-Einzeldarstellungen. Hrgeg. von einem Autorenkollektiv unter Leitung von
-H. J. Geerdts, Band 3, Berlin-Ost 1987, S. 111
-
-[^3](#item-literature.xhtml#fnsrc_3) Grunenberg, Antonia: Geschichte
-und Entfremdung. Christoph Hein als Autor der DDR. In: Klaus Hammer
-(Hrg.): Chronist ohne Botschaft - Christoph Hein. Ein Arbeitsbuch.
-Berlin, Weimar 1992, S. 77
-
-[^4](#item-literature.xhtml#fnsrc_4) »Schreiben als Aufbegehren
-gegen die Sterblichkeit«, Gespräch Heins mit Uwe Hornauer und Norbert
-Janowski. In: Lothar Baier (Hrg.): Christoph Hein, Texte, Daten, Bilder,
-Frankfurt a.M. 1990, S. 76
-
-[^5](#item-literature.xhtml#fnsrc_5) H. Reid: “That she cannot bring
-herself to spell out the name of the town in full, although all other
-places, Berlin Magdeburg, Wörlitz are named, suggests that what occurred
-here remains undigested.” Aus: Reading Christoph Hein. In: Socialism and
-the Literary Imagination, New York, Oxford 1991, S. 221
-
-[^6](#item-literature.xhtml#fnsrc_6) Niven, William J.: The
-vanquished self: Christoph Hein´s Drachenblut and Der Tangospieler. In:
-Journal of European Studies, Vol. 22, Part 2, Number 86, March 1992, S.
-130
-
-[^7](#item-literature.xhtml#fnsrc_7) Grunenberg, Antonia: Geschichte
-und Entfremdung. Christoph Hein als Autor der DDR. In: Klaus Hammer
-(Hrg.): Chronist ohne Botschaft - Christoph Hein. Ein Arbeitsbuch.
-Berlin, Weimar 1992, S. 73f
-
-[^8](#item-literature.xhtml#fnsrc_8) Peters, Peter: “Ich Wer ist
-das”. Aspekte der Subjektdiskussion in Prosa und Drama der DDR
-(1976-1989), Frankfurt/M. 1993, S. 80
-
-[^9](#item-literature.xhtml#fnsrc_9) Antonia Grunenberg: s. Fußn.
-120, S. 73
-
-[^10](#item-literature.xhtml#fnsrc_10) Peter Peters: s. Fußn. 121,
-S. 78
-
-[^11](#item-literature.xhtml#fnsrc_11) Hell, Julia: Christoph Hein´s
-Der Fremde Freund/Drachenblut and the Antinomies of Writing under <Real
-Existing Socialism>. In: Colloquia Germanica, Band 25, H. 3/4, 1992, S.
-326
-
-[^12](#item-literature.xhtml#fnsrc_12) ebd.
-
-[^13](#item-literature.xhtml#fnsrc_13) Kaufmann, Hans: Christoph
-Hein in der Debatte. In: ders.: Über DDR-Literatur, Beiträge aus 25
-Jahren. Berlin, Weimar 1986, S. 235
-
-[^14](#item-literature.xhtml#fnsrc_14) ebd.
-
-[^15](#item-literature.xhtml#fnsrc_15) Niven, William J.: The
-vanquished self: Christoph Hein´s Drachenblut and Der Tangospieler. In:
-Journal of European Studies, Vol. 22, Part 2, Number 86, March 1992, S.
-131
-
-[^16](#item-literature.xhtml#fnsrc_16) Roberts, David: Das Auge der
-Kamera. Christoph Heins Drachenblut. In: Paul Michael Lutzeler (Hrg):
-Spätmoderne und Postmoderne: Beiträge zur deutschsprachigen
-Gegenwartsliteratur, Frankfurt/M. 1991, S. 227
-
-[^17](#item-literature.xhtml#fnsrc_17) ebd.
-
-[^18](#item-literature.xhtml#fnsrc_18) Emmerich, Wolfgang:
-»Dialektik der Aufklärung« in der jüngeren DDR-Literatur. In: Positionen
-5, Halle, Leipzig 1988, S. 132
-
-[^19](#item-literature.xhtml#fnsrc_19) David Roberts: s. Fußn. 130
-
-[^20](#item-literature.xhtml#fnsrc_20) Bernhardt, Rüdiger: Für und
-wider, in: Lothar Baier, Hrg.: Christoph Hein, Texte, Daten, Bilder,
-Frankfurt a.M. 1990, S. 141; W. Hartinger glaubt gar, daß der Leser die
-distanzierte Rezeption erst üben muß: “... um ästhetische Signale
-wahrnehmen zu können, bedarf es der Schulung des Leser, nicht zuletzt
-durch den entschiedenen Einsatz der Literaturwissenschaftler.” In:
-DDR-Literaturentwicklung in der Diskussion, H. Haase, W. Hartinger, U.
-Heukenkamp, K. Jarmatz, J. Pischel, D. Schlenstedt. In: Weimarer
-Beiträge, 30. Jg., H. 10/1984, S. 1609
-
-[^21](#item-literature.xhtml#fnsrc_21) ebd. S. 140f
-
-[^22](#item-literature.xhtml#fnsrc_22) Hörnigk, Frank: Christoph
-Hein. In: “Literatur der Deutschen Demokratischen Republik.
-Einzeldarstellungen” Hrgeg. von einem Autorenkollektiv unter Leitung von
-H. J. Geerdts, Band 3, Berlin-Ost 1987, S. 113
-
-[^23](#item-literature.xhtml#fnsrc_23) ebd.
-
-[^24](#item-literature.xhtml#fnsrc_24) Rüdiger Bernhardt: s. Fußn.
-135, S. 142
-
-[^25](#item-literature.xhtml#fnsrc_25) Grunenberg, Antonia:
-Geschichte und Entfremdung. Christoph Hein als Autor der DDR, in:
-Hammer, Klaus (Hrg.): Chronist ohne Botschaft - Christoph Hein. Ein
-Arbeitsbuch. Berlin, Weimar 1992, S. 79
-
-[^26](#item-literature.xhtml#fnsrc_26) Niven, William J.: The
-vanquished self: Christoph Hein´s Drachenblut and Der Tangospieler. In:
-Journal of European Studies, Vol. 22, Part 2, Number 86, March 1992, S.
-133
-
-[^27](#item-literature.xhtml#fnsrc_27) Vgl. Brecht, Bertolt:
-Vergnügungstheater oder Lehrtheater? In: Brecht. Ein Lesebuch für unsere
-Zeit, Berlin, Weimar 1987, S. 384
-
-[^28](#item-literature.xhtml#fnsrc_28) Böttcher, Brigitte: Diagnose
-eines unheilbaren Zustandes. Christoph Hein: »Der fremde Freund«. In:
-Klaus Hammer (Hrg.): Chronist ohne Botschaft - Christoph Hein. Ein
-Arbeitsbuch. Berlin, Weimar 1992, S. 84f
-
-[^29](#item-literature.xhtml#fnsrc_29) Leistner, Bernd: Für und
-wider: Der fremde Freund. In: Klaus Hammer (Hrg.): Chronist ohne
-Botschaft - Christoph Hein. Ein Arbeitsbuch. Berlin, Weimar 1992, S. 91
-
-[^30](#item-literature.xhtml#fnsrc_30) ebd. S. 90
-
-[^31](#item-literature.xhtml#fnsrc_31) DDR-Literaturentwicklung in
-der Diskussion, H. Haase, W. Hartinger, U. Heukenkamp, K. Jarmatz, J.
-Pischel, D. Schlenstedt. In: Weimarer Beiträge, 30. Jg., H. 10/1984, S.
-1605
-
-[^32](#item-literature.xhtml#fnsrc_32) Krauss, Hannes: Mit
-geliehenen Worten das Schweigen brechen. In: Frauke Meyer-Gosau (Red.):
-Christoph Hein, Text + Kritik H. 111, München 1991, S. 21
-
-[^33](#item-literature.xhtml#fnsrc_33) Gespräch mit Christoph Hein.
-In: Öffentlich arbeiten. Essais und Gespräche. Berlin, Weimar 1988, S.
-123
-
-[^34](#item-literature.xhtml#fnsrc_34) Brender, H./ Hüfner, A: »Ich
-kann mein Publikum nicht belehren«, Gespräch mit Christoph Hein. In:
-Lothar Baier, Hrg.: Christoph Hein, Texte, Daten, Bilder, Frankfurt a.M.
-1990, S. 71
-
-[^35](#item-literature.xhtml#fnsrc_35) Hell, Julia: Christoph Hein´s
-Der Fremde Freund/Drachenblut and the Antinomies of Writing under <Real
-Existing Socialism>. In: Colloquia Germanica, Band 25, H. 3/4, 1992, S.
-311
-
-[^36](#item-literature.xhtml#fnsrc_36) vgl. Roberts, David: Das Auge
-der Kamera. Christoph Heins Drachenblut. In: Paul Michael Lutzeler
-(Hrg): Spätmoderne und Postmoderne: Beiträge zur deutschsprachigen
-Gegenwartsliteratur, Frankfurt/M. 1991, S. 228
-
-[^37](#item-literature.xhtml#fnsrc_37) Roberts, David: Das Auge der
-Kamera. Christoph Heins Drachenblut. In: Paul Michael Lutzeler (Hrg):
-Spätmoderne und Postmoderne: Beiträge zur deutschsprachigen
-Gegenwartsliteratur, Frankfurt/M. 1991, S. 226 (Dieser Beitrag stand nur
-in deutscher Übersetzung zur Verfügung, so daß das Wort “soll” eventuell
-nicht dem Autor selbst “angelastet” werden kann.)
-
-[^38](#item-literature.xhtml#fnsrc_38) Peters, Peter: Ich Wer ist
-das. Aspekte der Subjektdiskussion in Prosa und Drama der DDR
-(1976-1989), Frankfurt/M. 1993, S. 108
-
-[^39](#item-literature.xhtml#fnsrc_39) Die Wirkung von Träumen auf
-den Leser wurde schon im Zusammenhang mit Marons Josefa erwähnt (S. 54).
-
-[^40](#item-literature.xhtml#fnsrc_40) Shaw, Gisela: Christoph Hein:
-The Novelist as Dramatist Manqué. In: Arthur Williams, Stuart Parkes,
-Roland Smith (Hrg.): Literature on the Threshold: The German Novel in
-the 1980s, New York 1990, S. 94
-
-[^41](#item-literature.xhtml#fnsrc_41) Peter Peters: s. Fußn. 153,
-S. 77
-
-[^42](#item-literature.xhtml#fnsrc_42) Leistner, Bernd: Für und
-wider: Der fremde Freund. In: Klaus Hammer (Hrg.): Chronist ohne
-Botschaft - Christoph Hein. Ein Arbeitsbuch. Berlin, Weimar 1992, S. 88,
-S. 89
-
-[^43](#item-literature.xhtml#fnsrc_43) Peters, Peter: Ich Wer ist
-das. Aspekte der Subjektdiskussion in Prosa und Drama der DDR
-(1976-1989), Frankfurt/M. 1993, S. 107
-
-[^44](#item-literature.xhtml#fnsrc_44) Böttcher, Brigitte: Diagnose
-eines unheilbaren Zustandes. Christoph Hein: »Der fremde Freund«. In:
-Klaus Hammer (Hrg.): Chronist ohne Botschaft - Christoph Hein. Ein
-Arbeitsbuch. Berlin, Weimar 1992, S. 87
-
-[^45](#item-literature.xhtml#fnsrc_45) Reid, J.H.: Reading Christoph
-Hein. In: Socialism and the Literary Imagination, New York, Oxford 1991,
-S. 226, Reid verweist auf das Gespräch Heins mit Krystof Jachimczak. In:
-Sinn und Form, 1988, H. 2, S. 342
-
-[^46](#item-literature.xhtml#fnsrc_46) Herzinger, R./Preußler, H-P.:
-Vom Äußersten zum Ersten. DDR-Literatur in der Tradition deutscher
-Zivilisations-kritik. In: Literatur in der DDR, Rückblicke, Sonderband
-Text + Kritik, Hrg. Heinz Ludwig Arnold und Frauke Meyer-Gosau, München
-1991, S. 204
-
-[^47](#item-literature.xhtml#fnsrc_47) ebd.
-
-[^48](#item-literature.xhtml#fnsrc_48) ebd. S. 195, vgl. auch
-Emmerichs Vorwürfe (S. 5)
-
-[^49](#item-literature.xhtml#fnsrc_49) Brender, H./ Hüfner, A: »Ich
-kann mein Publikum nicht belehren«, Gespräch mit Christoph Hein. In:
-Lothar Baier (Hrg.): Christoph Hein, Texte, Daten, Bilder, Frankfurt
-a.M. 1990, S. 71
 
 ## Literaturverzeichnis
 
@@ -1191,3 +983,53 @@ der DDR-Literatur 1949 - 1989
 Wittstock, Uwe: Kammerkonzert mit Trillerpfeife - »Der Tangospieler« -
 Die Talente und Untugenden Christoph Heins. In: ders.: Von der
 Stalinallee zum Prenlauer Berg, Wege der DDR-Literatur 1949 - 1989
+
+[^1]: Christoph Hein: Der fremde Freund, Berlin u. Weimar 1987 (Aufbau-Verlag), alle Zitate folgen dieser Ausgabe
+[^2]: Hörnigk, Frank: Christoph Hein. In: Literatur der Deutschen Demokratischen Republik. Einzeldarstellungen. Hrgeg. von einem Autorenkollektiv unter Leitung von H. J. Geerdts, Band 3, Berlin-Ost 1987, S. 111
+[^3]: Grunenberg, Antonia: Geschichte und Entfremdung. Christoph Hein als Autor der DDR. In: Klaus Hammer (Hrg.): Chronist ohne Botschaft - Christoph Hein. Ein Arbeitsbuch. Berlin, Weimar 1992, S. 77
+[^4]: »Schreiben als Aufbegehren gegen die Sterblichkeit«, Gespräch Heins mit Uwe Hornauer und Norbert Janowski. In: Lothar Baier (Hrg.): Christoph Hein, Texte, Daten, Bilder, Frankfurt a.M. 1990, S. 76
+[^5]: H. Reid: “That she cannot bring herself to spell out the name of the town in full, although all other places, Berlin Magdeburg, Wörlitz are named, suggests that what occurred here remains undigested.” Aus: Reading Christoph Hein. In: Socialism and the Literary Imagination, New York, Oxford 1991, S. 221
+[^6]: Niven, William J.: The vanquished self: Christoph Hein´s Drachenblut and Der Tangospieler. In: Journal of European Studies, Vol. 22, Part 2, Number 86, March 1992, S. 130
+[^7]: Grunenberg, Antonia: Geschichte und Entfremdung. Christoph Hein als Autor der DDR. In: Klaus Hammer (Hrg.): Chronist ohne Botschaft - Christoph Hein. Ein Arbeitsbuch. Berlin, Weimar 1992, S. 73f
+[^8]: Peters, Peter: “Ich Wer ist das”. Aspekte der Subjektdiskussion in Prosa und Drama der DDR (1976-1989), Frankfurt/M. 1993, S. 80
+[^9]: Antonia Grunenberg: s. Fußn. 120, S. 73
+[^10]: Peter Peters: s. Fußn. 121, S. 78
+[^11]: Hell, Julia: Christoph Hein´s Der Fremde Freund/Drachenblut and the Antinomies of Writing under <Real Existing Socialism>. In: Colloquia Germanica, Band 25, H. 3/4, 1992, S. 326
+[^12]: ebd.
+[^13]: Kaufmann, Hans: Christoph Hein in der Debatte. In: ders.: Über DDR-Literatur, Beiträge aus 25 Jahren. Berlin, Weimar 1986, S. 235
+[^14]: ebd.
+[^15]: Niven, William J.: The vanquished self: Christoph Hein´s Drachenblut and Der Tangospieler. In: Journal of European Studies, Vol. 22, Part 2, Number 86, March 1992, S. 131
+[^16]: Roberts, David: Das Auge der Kamera. Christoph Heins Drachenblut. In: Paul Michael Lutzeler (Hrg): Spätmoderne und Postmoderne: Beiträge zur deutschsprachigen Gegenwartsliteratur, Frankfurt/M. 1991, S. 227
+[^17]: ebd.
+[^18]: Emmerich, Wolfgang: »Dialektik der Aufklärung« in der jüngeren DDR-Literatur. In: Positionen 5, Halle, Leipzig 1988, S. 132
+[^19]: David Roberts: s. Fußn. 130
+[^20]: Bernhardt, Rüdiger: Für und wider, in: Lothar Baier, Hrg.: Christoph Hein, Texte, Daten, Bilder, Frankfurt a.M. 1990, S. 141; W. Hartinger glaubt gar, daß der Leser die distanzierte Rezeption erst üben muß: “... um ästhetische Signale wahrnehmen zu können, bedarf es der Schulung des Leser, nicht zuletzt durch den entschiedenen Einsatz der Literaturwissenschaftler.” In: DDR-Literaturentwicklung in der Diskussion, H. Haase, W. Hartinger, U. Heukenkamp, K. Jarmatz, J. Pischel, D. Schlenstedt. In: Weimarer Beiträge, 30. Jg., H. 10/1984, S. 1609
+[^21]: ebd. S. 140f
+[^22]: Hörnigk, Frank: Christoph Hein. In: “Literatur der Deutschen Demokratischen Republik. Einzeldarstellungen” Hrgeg. von einem Autorenkollektiv unter Leitung von H. J. Geerdts, Band 3, Berlin-Ost 1987, S. 113
+[^23]: ebd.
+[^24]: Rüdiger Bernhardt: s. Fußn. 135, S. 142
+[^25]: Grunenberg, Antonia: Geschichte und Entfremdung. Christoph Hein als Autor der DDR, in: Hammer, Klaus (Hrg.): Chronist ohne Botschaft - Christoph Hein. Ein Arbeitsbuch. Berlin, Weimar 1992, S. 79
+[^26]: Niven, William J.: The vanquished self: Christoph Hein´s Drachenblut and Der Tangospieler. In: Journal of European Studies, Vol. 22, Part 2, Number 86, March 1992, S. 133
+[^27]: Vgl. Brecht, Bertolt: Vergnügungstheater oder Lehrtheater? In: Brecht. Ein Lesebuch für unsere Zeit, Berlin, Weimar 1987, S. 384
+[^28]: Böttcher, Brigitte: Diagnose eines unheilbaren Zustandes. Christoph Hein: »Der fremde Freund«. In: Klaus Hammer (Hrg.): Chronist ohne Botschaft - Christoph Hein. Ein Arbeitsbuch. Berlin, Weimar 1992, S. 84f
+[^29]: Leistner, Bernd: Für und wider: Der fremde Freund. In: Klaus Hammer (Hrg.): Chronist ohne Botschaft - Christoph Hein. Ein Arbeitsbuch. Berlin, Weimar 1992, S. 91
+[^30]: ebd. S. 90
+[^31]: DDR-Literaturentwicklung in der Diskussion, H. Haase, W. Hartinger, U. Heukenkamp, K. Jarmatz, J. Pischel, D. Schlenstedt. In: Weimarer Beiträge, 30. Jg., H. 10/1984, S. 1605
+[^32]: Krauss, Hannes: Mit geliehenen Worten das Schweigen brechen. In: Frauke Meyer-Gosau (Red.): Christoph Hein, Text + Kritik H. 111, München 1991, S. 21
+[^33]: Gespräch mit Christoph Hein. In: Öffentlich arbeiten. Essais und Gespräche. Berlin, Weimar 1988, S. 123
+[^34]: Brender, H./ Hüfner, A: »Ich kann mein Publikum nicht belehren«, Gespräch mit Christoph Hein. In: Lothar Baier, Hrg.: Christoph Hein, Texte, Daten, Bilder, Frankfurt a.M. 1990, S. 71
+[^35]: Hell, Julia: Christoph Hein´s Der Fremde Freund/Drachenblut and the Antinomies of Writing under <Real Existing Socialism>. In: Colloquia Germanica, Band 25, H. 3/4, 1992, S. 311
+[^36]: vgl. Roberts, David: Das Auge der Kamera. Christoph Heins Drachenblut. In: Paul Michael Lutzeler (Hrg): Spätmoderne und Postmoderne: Beiträge zur deutschsprachigen Gegenwartsliteratur, Frankfurt/M. 1991, S. 228
+[^37]: Roberts, David: Das Auge der Kamera. Christoph Heins Drachenblut. In: Paul Michael Lutzeler (Hrg): Spätmoderne und Postmoderne: Beiträge zur deutschsprachigen Gegenwartsliteratur, Frankfurt/M. 1991, S. 226 (Dieser Beitrag stand nur in deutscher Übersetzung zur Verfügung, so daß das Wort “soll” eventuell nicht dem Autor selbst “angelastet” werden kann.)
+[^38]: Peters, Peter: Ich Wer ist das. Aspekte der Subjektdiskussion in Prosa und Drama der DDR (1976-1989), Frankfurt/M. 1993, S. 108
+[^39]: Die Wirkung von Träumen auf den Leser wurde schon im Zusammenhang mit Marons Josefa erwähnt (S. 54).
+[^40]: Shaw, Gisela: Christoph Hein: The Novelist as Dramatist Manqué. In: Arthur Williams, Stuart Parkes, Roland Smith (Hrg.): Literature on the Threshold: The German Novel in the 1980s, New York 1990, S. 94
+[^41]: Peter Peters: s. Fußn. 153, S. 77
+[^42]: Leistner, Bernd: Für und wider: Der fremde Freund. In: Klaus Hammer (Hrg.): Chronist ohne Botschaft - Christoph Hein. Ein Arbeitsbuch. Berlin, Weimar 1992, S. 88, S. 89
+[^43]: Peters, Peter: Ich Wer ist das. Aspekte der Subjektdiskussion in Prosa und Drama der DDR (1976-1989), Frankfurt/M. 1993, S. 107
+[^44]: Böttcher, Brigitte: Diagnose eines unheilbaren Zustandes. Christoph Hein: »Der fremde Freund«. In: Klaus Hammer (Hrg.): Chronist ohne Botschaft - Christoph Hein. Ein Arbeitsbuch. Berlin, Weimar 1992, S. 87
+[^45]: Reid, J.H.: Reading Christoph Hein. In: Socialism and the Literary Imagination, New York, Oxford 1991, S. 226, Reid verweist auf das Gespräch Heins mit Krystof Jachimczak. In: Sinn und Form, 1988, H. 2, S. 342
+[^46]: Herzinger, R./Preußler, H-P.: Vom Äußersten zum Ersten. DDR-Literatur in der Tradition deutscher Zivilisations-kritik. In: Literatur in der DDR, Rückblicke, Sonderband Text + Kritik, Hrg. Heinz Ludwig Arnold und Frauke Meyer-Gosau, München 1991, S. 204
+[^47]: ebd.
+[^48]: ebd. S. 195, vgl. auch Emmerichs Vorwürfe (S. 5)
+[^49]: Brender, H./ Hüfner, A: »Ich kann mein Publikum nicht belehren«, Gespräch mit Christoph Hein. In: Lothar Baier (Hrg.): Christoph Hein, Texte, Daten, Bilder, Frankfurt a.M. 1990, S. 71

@@ -6,6 +6,17 @@ import portraitImages from './src/plugins/hast-portrait-images.mjs';
 // https://astro.build/config
 export default defineConfig({
   markdown: {
-    processor: satteri({ hastPlugins: [portraitImages] }),
+    processor: satteri({
+      hastPlugins: [portraitImages],
+      features: {
+        // Fußnoten-Beschriftung auf Deutsch (Standard: "Footnotes", "Back to reference …")
+        gfm: {
+          footnotes: {
+            label: "Anmerkungen",
+            backLabel: "Zurück zum Verweis {reference}",
+          },
+        },
+      },
+    }),
   },
 });

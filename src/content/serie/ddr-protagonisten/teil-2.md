@@ -37,7 +37,7 @@ nur Volker Braun und
 Stephan Hermlin anwesend. Viele der Biermann-Sympathisanten blieben fern: entweder waren
 sie nicht geladen, oder zogen ihr Mandat zurück, oder waren wie Heiner
 Müller kein Mitglied
-des Verbandes [^1](#item-literature.xhtml#fntarg_1) mehr. So war es
+des Verbandes [^1] mehr. So war es
 Hermlin, der sich gegen Konrad
 Naumanns Ausfälle gegen die Biermann-Sympathisanten (“bürgerliche Künstler mit
 entsprechendem Geldkonto”) wandte. Doch wichtiger als die
@@ -52,7 +52,7 @@ Literatur äußerte:
 > Existenz einer Literatur ist nicht deckungsgleich mit der Existenz von
 > Staaten. ... Die DDR-Literatur ist nicht zu bestreiten; sie ist die hier
 > entstandene und entstehende deutsche
-> Literatur.[^2](#item-literature.xhtml#fntarg_2)
+> Literatur.[^2]
 
 **2-03** Doch was wäre dann mit den Autoren, die
 schon 1978 in der Bundesrepublik waren und noch folgen sollten? Zehn
@@ -62,7 +62,7 @@ gleiche deutsche Geschichte und Kultur geformt: “Wollte ich die Existenz
 von zwei deutschen Literaturen zugeben, müßte ich diese jeweils noch
 einige Male aufteilen, denn so fremd wie mir einige DDR-Autoren sind, so
 verbunden fühle ich mich einigen Schriftstellern aus der Bundesrepublik,
-der Schweiz oder Österreich.”[^3](#item-literature.xhtml#fntarg_3)
+der Schweiz oder Österreich.”[^3]
 So kommt Peter
 Peters zu folgender
 Definition des Begriffs 'DDR-Literatur': “In ihrer allgemeinsten
@@ -70,11 +70,11 @@ Bestimmung ist der DDR-Literatur ein spezifischer Bezug auf ein
 bestimmtes gesellschaftliches System eigen, das der Deutschen
 Demokratischen Republik, welcher sich als auch als Rück- und
 Traditionsbezug einstellen
-kann.”[^4](#item-literature.xhtml#fntarg_4)
+kann.”[^4]
 
 **2-04** Eine ähnliche Einteilung (unabhängig vom Wohnort,
 aber mit 'DDR-Prägung') nimmt Wolfgang
-Emmerich[^5](#item-literature.xhtml#fntarg_5) 1983 eingedenk der
+Emmerich[^5] 1983 eingedenk der
 Inhomogenität der DDR-Literatur zur Fokussierung seiner Betrachtungen
 vor. Er glaubt im Gefolge der Biermann-Ausbürgerung drei Tendenzen in
 der DDR-Literatur zu erkennen:
@@ -105,7 +105,7 @@ In kritischer Subjektivität vermitteln die Helden ihre eigenen
 Erfahrungen mit dem real existierenden Sozialismus, jenseits aller
 propagierten 'objektiven Gesetzmäßigkeiten'. So sieht Sigrid Stahl als vorherrschendes Motiv der Literatur der 70er Jahre das Rechenschaftsmotiv: “die Frage,
 was aus dem einzelnen Menschen nach mehr als zwanzig Jahren 'Aufbau des
-Sozialismus' geworden ist.”[^6](#item-literature.xhtml#fntarg_6)
+Sozialismus' geworden ist.”[^6]
 Dieses Motiv ist auch den vier zu analysierenden Prosawerken gemein. Der
 DDR-Literaturkritiker Hans
 Kaufmann schrieb moderat:
@@ -118,7 +118,7 @@ Kaufmann schrieb moderat:
 > Welt auf die Befindlichkeit der Individuen. Auch diese Blickrichtung
 > geht zumeist von sozialistischen Positionen aus - wenn auch nicht immer
 > in voller Identität mit denen der Arbeiterklasse und ihrer
-> Partei.[^7](#item-literature.xhtml#fntarg_7)
+> Partei.[^7]
 
 Doch letzteres, die “Nichtidentität mit der Partei” bedeutete nicht mehr
 und nicht weniger als dass das Gros der Autoren als Sozialisten die
@@ -128,12 +128,12 @@ als Referenz für die Utopien der Autoren brach weg. Hier setzt der
 Vorwurf Emmerichs an, der den Autoren vorwarf, trotz der erkennbaren
 Stagnation und Deformation des 'realen Sozialismus' vom “Sozialismus
 schlechthin” nicht abgelassen zu haben und "im herrschenden Diskurs
-befangen blieben".[^8](#item-literature.xhtml#fntarg_8)
+befangen blieben".[^8]
 
 > ...sie konservierten die Epochenillusion vom »wahren Sozialismus«,
 > indem sie sein Bild in den Schrein der Utopie einschlossen: also dessen,
 > das keinen Ort hat, aber doch sein soll. Je befleckter die Praxis, desto
-> reiner die Utopie...[^9](#item-literature.xhtml#fntarg_9)
+> reiner die Utopie...[^9]
 
 **2-07** Helga Königsdorfs Worte mögen hier
 als Illustration aus Autorensicht dienen:
@@ -149,13 +149,13 @@ Quelle für unsere Arbeit, in der Trauer zunahm, kaum noch Übermut. Und
 diesen Kummer teilten wir mit unseren Lesern: Nicht allein die
 Ersatzfunktion, die Literatur hatte, erklärt diese Rolle in diesem Land,
 sondern genau diese
-Verbundenheit.[^10](#item-literature.xhtml#fntarg_10)
+Verbundenheit.[^10]
 
 **2-08** Diese Verbundenheit, nämlich die sozialistische
 Utopie “als gemeinsames Drittes zwischen Autor und Leser” faßt Emmerich
 im Terminus “Sinngebungsliteratur” zusammen. In den Augen Julia
 Hells eine bloße Reduktion auf einen “...legalitimizing
-discourse...”[^11](#item-literature.xhtml#fntarg_11) Sie stellt
+discourse...”[^11] Sie stellt
 Emmerichs Neueinschätzung der DDR-Literatur (früher betonte er das
 kritische Potential genau dieser Literatur) in den größeren Zusammenhang
 der “Intellektuellendebatte” seit 1990. Sie verweist im Ergebnis ihrer
@@ -169,7 +169,7 @@ Bogdal:
 > Zusammenhang von Macht und Schreiben bis in die feinsten Verästelungen
 > aufzuspüren vermögen, so dass sich auch der Leser im Westen darin
 > wiederfindet (Christa Wolf, Christoph Hein, Heiner Müller) nicht mehr
-> sprechen.[^12](#item-literature.xhtml#fntarg_12)
+> sprechen.[^12]
 
 **2-09** Schreiben im Dunstkreis der Macht. Marcel
 Reich-Ranicki bemüht nicht einmal
@@ -177,7 +177,7 @@ lakonische Begriffe wie “Sinngebungsliteratur”. Ihm ist die einfache
 Tatsache, dass die Autoren in der DDR lebten und dort sogar noch
 publizierten, Beweis genug, dass sie “Repräsentanten des Staates... und
 Mitverantwortliche dessen waren, was dort geschehen
-ist.”[^13](#item-literature.xhtml#fntarg_13) Doch auch Uwe
+ist.”[^13] Doch auch Uwe
 Saeger als Autor sieht die in der DDR publizierte Literatur “als politisch verstrickt”.
 Erst einmal durch die Zensur gekommen, “und damit - gedruckt also und
 Literaturmacher somit - waren man und man verstrickt, die da und der da
@@ -188,10 +188,10 @@ vom DDR-Schriftsteller:
 
 > Man glaubte eine gewisse Wertigkeit zu haben, denn man fühlte sich
 > irgendwie bestätigt als ein anwesendes Fragezeichen, als geduldeter
-> Possenreißer.[^14](#item-literature.xhtml#fntarg_14)
+> Possenreißer.[^14]
 
 Die Rolle des Autors in der
-DDR-Gesellschaft[^15](#item-literature.xhtml#fntarg_15) und dessen
+DDR-Gesellschaft[^15] und dessen
 Selbstverständnis verdienen also nähere Betrachtung.
 
 **2-10** 1959 heißt es in einem Lexikon über die aus dem
@@ -199,17 +199,17 @@ Exil zurückgekehrten Schriftsteller: “Sie beteiligten sich am
 demokratischen Neuaufbau und der demokratischen Umerziehung des Volkes
 und wurden in ihrer schriftstellerischen Tätigkeit vom Arbeiter-und
 Bauernstaat großzügig
-unterstützt.”[^16](#item-literature.xhtml#fntarg_16) Am Festhalten
+unterstützt.”[^16] Am Festhalten
 der erzieherischen Funktion von Literatur hatte sich seitens der SED in
 den 70er Jahren so viel nicht geändert. “Kultur und Kunst vermögen sehr
 viel beizutragen, sozialistische Überzeugungen zu festigen und in den
 Herzen der Menschen das reine Feuer kommunistischer Ideale zu
-entzünden.”[^17](#item-literature.xhtml#fntarg_17) So wußte Erich
+entzünden.”[^17] So wußte Erich
 Honecker im Mai 1976 auf dem 9. Parteitag der SED zu berichten. Fünf Jahre später heißt
 es weniger glühend, dass Kunst und Literatur vieles hervorgebracht hat,
 “was Teil unserer sich ständig verändernden sozialistischen Wirklichkeit
 ist und diese Veränderung zugleich
-bewirkt.”[^18](#item-literature.xhtml#fntarg_18) Die Literatur als
+bewirkt.”[^18] Die Literatur als
 Gestaltungsmedium von DDR-Realität, als Initiator von Veränderungen.
 Wenn der Staat der Literatur erst einmal diese Fähigkeit zusprach, galt
 es andererseits Literatur zu verhindern, die ihm nicht opportun
@@ -223,7 +223,7 @@ erschien.
 > Manipulation, also in den Köpfen des Volkes erfolgreich verankert war,
 > ergab sich nur eine Konsequenz: Über verworfene Literatur durfte nicht
 > diskutiert, sie mußte unterbunden
-> werden.[^19](#item-literature.xhtml#fntarg_19)
+> werden.[^19]
 
 **2-11** Die Wichtigkeit, die der Staat der Literatur
 beimaß, zeigte sich den Autoren am 'persönlichsten' durch die Zensur.
@@ -232,12 +232,12 @@ sich sonst interpretieren lassen? Sie schrieben in der Gewißheit,
 langfristig bewußtseinsbildend zu wirken. “Immer wieder waren Bücher
 imstande, Unruhe zu erzeugen oder in gesellschaftliche
 Auseinandersetzungen einzugreifen.” meinte Jurek
-Becker [^20](#item-literature.xhtml#fntarg_20)
+Becker [^20]
 rückblickend. Dass sie aber diese Rolle des Eingreifens nicht ganz
 freiwillig innehatten, war den Schriftstellern wohl bewußt. Was es für
 sie bedeutete, im “schlechtbesetzten Chor der öffentlichen Meinung den
 Part des Journalisten mitsingen zu
-müssen”[^21](#item-literature.xhtml#fntarg_21), schilderte
+müssen”[^21], schilderte
 Christoph Hein in einem Gespräch 1990:
 
 > Man wurde von zwei Seiten bedrängt, und die Literatur war von zwei
@@ -250,7 +250,7 @@ Christoph Hein in einem Gespräch 1990:
 > ich dem Honecker das Messer in den Leib stoße. Gefragt war nicht nur der
 > kritisch-engagierte, sondern der extrem politische Schriftsteller. Und
 > das ist eine Gefahr fur die Literatur. Ein Proust hatte keine Chance in
-> der DDR.[^22](#item-literature.xhtml#fntarg_22)
+> der DDR.[^22]
 
 **2-12** Welche Auswirkung diese Art der Lesererwartung
 als Folge der Ersatzfunktion von Literatur haben konnte, sieht der
@@ -261,7 +261,7 @@ Die Textleistung dieser drei war unterschiedlich und wechselte mit der
 zensoralen Wetterlage. Dabei mochte es vorkommen, dass ein Autor gar
 keinen Text zwischen den Zeilen geschrieben hatte: Die Deutungssucht von
 Zensor und Leser brachte einen solchen Text unweigerlich
-hervor.”[^23](#item-literature.xhtml#fntarg_23) Ob dem “unweigerlich”
+hervor.”[^23] Ob dem “unweigerlich”
 so war, wenn der Leser erst einmal einen Text in die Hand genommen
 hatte, sei dahingestellt. Auf die “fatalere Folge”, dass der Leser ein
 Buch immer in die Hand nahm (oder liegen ließ) mit dem Wissen, es ist
@@ -274,28 +274,28 @@ hin:
 > er es nur deshalb tat, um der Zensur aus dem Weg zu gehen. Das ist ja
 > eine der fatalsten Folgen der Zensur: dass alle nicht verbotene
 > Literatur mit dem Geruch existieren muß, erlaubt zu
-> sein.[^24](#item-literature.xhtml#fntarg_24)
+> sein.[^24]
 
 **2-13** So sind dann Stimmen motiviert, die die
 Vermittlung von Inhalten zur wichtigsten Daseinsberechtigung des
 DDR-Textes machen. “Andere Aspekte des Schreibens wie ... Leichtigkeit
 oder Kunstsinn oder Phantasie hatten ihre Bedeutung vor allem darin,
 dass sie das Eigentliche zur vollen Geltung bringen sollte, das
-Anliegen.”[^25](#item-literature.xhtml#fntarg_25) In einer
+Anliegen.”[^25] In einer
 Gesprächsrunde von DDR-Literaturkritikern fiel der Satz “Ein
 vergleichsweise massenhaftes Publikum hat diese Literatur als
-»Lebenshilfe« angenommen.”[^26](#item-literature.xhtml#fntarg_26).
+»Lebenshilfe« angenommen.”[^26].
 Dies zeigt, (außer dass es im Staat keine anderen Betätigungsfelder für
 'Lebenshilfe' gab), dass obige Folgen der Zuweisung einer
 “sozialpädogischen oder sozialaktivierenden
-Aufgabe”[^27](#item-literature.xhtml#fntarg_27) an den
+Aufgabe”[^27] an den
 Schriftsteller erkannt und zu einem gewissen Grad sanktioniert wurde.
 Antonia Grunenberg schrieb in Bezug
 auf das Erscheinen von Heins _Der fremde Freund_, “dass das in der DDR,
 deren Leserschaft trotz Generationswechsel und literarischen Neuerungen
 noch immer auf das Niveau der Lebenshilfeliteratur und der positiven
 Helden eingeschworen ist, als Provokation aufgegriffen
-wird....”[^28](#item-literature.xhtml#fntarg_28) Im Kapitel über
+wird....”[^28] Im Kapitel über
 Christoph Heins Buch wird es zu untersuchen sein, ob die Schwierigkeiten
 in der Rezeption die gesamte Leserschaft betraf, oder nur einige wenige
 innerhalb der DDR-Literaturkritiker.
@@ -312,13 +312,13 @@ Monika Maron aus:
 > nirgends lesen kann. Das sind dann die Stellen, die von meinen Lesern
 > hier am gierigsten gelesen werden, von den West-Rezensenten am
 > häufigsten zitiert, und die mir später in der Regel am wenigsten
-> gefallen.[^29](#item-literature.xhtml#fntarg_29)
+> gefallen.[^29]
 
 **2-15** So sieht Karl Corino in _Flugasche_ in
 erster Linie eine Art Dokumentation aus einer DDR-Zeitungsredaktion,
 denn “Hermann Kants _Impressum_ war eher Desinformation... »B. ist die schmutzigste Stadt
 Europas«, so müßte es heißen. Und was wird daraus? Ein Parteiverfahren
-und eine Kündigung.”[^30](#item-literature.xhtml#fntarg_30) Von
+und eine Kündigung.”[^30] Von
 einem schmerzhaften Entwicklungsprozeß der Protagonistin erfährt der
 Vorabinformierte nicht. Auch nicht, dass an dessen Ende die Kündigung
 Ergebnis des Entwicklungsprozesses ist, sie also von ihr aus geht.
@@ -331,7 +331,7 @@ in _Es geht seinen Gang..._ - d. A.) kaum Entfaltung gegönnt hat. Wo
 doch gerade sie den Dialog mit der tabuisierten und unverstandenen
 Geschichte ermöglichen könnte... das hätte einen anderen Roman gegeben,
 der in der DDR kaum hätte erscheinen
-können.”[^31](#item-literature.xhtml#fntarg_31) In der Tat ist
+können.”[^31] In der Tat ist
 Wolfgang Leonhards __Die Revolution
 entläßt ihre Kinder__ dort nie erschienen. Pikanterweise ist die Figur
 des Huppel genau die Figur, an die sich auch die offizielle DDR-Kritik
@@ -343,7 +343,7 @@ Tage_, das “von einer ruhigen Entschiedenheit und Klarheit ist, die im
 übrigen auch jenes andere, oft problematische Verfahren westlicher
 Rezensenten beim Umgang mit Ost-Literatur überflüssig machen: das
 Zwischen-den-Zeilen-Suchen nach oppositionellem
-Hintersinn...”[^32](#item-literature.xhtml#fntarg_32)
+Hintersinn...”[^32]
 
 **2-18** Lakonisch und sarkastisch heißt es bei Thomas
 Brasch zu einem Teil der westdeutschen Literaturkritik:
@@ -353,12 +353,12 @@ Brasch zu einem Teil der westdeutschen Literaturkritik:
 > rezipiert werden, als ei-ne Art Eingeborenenliteratur, die in einem
 > fremdartigen Dschungel spielt und ihre Besonderheit darin hat, dass sie
 > die Häuptlinge des Stammes anbellt, vergöttert oder ihnen listig ans
-> Schienbein tritt.[^33](#item-literature.xhtml#fntarg_33)
+> Schienbein tritt.[^33]
 
 Parallelen bei der Beurteilung von Literatur in Ost und West: nur dass
 das 'Dschungelmotiv' in der DDR obsolet war und die Betragensnoten von
 den “Expertenteams der
-Verlage”[^34](#item-literature.xhtml#fntarg_34) und den Lesern
+Verlage”[^34] und den Lesern
 vergeben wurden. Nicht allen westdeutschen Literaturwissenschaftlern
 kann man vorwerfen, dass der ideologiekritische Ansatz mit dem
 “wir-haben-es-ja-schon-immer-gewußt-Blick” vordergründigste Motivation
@@ -368,7 +368,7 @@ die Wichtigkeit berücksichtigt, die der Literatur von seiten der SED
 beigemessen wird, erhält gerade die Verweigerung von Schriftstellern
 eine besondere Bedeutung, weil sie durch ihr öffentliches Nachdenken als
 Multiplikatoren wirken
-können.”[^35](#item-literature.xhtml#fntarg_35) Wie fragwürdig es
+können.”[^35] Wie fragwürdig es
 ist, “Literatur auf Mut hin abzuklopfen”, macht Christoph Hein deutlich:
 
 Mut ist ... keine literarische Kategorie. Ich weiß nicht, ob Proust
@@ -377,7 +377,7 @@ was man über Shakespeare und Moliére weiß, waren sie nicht allzu mutig.
 Das ist eine moralisch-persönliche Haltung, aber keine literarische
 Frage. Man klopft nun die DDR-Literatur auf “Mut” ab, und dann fallen
 plötzlich Personen wie die Anna Seghers durch diesen Raster; das wird
-dann albern.[^36](#item-literature.xhtml#fntarg_36)
+dann albern.[^36]
 
 **2-19** Über das damalige Selbstverständnis als Künstler
 in der DDR schenkte Wolf Biermann einem neuen Aspekt
@@ -388,7 +388,7 @@ Achtung, nämlich “der familiären Verklammerung mit den Unterdrückern”.
 > Bruchbude. »Wolf, komm zur Vernunft! Hör auf mit solchen Liedern! Das
 > geht zu weit!... « [...] Und so redeten wir miteinander, ... bis aufs
 > Blut zerstritten, aber
-> Familie...[^37](#item-literature.xhtml#fntarg_37)
+> Familie...[^37]
 
 Dies ist eine Spielart und Teil dessen gewesen, was Hans-Joachim
 Maaz als eine wichtige Besonderheit des Lebens in der DDR ausmachte: die Infantilität.
@@ -402,7 +402,7 @@ Maaz als eine wichtige Besonderheit des Lebens in der DDR ausmachte: die Infanti
 > das Eingaberecht »gewährt«, und wenn wirklich mal zugunsten eines
 > Bürgers entschieden wurde, war es in der Regel die Partei, die
 > staatliche Entscheidungen
-> korrigierte.[^38](#item-literature.xhtml#fntarg_38)
+> korrigierte.[^38]
 
 **2-20** In diesem Zusammenhang müssen auch die
 Rezensionen des “autoritären” DDR-Literaturkritikers Werner Neubert
@@ -415,7 +415,7 @@ Urteil sei ein amtliches, kein literaturkritisches:
 > beabsichtigt: Speien, sich selbst bespeien, 'Geschichtchen auspressen':
 > damit ist der Autor in eine demütigende Kinderposition versetzt und der
 > Rezensent in die des Erziehungsberechtigten (ältester
-> Schule).[^39](#item-literature.xhtml#fntarg_39)
+> Schule).[^39]
 
 **2-21** Doch blieben Ausfälle dieser Art in der
 DDR-Literaturkritik die Ausnahme. Die mal mehr oder weniger subtilen
@@ -427,7 +427,7 @@ Polizei geäußert hatten. “... sogar eine schöne Reise habe man ihnen
 gewünscht, nein wirklich.... Die gesetzliche Rechtlosigkeit ist so weit
 verinnerlicht, dass das Zugeständnis minimaler Bürgerrechte als
 bedankenswerte Gnade empfunden
-wird.”[^40](#item-literature.xhtml#fntarg_40)
+wird.”[^40]
 
 **2-22** Diese erwähnten Bruchstücke vergangener
 DDR-Realität sollen hier den Begriff _repressives System_, wie er in
@@ -445,7 +445,7 @@ Folgen solche Normen nicht mehr natürlichen Prozessen, sondern werden
 von wirtschaftlichen, militärischen oder ideologischen Interessen
 dominiert, sind massenweise Unterdrückung natürlicher Bedürfnisse und
 normaler menschlicher Empfindungen die
-Folge.”[^41](#item-literature.xhtml#fntarg_41)
+Folge.”[^41]
 
 **2-23** Zwischen Selbstsicherheit und Selbstzweifel:
 Findung und Wahrung der Identität der Protagonisten. Die Identität des
@@ -470,7 +470,7 @@ Stahls 1984 unternommenen Versuch der Subjektbeschreibung:
 > allein festgehalten wird, in der ein sich selbst gewisses Ich der
 > objektiven Welt gegenübersteht, wird ein mechanischer
 > Bedingungszusammenhang zwischen gesellschaftlichem System und
-> literarischem Werk behauptet.[^42](#item-literature.xhtml#fntarg_42)
+> literarischem Werk behauptet.[^42]
 
 Der Terminus _Subjekt_ ist seines Erachtens noch immer ein “diffuses
 Wort”, denn “es bezeichnet den Menschen als einzelnes Individuum ebenso
@@ -485,13 +485,13 @@ mehr und mehr in Frage gestellt. Ziel seiner Arbeit ist 'lediglich' die
 “unterschiedlichen Positionen von Autoren in ihrer Behandlung der
 Subjektfrage vorzustellen, um so ein Spektrum entstehen zu lassen, in
 dem die Entwicklung und Tendenzen der DDR-Literatur insgesamt sichtbar
-werden.”[^43](#item-literature.xhtml#fntarg_43)
+werden.”[^43]
 
 **2-25** Diese Arbeit wird den Subjektbegriff nicht
 aufgreifen, sondern vom einzelnen Individuum ausgehen und bedenken,
 inwieweit es sich einer besonderen Individualität, d.h. der Heraushebung
 aus der Masse der Individuen, bewußt
-ist [^44](#item-literature.xhtml#fntarg_44). Eine These soll sein,
+ist [^44]. Eine These soll sein,
 dass je weniger ein Mensch sich als ein Individuum begreift, d. h. je
 weniger er an die Einmaligkeit und Unteilbarkeit seiner Person glaubt,
 desto geringer wird die Möglichkeit für ihn, zu einer Identität mit sich
@@ -513,7 +513,7 @@ sie “verblassen”:
 > Literatur, die sich an seiner Wirklichkeit abarbeitete, anachronistische
 > Züge. Mut zum Widerstand verdient Achtung und wird in die
 > Geschichtsbücher eingehen, qualifiziert aber noch nicht in ein Kapitel
-> in der Literaturgeschichte.[^45](#item-literature.xhtml#fntarg_45)
+> in der Literaturgeschichte.[^45]
 
 Ob der Pessimismus begründet ist, wird sich - durch die literarischen
 Werke selbst - zeigen. Warum er sich als unbegründet erweisen _könnte_,
@@ -521,7 +521,7 @@ erklärt Hüppauf eigentlich selbst. “Was bei der Lektüre von Literatur
 bisher mitgedacht wurde, nämlich die gesellschaftlichen Verhältnisse im
 Sozialismus, gehört nicht mehr zum Konstitutionsprozeß des Lesens. ...
 Die Texte der DDR-Literatur sind heute andere Texte als vor dem Fall der
-Mauer.”[^46](#item-literature.xhtml#fntarg_46) Das Schlußwort dieser
+Mauer.”[^46] Das Schlußwort dieser
 Einleitung bleibt Jörg Magenau vorbehalten:
 
 Es ist symptomatisch, dass auch die Fürsprecher eines verletzlichen, zu
@@ -538,188 +538,52 @@ ihrerseits vormundschaftliche Anmaßung und Angriff auf die Autonomie der
 Kunst. Wenn Kunst frei sein soll, muß sie auch die Freiheit zur
 politischen Intervention haben. Kunst ist vielfältiger, als die
 Verteidiger ihres reinen »Wesens« gerne wahrhaben
-möchten.[^47](#item-literature.xhtml#fntarg_47)
+möchten.[^47]
 
-[^1](#item-literature.xhtml#fnsrc_1) vgl. Kleinschmidt, Harald: »Es
-werden uns noch ganz schöne Hummeln um die Ohren fliegen« Zum VIII.
-Schriftsteller-Kongreß der DDR. In: Deutschland-Archiv, H.7/1978, Köln
-1978 und Jäger, Manfred: Kultur und Politik in der DDR. Ein historischer
-Abriß. Köln 1982, S. 163
-
-[^2](#item-literature.xhtml#fnsrc_2) Zit. n.: Jäger, Manfred, s.
-Fußn. 3, S. 181
-
-[^3](#item-literature.xhtml#fnsrc_3) Maron, Monika: Geformt durch
-die gleiche Kultur. In: ZEIT-Magazin, Nr.45/1987
-
-[^4](#item-literature.xhtml#fnsrc_4) Peters, Peter: Ich Wer ist das.
-Aspekte der Subjektdiskussion in Prosa und Drama der DDR (1976-1989),
-Frankfurt/M. 1993, S. 7
-
-[^5](#item-literature.xhtml#fnsrc_5) Emmerich, Wolfgang: Der
-verlorenen Faden. Probleme des Erzählens in den siebziger Jahren. In:
-Hohendahl/Herminghouse (Hrg): Literatur der DDR in den siebziger Jahren,
-Frankfurt/M. 1983, S. 176
-
-[^6](#item-literature.xhtml#fnsrc_6) Stahl, Sigrid: Der Ausbruch des
-Subjekts aus gesellschaftlicher Konformität. Frankfurt/M. 1984, S. 5
-
-[^7](#item-literature.xhtml#fnsrc_7) Kaufmann, Hans: Zur
-DDR-Literatur der siebziger Jahre. In: ders.: Über DDR-Literatur,
-Beiträge aus 25 Jahren. Berlin, Weimar 1986, S. 149
-
-[^8](#item-literature.xhtml#fnsrc_8) Emmerich, Wolfgang: Status
-melancholicus. Zur Transformation der Utopie in der DDR-Literatur. In:
-Literatur in der DDR, Rückblicke, Sonderband Text + Kritik, Hrg. Heinz
-Ludwig Arnold und Frauke Meyer-Gosau, München 1991,S. 239
-
-[^9](#item-literature.xhtml#fnsrc_9) ebd.
-
-[^10](#item-literature.xhtml#fnsrc_10) Zit. n.: Bark, Joachim:
-Erzählliteratur in der DDR (1976-1989), Stuttgart 1993
-
-[^11](#item-literature.xhtml#fnsrc_11) Hell, Julia: Christoph Hein´s
-Der Fremde Freund/Drachenblut and the Antinomies of Writing under <Real
-Existing Socialism>. In: Colloquia Germanica, Band 25, H. 3/4, 1992, S.
-308
-
-[^12](#item-literature.xhtml#fnsrc_12) ebd. S. 333
-
-[^13](#item-literature.xhtml#fnsrc_13) Zit. n. Jäger, Andrea:
-Schriftsteller-Identität und Zensur. In: Literatur in der DDR,
-Rückblicke, Sonderband Text + Kritik, Hrg. Heinz Ludwig Arnold und
-Frauke Meyer-Gosau, München 1991, S. 139
-
-[^14](#item-literature.xhtml#fnsrc_14) Saeger, Uwe: DDR-Literatur:
-politisch verstrickt. In: Die politische Meinung, Nr. 298, 9/1994, S. 88
-
-[^15](#item-literature.xhtml#fnsrc_15) Antonia Grunenberg (ZEIT,
-Apr. 1994) verglich den Streit über die DDR-Gesellschaft mit dem der
-Exilanten (Th. Mann) und den “inneren Emigranten” (Molo) nach 1945 und
-glaubt, drei Motive wiederzufinden: 1. das des “stellvertretenden
-Leidens” der im Lande verbleibenden, 2. das des Verrats der Gehenden an
-Dtschl. /DDR und 3. das Motiv der Selbstrechtfertigung der Gebliebenen
-
-[^16](#item-literature.xhtml#fnsrc_16) Kleines Lexikon A-Z, Leipzig
-1959, S. 189
-
-[^17](#item-literature.xhtml#fnsrc_17) Honecker, Erich: Bericht des
-Zk der SED an den 9. Parteitag der SED, Berlin 1976, S. 102
-
-[^18](#item-literature.xhtml#fnsrc_18) Honecker, Erich: Bericht des
-Zk der SED an den 10. Parteitag der SED, Berlin 1981, S. 107
-
-[^19](#item-literature.xhtml#fnsrc_19) Jäger, Andrea: s. Fußn. 16,
-S. 144, Die Ursache für die Überbewertung der Literatur sieht sie darin,
-daß in der Wirtschaft aufgrund fehlender Konkurrenz völlig uneigenützige
-Arbeiter vonnöten war, deren selbstlose sozialistische Moral Literatur
-mit ausprägen helfen sollte. Der Sozialistische Realismus, da beliebig
-anwendbar, diente lediglich zur Legitimation von Zensururteilen: die
-Zensurpraxis selbst war eine Praxis der Staatsicherheit. - Die
-Fomulierung “also in den Köpfen des Volkes erfolgreich verankert war”
-verdiente m. E. eingehendere Erläuterung.
-
-[^20](#item-literature.xhtml#fnsrc_20) Becker, Jurek: Die
-Wiedervereinigung der deutschen Literatur. In: Text und Kritik 116:
-Jurek Becker, München 1992, S. 77
-
-[^21](#item-literature.xhtml#fnsrc_21) Maron, Monika: s. Fußn. 5
-
-[^22](#item-literature.xhtml#fnsrc_22) Löffler, Sigrid: “Die alten
-Themen habe ich noch, jetzt kommen neue dazu”. Gespräch mit Christoph
-Hein (März 1990), in: Lothar Baier (Hrg.): Christoph Hein, Texte, Daten,
-Bilder, Frankfurt a.M. 1990, S. 37
-
-[^23](#item-literature.xhtml#fnsrc_23) Grüning, Uwe: DDR: die
-dichterische Gegenwelt. In: Die politische Meinung, Nr. 292, 3/1994, S.
-47
-
-[^24](#item-literature.xhtml#fnsrc_24) Becker, Jurek: s. Fußn. 22,
-S. 79
-
-[^25](#item-literature.xhtml#fnsrc_25) ebd. S. 78
-
-[^26](#item-literature.xhtml#fnsrc_26) DDR-Literaturentwicklung in
-der Diskussion, H. Haase, W. Hartinger, U. Heukenkamp, K. Jarmatz, J.
-Pischel, D. Schlenstedt. In: Weimarer Beiträge., H. 10/1984, S. 1590,
-siehe auch Weimarer Beiträge H. 7/1979: Gespräch mit jungen Autoren wie
-Stefan Ernst: “Und wenn nur die eine Wahrheit existiert, nämlich die
-öffentliche, ... Aber da gibt es ja noch die Wahrheit in den Büchern, im
-Kunstwerk. Die Kunst als Lebenshilfe.”
-
-[^27](#item-literature.xhtml#fnsrc_27) Emmerich, Wolfgang: Kleine
-Literaturgeschichte der DDR. Darmstadt 1989, S. 17
-
-[^28](#item-literature.xhtml#fnsrc_28) Grunenberg, Antonia:
-Geschichte und Entfremdung. Christoph Hein als Autor der DDR. In: Klaus
-Hammer (Hrg.): Chronist ohne Botschaft - Christoph Hein. Ein
-Arbeitsbuch. Berlin, Weimar 1992, S. 79
-
-[^29](#item-literature.xhtml#fnsrc_29) Maron, Monika: Geformt durch
-die gleiche Kultur. In: ZEIT-Magazin, Nr.45/1987
-
-[^30](#item-literature.xhtml#fnsrc_30) Corino, Karl: Dann wird eben
-nicht zu Ende gedacht. Monika Marons Roman »Flugasche« und der
-Journalismus in der DDR. In: Deutsche Literatur 1981. Ein
-Jahresrückblick, Stuttgart 1982, S. 175
-
-[^31](#item-literature.xhtml#fnsrc_31) Mohr, Heinrich: Mühen in
-unserer Ebene. Erich Loest und sein neuer Roman. In: Deutschland-Archiv,
-H.8/1978, Köln 1978, S. 877
-
-[^32](#item-literature.xhtml#fnsrc_32) Becker, Rolf: Anfang der
-Aufrichtigkeit. Jurek Becker: Schlaflose Tage. In: Der Spiegel v.
-6.3.1978, S. 211
-
-[^33](#item-literature.xhtml#fnsrc_33) Zit. n.: Stahl, Sigrid: Der
-Ausbruch des Subjekts aus gesellschaftlicher Konformität. Frankfurt/M.
-1984, S. 8
-
-[^34](#item-literature.xhtml#fnsrc_34) vgl. Interview mit Elmar
-Faber. In: Börsenblatt für den deutschen Buchhandel 76, 24.9.1993, S. 12
-
-[^35](#item-literature.xhtml#fnsrc_35) Stahl, Sigrid: s. Fußn. 35,
-S. 109
-
-[^36](#item-literature.xhtml#fnsrc_36) Bischof, Alois: »Mut ist
-keine literarische Kategorie« Gespräch mit Christoph Hein (1985). In:
-Lothar Baier (Hrg.): Christoph Hein, Texte, Daten, Bilder, Frankfurt
-a.M. 1990, S. 95
-
-[^37](#item-literature.xhtml#fnsrc_37) Biermann, Wolf: Nur wer sich
-ändert, bleibt sich treu. In: Thomas Anz (Hrg.): Der Literaturstreit im
-vereinten Deutschland, München 1991, S. 149
-
-[^38](#item-literature.xhtml#fnsrc_38) Maaz, Hans Joachim: Der
-Gefühlsstau. Ein Psychogramm der DDR. München 1992, S. 85f
-
-[^39](#item-literature.xhtml#fnsrc_39) Kuner, Günter: Deutschkunde.
-In: Die Zeit, Nr. 47/1978. Zit. n.: Stahl, Sigrid: Der Ausbruch des
-Subjekts aus gesellschaftlicher Konformität. Frankfurt/M. 1984, S. 248
-
-[^40](#item-literature.xhtml#fnsrc_40) Maron, Monika: Kein Recht,
-sondern Gnade. In: ZEIT-Magazin, Nr.41/1987, S. 6
-
-[^41](#item-literature.xhtml#fnsrc_41) Maaz, Hans Joachim: s. Fußn.
-40, S. 57
-
-[^42](#item-literature.xhtml#fnsrc_42) Peters, Peter: Ich Wer ist
-das. Aspekte der Subjektdiskussion in Prosa und Drama der DDR
-(1976-1989), Frankfurt/M. 1993, S. 6
-
-[^43](#item-literature.xhtml#fnsrc_43) Peter Peters: s. Fußn. 44, S.
-8ff
-
-[^44](#item-literature.xhtml#fnsrc_44) vgl. Psychologisches
-Wörterbuch herausgeg. von Friedrich Dorsch, Bern 1991, S. 304
-
-[^45](#item-literature.xhtml#fnsrc_45) Hüppauf, Bernd: Moral oder
-Sprache. DDR-Literatur vor der Moderne. In: Literatur in der DDR,
-Rückblicke, Sonderband Text + Kritik, Hrg. Arnold, Heinz Ludwig und
-Meyer-Gosau, Frauke, München 1991, S. 228
-
-[^46](#item-literature.xhtml#fnsrc_46) ebd. S. 229
-
-[^47](#item-literature.xhtml#fnsrc_47) Magenau, Jörg: Strukturelle
-Befangenheiten. Die Intellektuellen-Debatte. In: Verrat an der Kunst?
-Rückblicke auf die DDR-Literatur. Berlin, Weimar 1993, S. 62
+[^1]: vgl. Kleinschmidt, Harald: »Es werden uns noch ganz schöne Hummeln um die Ohren fliegen« Zum VIII. Schriftsteller-Kongreß der DDR. In: Deutschland-Archiv, H.7/1978, Köln 1978 und Jäger, Manfred: Kultur und Politik in der DDR. Ein historischer Abriß. Köln 1982, S. 163
+[^2]: Zit. n.: Jäger, Manfred, s. Fußn. 3, S. 181
+[^3]: Maron, Monika: Geformt durch die gleiche Kultur. In: ZEIT-Magazin, Nr.45/1987
+[^4]: Peters, Peter: Ich Wer ist das. Aspekte der Subjektdiskussion in Prosa und Drama der DDR (1976-1989), Frankfurt/M. 1993, S. 7
+[^5]: Emmerich, Wolfgang: Der verlorenen Faden. Probleme des Erzählens in den siebziger Jahren. In: Hohendahl/Herminghouse (Hrg): Literatur der DDR in den siebziger Jahren, Frankfurt/M. 1983, S. 176
+[^6]: Stahl, Sigrid: Der Ausbruch des Subjekts aus gesellschaftlicher Konformität. Frankfurt/M. 1984, S. 5
+[^7]: Kaufmann, Hans: Zur DDR-Literatur der siebziger Jahre. In: ders.: Über DDR-Literatur, Beiträge aus 25 Jahren. Berlin, Weimar 1986, S. 149
+[^8]: Emmerich, Wolfgang: Status melancholicus. Zur Transformation der Utopie in der DDR-Literatur. In: Literatur in der DDR, Rückblicke, Sonderband Text + Kritik, Hrg. Heinz Ludwig Arnold und Frauke Meyer-Gosau, München 1991,S. 239
+[^9]: ebd.
+[^10]: Zit. n.: Bark, Joachim: Erzählliteratur in der DDR (1976-1989), Stuttgart 1993
+[^11]: Hell, Julia: Christoph Hein´s Der Fremde Freund/Drachenblut and the Antinomies of Writing under <Real Existing Socialism>. In: Colloquia Germanica, Band 25, H. 3/4, 1992, S. 308
+[^12]: ebd. S. 333
+[^13]: Zit. n. Jäger, Andrea: Schriftsteller-Identität und Zensur. In: Literatur in der DDR, Rückblicke, Sonderband Text + Kritik, Hrg. Heinz Ludwig Arnold und Frauke Meyer-Gosau, München 1991, S. 139
+[^14]: Saeger, Uwe: DDR-Literatur: politisch verstrickt. In: Die politische Meinung, Nr. 298, 9/1994, S. 88
+[^15]: Antonia Grunenberg (ZEIT, Apr. 1994) verglich den Streit über die DDR-Gesellschaft mit dem der Exilanten (Th. Mann) und den “inneren Emigranten” (Molo) nach 1945 und glaubt, drei Motive wiederzufinden: 1. das des “stellvertretenden Leidens” der im Lande verbleibenden, 2. das des Verrats der Gehenden an Dtschl. /DDR und 3. das Motiv der Selbstrechtfertigung der Gebliebenen
+[^16]: Kleines Lexikon A-Z, Leipzig 1959, S. 189
+[^17]: Honecker, Erich: Bericht des Zk der SED an den 9. Parteitag der SED, Berlin 1976, S. 102
+[^18]: Honecker, Erich: Bericht des Zk der SED an den 10. Parteitag der SED, Berlin 1981, S. 107
+[^19]: Jäger, Andrea: s. Fußn. 16, S. 144, Die Ursache für die Überbewertung der Literatur sieht sie darin, daß in der Wirtschaft aufgrund fehlender Konkurrenz völlig uneigenützige Arbeiter vonnöten war, deren selbstlose sozialistische Moral Literatur mit ausprägen helfen sollte. Der Sozialistische Realismus, da beliebig anwendbar, diente lediglich zur Legitimation von Zensururteilen: die Zensurpraxis selbst war eine Praxis der Staatsicherheit. - Die Fomulierung “also in den Köpfen des Volkes erfolgreich verankert war” verdiente m. E. eingehendere Erläuterung.
+[^20]: Becker, Jurek: Die Wiedervereinigung der deutschen Literatur. In: Text und Kritik 116: Jurek Becker, München 1992, S. 77
+[^21]: Maron, Monika: s. Fußn. 5
+[^22]: Löffler, Sigrid: “Die alten Themen habe ich noch, jetzt kommen neue dazu”. Gespräch mit Christoph Hein (März 1990), in: Lothar Baier (Hrg.): Christoph Hein, Texte, Daten, Bilder, Frankfurt a.M. 1990, S. 37
+[^23]: Grüning, Uwe: DDR: die dichterische Gegenwelt. In: Die politische Meinung, Nr. 292, 3/1994, S. 47
+[^24]: Becker, Jurek: s. Fußn. 22, S. 79
+[^25]: ebd. S. 78
+[^26]: DDR-Literaturentwicklung in der Diskussion, H. Haase, W. Hartinger, U. Heukenkamp, K. Jarmatz, J. Pischel, D. Schlenstedt. In: Weimarer Beiträge., H. 10/1984, S. 1590, siehe auch Weimarer Beiträge H. 7/1979: Gespräch mit jungen Autoren wie Stefan Ernst: “Und wenn nur die eine Wahrheit existiert, nämlich die öffentliche, ... Aber da gibt es ja noch die Wahrheit in den Büchern, im Kunstwerk. Die Kunst als Lebenshilfe.”
+[^27]: Emmerich, Wolfgang: Kleine Literaturgeschichte der DDR. Darmstadt 1989, S. 17
+[^28]: Grunenberg, Antonia: Geschichte und Entfremdung. Christoph Hein als Autor der DDR. In: Klaus Hammer (Hrg.): Chronist ohne Botschaft - Christoph Hein. Ein Arbeitsbuch. Berlin, Weimar 1992, S. 79
+[^29]: Maron, Monika: Geformt durch die gleiche Kultur. In: ZEIT-Magazin, Nr.45/1987
+[^30]: Corino, Karl: Dann wird eben nicht zu Ende gedacht. Monika Marons Roman »Flugasche« und der Journalismus in der DDR. In: Deutsche Literatur 1981. Ein Jahresrückblick, Stuttgart 1982, S. 175
+[^31]: Mohr, Heinrich: Mühen in unserer Ebene. Erich Loest und sein neuer Roman. In: Deutschland-Archiv, H.8/1978, Köln 1978, S. 877
+[^32]: Becker, Rolf: Anfang der Aufrichtigkeit. Jurek Becker: Schlaflose Tage. In: Der Spiegel v. 6.3.1978, S. 211
+[^33]: Zit. n.: Stahl, Sigrid: Der Ausbruch des Subjekts aus gesellschaftlicher Konformität. Frankfurt/M. 1984, S. 8
+[^34]: vgl. Interview mit Elmar Faber. In: Börsenblatt für den deutschen Buchhandel 76, 24.9.1993, S. 12
+[^35]: Stahl, Sigrid: s. Fußn. 35, S. 109
+[^36]: Bischof, Alois: »Mut ist keine literarische Kategorie« Gespräch mit Christoph Hein (1985). In: Lothar Baier (Hrg.): Christoph Hein, Texte, Daten, Bilder, Frankfurt a.M. 1990, S. 95
+[^37]: Biermann, Wolf: Nur wer sich ändert, bleibt sich treu. In: Thomas Anz (Hrg.): Der Literaturstreit im vereinten Deutschland, München 1991, S. 149
+[^38]: Maaz, Hans Joachim: Der Gefühlsstau. Ein Psychogramm der DDR. München 1992, S. 85f
+[^39]: Kuner, Günter: Deutschkunde. In: Die Zeit, Nr. 47/1978. Zit. n.: Stahl, Sigrid: Der Ausbruch des Subjekts aus gesellschaftlicher Konformität. Frankfurt/M. 1984, S. 248
+[^40]: Maron, Monika: Kein Recht, sondern Gnade. In: ZEIT-Magazin, Nr.41/1987, S. 6
+[^41]: Maaz, Hans Joachim: s. Fußn. 40, S. 57
+[^42]: Peters, Peter: Ich Wer ist das. Aspekte der Subjektdiskussion in Prosa und Drama der DDR (1976-1989), Frankfurt/M. 1993, S. 6
+[^43]: Peter Peters: s. Fußn. 44, S. 8ff
+[^44]: vgl. Psychologisches Wörterbuch herausgeg. von Friedrich Dorsch, Bern 1991, S. 304
+[^45]: Hüppauf, Bernd: Moral oder Sprache. DDR-Literatur vor der Moderne. In: Literatur in der DDR, Rückblicke, Sonderband Text + Kritik, Hrg. Arnold, Heinz Ludwig und Meyer-Gosau, Frauke, München 1991, S. 228
+[^46]: ebd. S. 229
+[^47]: Magenau, Jörg: Strukturelle Befangenheiten. Die Intellektuellen-Debatte. In: Verrat an der Kunst? Rückblicke auf die DDR-Literatur. Berlin, Weimar 1993, S. 62

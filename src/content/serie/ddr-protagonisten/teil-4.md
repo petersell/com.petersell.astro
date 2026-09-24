@@ -15,7 +15,7 @@ Der Lehrer für Deutsch und
 Geschichte Karl Simrock “verspürt wenige Wochen nach seinem
 sechsunddreißigsten Geburtstag, während einer Unterrichtsstunde,... zum
 ersten Mal im Leben sein
-Herz.”[^1](#item-literature.xhtml#fntarg_1)(7).
+Herz.”[^1](7).
 
 > Die Furcht, herzkrank zu sein, hatte sich zwar mit erfreulicher
 > Geschwindigkeit verloren, dafür gewann ein Begleitumstand an Bedeutung:
@@ -66,21 +66,21 @@ großen Teilen Reflektor, - der personale Erzähler tritt zurück.
 > eine Erzählerfigur mitgeteilt oder durch eine Reflektorfigur präsentiert
 > wird, liegt in der Hauptsache darin, daß sich die Erzählerfigur immer
 > bewußt ist, daß sie erzählt, während eine Reflektorfigur solches
-> Bewußtsein völlig fehlt.[^2](#item-literature.xhtml#fntarg_2)
+> Bewußtsein völlig fehlt.[^2]
 
 Wolfgang Wülff hatte das Erzählte bereits 'bewältigt' und erzählt in
 einer überschaubaren und geordneten Weise. Simrock als Reflektor steht
 in “keinerlei persönlichem Verhältnis zum Leser, er ist daher auch nicht
 gehalten..., sich oder dem Leser Rechenschaft darüber zu geben, was von
 seinem Bewußtsein registriert und was nicht wahrgenommen
-wird.”[^3](#item-literature.xhtml#fntarg_3)
+wird.”[^3]
 
 Diesem Prinzip entsprechend erzählt der Erzähler (mit Außenperspektive)
 nur die Episoden und Ereignisse, die für Simrocks Erkenntnis- und
 Identitätsprozeß von herausragender Bedeutung sind. Er braucht diese
 nicht erzähltechnisch zu begründen mit der Wesentlichkeit,
 Interessantheit der Teile für das Ganze der
-Erzählung[^4](#item-literature.xhtml#fntarg_4). So erscheinen die
+Erzählung[^4]. So erscheinen die
 Sequenzen manchmal ohne Übergang, ohne epische Breite und Details,
 jedoch aber chronologisch aneinandergereiht. Z. B. wirkt Antonias
 Fluchtversuch unmotiviert, zumindestens unerwartet. Doch ist durch die
@@ -96,14 +96,14 @@ Büro, ohne ihn aufzuklären, warum (53).
 **4-04** Für Manfred Durzak ist es eine bewußt
 einfach erzählte Geschichte “unter Verzicht auf alle literarische
 Stilisierung”: “kunstlos und bis zur schriftstellerischen Selbstaufgabe
-gehalten...”[^5](#item-literature.xhtml#fntarg_5) An anderer Stelle
+gehalten...”[^5] An anderer Stelle
 klingt es weniger verständnisvoll: “Beckers Roman wirkt modellhaft
-konstruiert...”[^6](#item-literature.xhtml#fntarg_6) Kann man die
+konstruiert...”[^6] Kann man die
 Kritik an der Abfolge der Ereignisse ohne Entwicklungstendenzen mit der
 personalen Erzählsituation, und die gestelzte Schriftsprache mit der Art
 und Weise des Simrockschen Reflektierens erklären, verhält es sich mit
 dem Vorwurf, “daß es die Themen sind, die berühren, nicht die
-Figuren”[^7](#item-literature.xhtml#fntarg_7) ganz anders. An
+Figuren”[^7] ganz anders. An
 gleicher Stelle heißt es, Simrock gerate zum “Demonstrationsobjekt mit
 beschränkter Haftung”, und viele seiner Sätze “bleiben Spruchbänder”.
 Ist die bestehende Gesellschaft der eigentliche Gegenstand des Romans
@@ -211,7 +211,7 @@ Hinweis auf die Freiwilligkeit der Teilnehme den Schülern gegenüber eine
 > ich mich auf dich berufen. (54f)
 
 So sieht Patricia A. Simpson Beckers Hauptanliegen in “problems of definition”, denn Simrock “probes the gap
-between theory and reality”[^8](#item-literature.xhtml#fntarg_8) .
+between theory and reality”[^8] .
 
 > In _Schlaflose Tage_, Becker´s use of understatement points to the
 > exaggerations and hyperbole of official state rhetoric. In this novel,
@@ -222,7 +222,7 @@ between theory and reality”[^8](#item-literature.xhtml#fntarg_8) .
 > in literature, to represent that truth. Following the advice given by
 > Brecht in his poem “Lob des Zweifels,” Becker´s central figure carefully
 > examines the authenticity of his words in order to establish the measure
-> of their truth.[^9](#item-literature.xhtml#fntarg_9)
+> of their truth.[^9]
 
 **4-10** Als Simrock aus pragmatischen Erwägungen der
 Schulleitung einen Brief voller Halbwahrheiten schreibt, um eine
@@ -245,7 +245,7 @@ Bedeutung der Wörter? Denn für Simpson ist klar, daß Simrocks Suche nach
 Identität dafür in den Hintergrund treten muß. Für sie ist er ein
 “representative character on an allogorical journey through the unstable
 middle ground between theory and
-practice...”[^10](#item-literature.xhtml#fntarg_10) Bei seinen
+practice...”[^10] Bei seinen
 Lehrerkollegen wird er für seinen Wunsch, in den Ferien als “Urlaub zur
 Weiterbildung (sic!) eine körperliche Arbeit zu tun” (76) kaum auf
 Verständnis, geschweige Bewunderung stoßen. Sie können nicht Adressat
@@ -283,7 +283,7 @@ war er der Einschätzung von Hans-Joachim Maaz nach der ideale Lehrer:
 > bereits häufig die Zulassung zum Lehrerstudium besonders labile Menschen
 > bevorzugte, die unsicher und eingeschüchtert waren, so daß sie dem
 > System als staatstreue und ergebene Diener zum Vorbild für den Nachwuchs
-> geeignet erschien.[^11](#item-literature.xhtml#fntarg_11)
+> geeignet erschien.[^11]
 
 Auf den Versuch der Schulrätin am Ende des Buches, Simrock in einem
 Ritual der Selbstkritik jegliche Selbstachtung zu nehmen, antwortet
@@ -301,7 +301,7 @@ Volksbildung durchschaut und verweigert sich ihr.
 > einem idealistischen Programm an der Wirklichkeit, und dies allerdings
 > (in bezug auf seinen Unterricht, nicht auf die Republikflucht natürlich)
 > könnte ihm in beiden deutschen Staaten
-> passieren.[^12](#item-literature.xhtml#fntarg_12)
+> passieren.[^12]
 
 Es ist in der Tat ein idealistisches Programm, daß ihn in jeder
 schulischen Wirklichkeit scheitern ließe. Doch auch Karl Simrock
@@ -397,7 +397,7 @@ Hier ist Simrock wieder ganz Pädagoge, der sich für das (Nicht)Handeln
 seiner Schüler verantwortlich fühlt, als ob er sie in irgend einer Weise
 (seiner) formen könnte. Becker geht hier wieder vom Lehrerbild des
 “Schaffens am Menschen” von Anna
-Seghers [^13](#item-literature.xhtml#fntarg_13) aus. Sein Simrock
+Seghers [^13] aus. Sein Simrock
 leidet an einer Selbstüberschätzung seines Berufstandes. Man mag sich
 über die staatstragende Funktion des Lehrers streiten wie man will, in
 der DDR sind trotzdem nicht alle Kinder Kommunisten geworden... Diese
@@ -498,7 +498,7 @@ Antonia, die ohne Politik sehr gut zu Recht kommt:
 > gescheiter Sozialist nicht abhalten lassen.« (74)
 
 Klaus Höpke äußerte sich auf der Leipziger Buchmesse 1978, wo Sängerin Gisela May zur Eröffnung Brechts _Lob des Lernens_ zum Vortrage brachte, ablehnend zu
-Beckers Buch [^14](#item-literature.xhtml#fntarg_14). Er hielt sich
+Beckers Buch [^14]. Er hielt sich
 wohl für einen “Betreiber” und war in der Lage, den Umkehrschluß zu
 ziehen. Antonia erwidert Simrock, sie sei “nur ein gescheiter Mensch”
 und ihre “Interesselosigkeit ist die einzige Methode, sich zu schützen.”
@@ -522,7 +522,7 @@ des Wortes spontanen “Grenzübertritt” in Ungarn und ihrer anschließenden
 Haftstrafe bestärkt sie Simrock, bis zu seinen inneren Grenzen (vgl. 28)
 vorzustoßen. Letzterer hat im Zusammenhang mit Antonias Verurteilung
 genug Bekanntschaft mit kafkaesken Uniformierten
-gemacht[^15](#item-literature.xhtml#fntarg_15) , so daß es ihm eine
+gemacht[^15] , so daß es ihm eine
 Freude ist, in der Deutschstunde anstelle von Heinrich Manns Untertanen
 einen NVA-Offizier vorzuführen. Die Demontage des Offiziers führt zu
 Simrocks Entlassung, nachdem dieser, anstelle zu argumentieren, Simrock
@@ -558,7 +558,7 @@ Zum Ende muß Simrock sehen, daß seine Lage ihm vorkommt “wie das
 Resultat von Umständen, die außerhalb seiner Verantwortung lagen...” Es
 stört ihn an der “Zwangsläufigkeit seiner Handlungen das Schicksalhafte”
 (157). Wenn Jürgen
-Wallmann[^16](#item-literature.xhtml#fntarg_16) schreibt, daß der
+Wallmann[^16] schreibt, daß der
 einzelne nur zählt, wenn er seine Identität an die Prinzipien des
 Sozialismus abtritt, könnte man sagen, Simrock hat die seine bewahrt.
 Bewahrt für den 'wahren Sozialismus'? Ganz gleich, für Simrock war der
@@ -600,7 +600,7 @@ in einer weniger autoritären Umgebung groß wurde, ist darauf nicht
 angewiesen. Für ihn zählen andere Werte. Mögen diese im Urteil des
 Lesers auch noch so umstritten sein: Wülff ist nie in die Nähe gerückt,
 als Protagonist zu einem “Demonstrationsobjekt mit beschränkter
-Haftung”[^17](#item-literature.xhtml#fntarg_17) reduziert zu werden.
+Haftung”[^17] reduziert zu werden.
 
 **4-27**
 [Klaus Höpke](http://de.wikipedia.org/wiki/Klaus_H%C3%B6pcke) schrieb in
@@ -611,75 +611,12 @@ Anzeige in der Zeitung_:
 > Urteile und Ansichten, die den Kommunisten von jeher eigen ist. Es geht
 > um die Aufrichtigkeit und Ehrlichkeit, deren weitere Durchsetzung in der
 > Gesellschaft einer der Grundprozesse menschlichen Zusammenlebens im
-> realen Sozialismus ist.[^18](#item-literature.xhtml#fntarg_18)
+> realen Sozialismus ist.[^18]
 
 Autor und Anlaß entlarven sich selbst. Offen bleibt, ob Simrock erkennt,
 daß für o.g. Eigenschaften jedermann selbst verantwortlich ist, egal in
 welcher Gesellschaft er lebt. Jeder selbst bestimmt in ihr das Maß an
 Solidarität und Mitmenschlichkeit, keine Ideologie oder gar Utopie.
-
-[^1](#item-literature.xhtml#fnsrc_1) Becker, Jurek: Schlaflose Tage,
-Frankfurt a. M. 1994 (suhrkamp taschenbuch 626), alle Zitate folgen
-dieser Ausgabe
-
-[^2](#item-literature.xhtml#fnsrc_2) Stanzel, Franz K.: Theorie des
-Erzählens, Göttingen 1995, S. 197
-
-[^3](#item-literature.xhtml#fnsrc_3) ebd. S. 205
-
-[^4](#item-literature.xhtml#fnsrc_4) vgl. ebd. S. 207
-
-[^5](#item-literature.xhtml#fnsrc_5) Durzak, Manfred: Der deutsche
-Roman der Gegenwart, Stuttgart u.a. 1979, S. 423
-
-[^6](#item-literature.xhtml#fnsrc_6) Grunenberg, Antonia: Aufbruch
-der inneren Mauer. Politik und Kultur in der DDR 1971-1990, Bremen 1990,
-S. 170
-
-[^7](#item-literature.xhtml#fnsrc_7) Lüdke-Haertel, S./ Töteberg,
-M.: Jurek Becker. In: Kritisches Lexikon zur deutschsprachigen
-Gegenwartsliteratur. Hrsg. Heinz Ludwig Arnold. München 1978ff, S. 6
-
-[^8](#item-literature.xhtml#fnsrc_8) Simpson, Patricia A.: The
-Production of Meaning in Jurek Becker´s Schlaflose Tage. In: Seminar: A
-Journal of Germanic Studies, Vol. 27, Number 2, May 1991, S. 160 u. 166
-
-[^9](#item-literature.xhtml#fnsrc_9) Simpson, Patricia A.: The
-Production of Meaning in Jurek Becker´s Schlaflose Tage. In: Seminar: A
-Journal of Germanic Studies, Vol. 27, Number 2, May 1991, S. 160 u. 166
-
-[^10](#item-literature.xhtml#fnsrc_10) ebd. S. 166
-
-[^11](#item-literature.xhtml#fnsrc_11) Maaz, Hans Joachim: Der
-Gefühlsstau. Ein Psychogramm der DDR. München 1992, S. 27
-
-[^12](#item-literature.xhtml#fnsrc_12) Bremer, Thomas: Roman eines
-Störenfrieds. In: Neue Rundschau, 89. Jg, H.3/1978, S. 476
-
-[^13](#item-literature.xhtml#fnsrc_13) Schachtsiek-Freitag, Norbert:
-»Ich werde unbequem sein müssen« Lehrerporträts in neuerer DDR-Prosa.
-In: Die DDR-Gesellschaft im Spiegel ihrer Literatur, Gisela Helwig
-(Hrg), Köln 1986, S. 114
-
-[^14](#item-literature.xhtml#fnsrc_14) vgl. Wallmann, Jürgen P.: Zur
-Leipziger Buchmesse 1978. In: Deutschland-Archiv, H.4/1978, Köln 1978,
-S. 344
-
-[^15](#item-literature.xhtml#fnsrc_15) zu inhaltlichen und formellen
-Parallelen mit Kafka siehe: Wieczorek, John P.: Irreführung durch
-Erzählperspektive? The East German Novels of Jurek Becker. In: The
-Modern Language Review, Vol. 85, Part 3, July 1990
-
-[^16](#item-literature.xhtml#fnsrc_16) vgl. Jürgen Wallmann, J.
-Becker: Schlaflose Tage, Neue Deutsche Hefte, Jg. 25, H.1/1978
-
-[^17](#item-literature.xhtml#fnsrc_17) Lüdke, W. Martin:
-Demonstrationsobjekt mit beschränkter Haftung. In: Frankfurter
-Rundschau, 27. 5. 1978
-
-[^18](#item-literature.xhtml#fnsrc_18) Höpke, Klaus: Günter Görlich:
-Eine Anzeige in der Zeitung. In: Kritik ´78 - Rezensionen zur
-DDR-Literatur, Halle Leipzig 1979, S. 39
 
 ## Literaturverzeichnis
 
@@ -740,3 +677,22 @@ konkret, H.2, Frühjahr 1978
 Zipser, Richard A.: Interview with Jurek Becker (May, 1978 - Oberlin,
 Ohio). In: Dimension. Contemporary German Arts and Letters, Vol. 11,
 Number 3, 1978
+
+[^1]: Becker, Jurek: Schlaflose Tage, Frankfurt a. M. 1994 (suhrkamp taschenbuch 626), alle Zitate folgen dieser Ausgabe
+[^2]: Stanzel, Franz K.: Theorie des Erzählens, Göttingen 1995, S. 197
+[^3]: ebd. S. 205
+[^4]: vgl. ebd. S. 207
+[^5]: Durzak, Manfred: Der deutsche Roman der Gegenwart, Stuttgart u.a. 1979, S. 423
+[^6]: Grunenberg, Antonia: Aufbruch der inneren Mauer. Politik und Kultur in der DDR 1971-1990, Bremen 1990, S. 170
+[^7]: Lüdke-Haertel, S./ Töteberg, M.: Jurek Becker. In: Kritisches Lexikon zur deutschsprachigen Gegenwartsliteratur. Hrsg. Heinz Ludwig Arnold. München 1978ff, S. 6
+[^8]: Simpson, Patricia A.: The Production of Meaning in Jurek Becker´s Schlaflose Tage. In: Seminar: A Journal of Germanic Studies, Vol. 27, Number 2, May 1991, S. 160 u. 166
+[^9]: Simpson, Patricia A.: The Production of Meaning in Jurek Becker´s Schlaflose Tage. In: Seminar: A Journal of Germanic Studies, Vol. 27, Number 2, May 1991, S. 160 u. 166
+[^10]: ebd. S. 166
+[^11]: Maaz, Hans Joachim: Der Gefühlsstau. Ein Psychogramm der DDR. München 1992, S. 27
+[^12]: Bremer, Thomas: Roman eines Störenfrieds. In: Neue Rundschau, 89. Jg, H.3/1978, S. 476
+[^13]: Schachtsiek-Freitag, Norbert: »Ich werde unbequem sein müssen« Lehrerporträts in neuerer DDR-Prosa. In: Die DDR-Gesellschaft im Spiegel ihrer Literatur, Gisela Helwig (Hrg), Köln 1986, S. 114
+[^14]: vgl. Wallmann, Jürgen P.: Zur Leipziger Buchmesse 1978. In: Deutschland-Archiv, H.4/1978, Köln 1978, S. 344
+[^15]: zu inhaltlichen und formellen Parallelen mit Kafka siehe: Wieczorek, John P.: Irreführung durch Erzählperspektive? The East German Novels of Jurek Becker. In: The Modern Language Review, Vol. 85, Part 3, July 1990
+[^16]: vgl. Jürgen Wallmann, J. Becker: Schlaflose Tage, Neue Deutsche Hefte, Jg. 25, H.1/1978
+[^17]: Lüdke, W. Martin: Demonstrationsobjekt mit beschränkter Haftung. In: Frankfurter Rundschau, 27. 5. 1978
+[^18]: Höpke, Klaus: Günter Görlich: Eine Anzeige in der Zeitung. In: Kritik ´78 - Rezensionen zur DDR-Literatur, Halle Leipzig 1979, S. 39

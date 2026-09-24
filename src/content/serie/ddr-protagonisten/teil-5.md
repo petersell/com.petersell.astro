@@ -39,7 +39,7 @@ auf den Generaldirektor. Über den Vorwurf, dass er, der Heizer, die
 > Seinen Generaldirektor könne der Minister mit ein paar Sätzen zur
 > Ordnung und Disziplin rufen, ein Telefonat oder ein Brief, und dann ist
 > Ruhe. Was soll ein Generaldirektor schon machen, wenn er Generaldirektor
-> bleiben will? (51) [^1](#item-literature.xhtml#fntarg_1)
+> bleiben will? (51) [^1]
 
 Der Heizer hat, so gesehen, nichts zu verlieren. Doch Josefa wird nie
 sicher erfahren, ob er bereit zum Handeln ist und einen Brief an den
@@ -89,7 +89,7 @@ Luise nachdenklich:
 > (80)
 
 Vielleicht hatte sich auch für Luise der Sozialismus als “die Hoffnung
-auf das Andere”[^2](#item-literature.xhtml#fntarg_2) dargestellt.
+auf das Andere”[^2] dargestellt.
 Ist davon auch nichts geblieben, so ist der Topos ähnlich wie im
 Verhältnis Wülffs mit Huppel: Luise spricht für die Aufbaugeneration zur
 Jugend mit ihrer “revolutionären Ungeduld” (171). Für Josefa ist der
@@ -166,7 +166,7 @@ Peter Peters betont Josefas Absicht, die Wahrung ihrer Individualität nicht von
 > Horizont ihres Anliegens: die Suche nach der Realisierbarkeit von
 > Individualität als gesellschaftlicher Produktivfaktor. Darauf fußt auch
 > ihre Angst vor der “Gewalttätigkeit industrieller Arbeit” (81)
-> [^3](#item-literature.xhtml#fntarg_3)
+> [^3]
 
 **5-07** Dass das Schreiben der Wahrheit für Josefa eng
 verknüpft ist mit der Wahrung ihrer Identität, deutet sich schon
@@ -186,7 +186,7 @@ illegales.” (111)
 **5-08** Doch dass eine Lesart zu kurz greift, die sich
 lediglich auf Josefas Kampf um Wahrheit als exemplarischen Kampf für ein
 selbstbestimmtes Leben der Protagonistin konzentriert, macht
-Peters[^4](#item-literature.xhtml#fntarg_4) deutlich:
+Peters[^4] deutlich:
 
 > Literaturwissenschaftliche Kategorisierungen solcher Art, die den
 > Romanverlauf darauf ausgerichtet sehen, dass Josefa aufgrund der
@@ -239,7 +239,7 @@ Simrock, offenbart sich dem Leser im zweiten Teil des Buches, wo “ihre
 unspezifischen Lebensängste eine handlungshemmende Wirkung zeigen.
 Letztere wird im Laufe des Romans immer mehr zu einer Lebenskonstanten,
 die ihr Handeln latent
-bestimmt.”[^5](#item-literature.xhtml#fntarg_5) In dem ein wenig
+bestimmt.”[^5] In dem ein wenig
 metaphysisch anmutenden Prolog stellt sich Josefa als widersprüchlicher
 Charakter dar, der sowohl Kraft aus der Vergangenheit schöpft als auch
 in ihr die Quelle ihrer Ängste vermutet.
@@ -470,7 +470,7 @@ Grunenberg:
 > Selbsterkenntnis. Die Flüge sind Lust und bringen Erholung für die
 > geplagte Psyche. Sie sind Kraftspender, weil sie bestätigen, welche
 > Phantasie, welche ungewöhnlichen Begabungen in der flugsüchtigen Frau
-> liegen. [^6](#item-literature.xhtml#fntarg_6)
+> liegen. [^6]
 
 Die Flugphantasien sind Produkte der Schwierigkeiten in der Redaktion,
 und durchaus vergleichbar mit dem Alkoholkonsum ihres Redaktionskollegen
@@ -488,7 +488,7 @@ einen Brief an den Minister wegen des Kraftwerks in B. aufzusetzen.
 1978, dass “die schriftstellerische Weiterentwicklung zunächst einmal
 von dem persönlichen Mutbeweis des Autors in den Schatten gestellt
 wird.” Für Zeller lasen sich “Romanfiktion und Wirklichkeit wie ein
-Palimpsest”[^7](#item-literature.xhtml#fntarg_7) Viel größer ist die
+Palimpsest”[^7] Viel größer ist die
 Versuchung bei Maron: sowohl die Autorin als auch ihre Protagonistin
 waren Journalisten in einer Redaktion am Alexanderplatz. Die
 Ich-Erzählerin im ersten Drittel des Romans hinterläßt nur einen
@@ -497,7 +497,7 @@ Identifikation des Lesers mit der Heldin Josefa entgegen. Das ändert
 sich, wenn kurz vor dem zweiten Teil die Person des Erzählers zum
 auktorialen bzw. personalen Erzähler wechselt. Maron sagte später zu
 Flugasche, dass “es einfach ein Losschreiben war, ohne irgendwelche
-ästhetischen Überlegungen.”[^8](#item-literature.xhtml#fntarg_8)
+ästhetischen Überlegungen.”[^8]
 Vielleicht kann man diesen Erzählerwechsel als Versuch der Autorin
 deuten, Abstand zur Protagonistin zu gewinnen. Erzähltechnisch bieten
 sich ihr nun mehr Möglichkeiten, Josefas Taten und Gedanken zu
@@ -545,7 +545,7 @@ vergleichen.
 > dargestellte Geschehen sein könnte. Der Leser ist in dieser Frage auf
 > Gedeih und Verderb der Reflektorfigur und ihrem existentiell begrenzten
 > Wissens- und Erfahrungshorizont
-> ausgeliefert.[^9](#item-literature.xhtml#fntarg_9)
+> ausgeliefert.[^9]
 
 **5-20** Erst nach zwei vergeblichen Hilfeanrufen
 entscheidet sich Josefa, der intriganten Parteiversammlung
@@ -553,7 +553,7 @@ fernzubleiben. Das Schlußbild zeigt eine alleingelassene, unter
 Tabletteneinwirkung hilflos wirkende Josefa, in ihrem Bett
 zurückgezogen. Für Antonia Grunenberg findet Marons
 Hauptfigur “ihre Heilung in der Besinnung auf einen selbstmitleidigen
-Narzißmus”[^10](#item-literature.xhtml#fntarg_10) . Ob es sich als
+Narzißmus”[^10] . Ob es sich als
 “Heilung” im wahrsten Sinne des Wortes erweisen kann, läßt der Schluß
 offen. Josefa hat in geradezu solipsistischer Unnachgiebigkeit ihre
 moralische Integrität bewahrt. Ob sie damit zu einer Identität gefunden
@@ -563,49 +563,7 @@ fragwürdig problematisiert. Josefa kann sie wahren gegenüber anderen,
 oder finden trotz der anderen, im Wechselspiel mit der Gesellschaft. In
 der Isolation ist das Identischsein mit sich selbst als Fragestellung
 obsolet. Peters kommt zu dem Schluß, dass Josefa durch ihr “Rückzugsgebaren Subjektwerdung unmöglich
-macht.”[^11](#item-literature.xhtml#fntarg_11)
-
-[^1](#item-literature.xhtml#fnsrc_1) Monika Maron: Flugasche,
-Frankfurt/M. 1991 (Fischer Taschenbuch), alle Zitate folgen dieser
-Ausgabe
-
-[^2](#item-literature.xhtml#fnsrc_2) vgl. Zitat Heiner Müllers auf
-S. 21
-
-[^3](#item-literature.xhtml#fnsrc_3) Peters, Peter: Ich Wer ist das.
-Aspekte der Subjektdiskussion in Prosa und Drama der DDR (1976-1989),
-Frankfurt/M. 1993, S. 145
-
-[^4](#item-literature.xhtml#fnsrc_4) Peters, Peter: Ich Wer ist das.
-Aspekte der Subjektdiskussion in Prosa und Drama der DDR (1976-1989),
-Frankfurt/M. 1993, S. 145
-
-[^5](#item-literature.xhtml#fnsrc_5) Peters, Peter: Ich Wer ist das.
-Aspekte der Subjektdiskussion in Prosa und Drama der DDR (1976-1989),
-Frankfurt/M. 1993, S. 141
-
-[^6](#item-literature.xhtml#fnsrc_6) Grunenberg, Antonia: Aufbruch
-der inneren Mauer. Politik und Kultur in der DDR 1971-1990, Bremen 1990,
-S. 215
-
-[^7](#item-literature.xhtml#fnsrc_7) Zeller, Michael: Geschichte
-eines doppelten Scheiterns. In: literatur konkret, H.2, Frühjahr 1978,
-S. 40
-
-[^8](#item-literature.xhtml#fnsrc_8) Hamether, Michael: Von Tätern,
-die zu Opfern wurden. Gespräch mit Monika Maron. In: Börsenblatt für den
-deutschen Buchhandel 51/92, 26.6.92, S. 43
-
-[^9](#item-literature.xhtml#fnsrc_9) Stanzel, Franz K.: Theorie des
-Erzählens, Göttingen 1995, S. 204
-
-[^10](#item-literature.xhtml#fnsrc_10) Grunenberg, Antonia: Aufbruch
-der inneren Mauer. Politik und Kultur in der DDR 1971-1990, Bremen 1990,
-S. 215
-
-[^11](#item-literature.xhtml#fnsrc_11) Peters, Peter: Ich Wer ist
-das. Aspekte der Subjektdiskussion in Prosa und Drama der DDR
-(1976-1989), Frankfurt/M. 1993, S. 151
+macht.”[^11]
 
 ## Literaturverzeichnis
 
@@ -645,3 +603,15 @@ Schmitz-Köster, Dorothee: Trobadora und Kassandra und ..., Köln 1989
 
 Zimmermann, Werner: Deutsche Prosadichtung unseres Jahrhunderts. Band 3,
 Düsseldorf 1983
+
+[^1]: Monika Maron: Flugasche, Frankfurt/M. 1991 (Fischer Taschenbuch), alle Zitate folgen dieser Ausgabe
+[^2]: vgl. Zitat Heiner Müllers auf S. 21
+[^3]: Peters, Peter: Ich Wer ist das. Aspekte der Subjektdiskussion in Prosa und Drama der DDR (1976-1989), Frankfurt/M. 1993, S. 145
+[^4]: Peters, Peter: Ich Wer ist das. Aspekte der Subjektdiskussion in Prosa und Drama der DDR (1976-1989), Frankfurt/M. 1993, S. 145
+[^5]: Peters, Peter: Ich Wer ist das. Aspekte der Subjektdiskussion in Prosa und Drama der DDR (1976-1989), Frankfurt/M. 1993, S. 141
+[^6]: Grunenberg, Antonia: Aufbruch der inneren Mauer. Politik und Kultur in der DDR 1971-1990, Bremen 1990, S. 215
+[^7]: Zeller, Michael: Geschichte eines doppelten Scheiterns. In: literatur konkret, H.2, Frühjahr 1978, S. 40
+[^8]: Hamether, Michael: Von Tätern, die zu Opfern wurden. Gespräch mit Monika Maron. In: Börsenblatt für den deutschen Buchhandel 51/92, 26.6.92, S. 43
+[^9]: Stanzel, Franz K.: Theorie des Erzählens, Göttingen 1995, S. 204
+[^10]: Grunenberg, Antonia: Aufbruch der inneren Mauer. Politik und Kultur in der DDR 1971-1990, Bremen 1990, S. 215
+[^11]: Peters, Peter: Ich Wer ist das. Aspekte der Subjektdiskussion in Prosa und Drama der DDR (1976-1989), Frankfurt/M. 1993, S. 151

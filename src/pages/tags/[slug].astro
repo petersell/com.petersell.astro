@@ -21,8 +21,8 @@ const formatDate = (d: Date) =>
   d.toLocaleDateString("de-DE", { year: "numeric", month: "long", day: "numeric" });
 ---
 
-<Base title={`Tag: ${term.label}`}>
-  <h1>Tag: {term.label}</h1>
+<Base title={`Stichwort: ${term.label}`}>
+  <h1>Stichwort: {term.label}</h1>
   <ul class="entries">
     {term.entries.map((entry) => (
       <li>

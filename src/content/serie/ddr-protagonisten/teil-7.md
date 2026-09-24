@@ -18,7 +18,7 @@ entsprechenden Umständen zu einer Identität finden; oder: kann zu einer
 den Umständen entsprechenden Identität finden. Dies gilt auch für Maron
 und Hein: besonders Claudias Reflexionen sind im “Spannungsfeld von
 Folie und Novum zu lesen... Die Folie bildet der bürgerliche
-Persönlichkeitsglaube.”[^1](#item-literature.xhtml#fntarg_1) Auch
+Persönlichkeitsglaube.”[^1] Auch
 Marons Josefa könnte wie Claudia beim Leser zum Ende hin
 “wirkungsästhetische Rezeptionsimpulse entfalten”. Peters, der
 allerdings bei seinem Fazit auch Marons _Überläuferin_ (1986)
@@ -29,7 +29,7 @@ miteinbezieht, ist sich dessen sicher:
 > d. A.) führt mithin falsche Konzepte der Subjektbewahrung an ihren
 > Protagonistinnen vor, um aus der Negation Gegenimpulse freizusetzen in
 > Hinblick auf Bekräftigung der subjektiven Erfahrung beim
-> Rezipienten.[^2](#item-literature.xhtml#fntarg_2)
+> Rezipienten.[^2]
 
 Die noch ausgeprägte Identifikationshaltung des Lesers gegenüber Josefa
 dürfte jedoch diese Freisetzung stark erschweren bis völlig in Frage
@@ -74,11 +74,11 @@ So stellt Bernd Leistner die einzige Erschütterung ihres Konzeptes als “die u
 > affizieren vermochte. Ihr Schreibanlaß ist schließlich der, daß sie sich
 > bewogen fühlt, eine 'Erschütterung' ihrer selbst - und zwar in ihrem,
 > ihrem Lebenskonzept entsprechenden Sinne - zu
-> bewältigen.[^3](#item-literature.xhtml#fntarg_3)
+> bewältigen.[^3]
 
 **7-05** Nur bei Christoph Hein kann von einer Distanz des
 Autors zu seiner Protagonistin die Rede sein. Dies läßt David Roberts vom “abwesenden
-Autor”[^4](#item-literature.xhtml#fntarg_4) sprechen. Er wählt
+Autor”[^4] sprechen. Er wählt
 diesen Ausdruck zwar um folgen zu lassen, daß so der Leser aktiviert
 werden soll, “Mitautor” zu werden, doch erscheint der Begriff etwas
 unglücklich gewählt. Für Brigitte Böttcher erscheint Claudia
@@ -139,7 +139,7 @@ als auch auf Hein treffen Hans Kaufmanns “ästhetischen Wertungen” zu:
 > zeichnet sich eine Tendenz zum Elegischen ... Der Autor läßt uns seinen
 > Pulsschlag fühlen ... Der Verzicht auf komische Wertung impliziert, daß
 > Bedrohliches als unbewältigt, noch vor uns liegend
-> stehenbleibt.[^5](#item-literature.xhtml#fntarg_5)
+> stehenbleibt.[^5]
 
 Hein erhebt mit seinem Kommunikationsangebot an den Leser nicht den
 “Zeigefinger”, legt ihn aber auf die Wunden jeder modernen und brüchigen
@@ -155,7 +155,7 @@ Wolfgang Emmerich:
 > wird, hat auch das Träumen von einer besseren Zukunft aufgehört. Die
 > Utopie hat keinen Ort mehr, weder in der Vergangenheit noch in der
 > Gegenwart und auch nicht in der
-> Zukunft.[^6](#item-literature.xhtml#fntarg_6)
+> Zukunft.[^6]
 
 Doch Christoph Hein hat gute Gründe, den fremden Freund trotz “müder
 Blumen”, “dreckigen Schnees” und jeder Menge umherstehender “Autowracks”
@@ -169,7 +169,7 @@ bei der Frage nach der Identität des Individuums eine große Bedeutung
 zu, - die er jedoch nie hatte und haben konnte. Das Individuum steht im
 Mittelpunkt der Autoren, mit oder ohne Sozialismus. Letzterer “spielt
 als Sinnzentrum keinerlei Rolle
-mehr”[^7](#item-literature.xhtml#fntarg_7)
+mehr”[^7]
 
 **7-10** Die Helden erscheinen authentisch und lebendig
 wie Wülff und Josefa, oder kommen als “Demonstrationsobjekt” daher wie
@@ -195,36 +195,6 @@ deren Möglichkeit der Identitätsfindung und Wahrung in einem repressiven
 System. Die vier Romane sind ein Stück DDR-Literatur auch deshalb, weil
 ihre Autoren von der Breitenwirksamkeit von Literatur überzeugt waren
 und diese Überzeugung in den Werken ihren Niederschlag fand.
-
-[^1](#item-literature.xhtml#fnsrc_1) Andreotti, Mario: Die Struktur
-der modernen Literatur. Neue Wege in der Textanalyse. Bern u.a. 1990, S.
-112
-
-[^2](#item-literature.xhtml#fnsrc_2) Peters, Peter: “Ich Wer ist
-das”. Aspekte der Subjektdiskussion in Prosa und Drama der DDR
-(1976-1989), Frankfurt/M. 1993, S. 280f
-
-[^3](#item-literature.xhtml#fnsrc_3) Leistner, Bernd: Für und wider:
-Der fremde Freund. In: Klaus Hammer (Hrg.): Chronist ohne Botschaft -
-Christoph Hein. Ein Arbeitsbuch. Berlin, Weimar 1992, S. 90
-
-[^4](#item-literature.xhtml#fnsrc_4) Roberts, David: Das Auge der
-Kamera. Christoph Heins Drachenblut. In: Paul Michael Lutzeler (Hrg):
-Spätmoderne und Postmoderne: Beiträge zur deutschsprachigen
-Gegenwartsliteratur, Frankfurt/M. 1991, S. 226
-
-[^5](#item-literature.xhtml#fnsrc_5) Kaufmann, Hans: Zur
-DDR-Literatur der siebziger Jahre. In: ders.: Über DDR-Literatur,
-Beiträge aus 25 Jahren. Berlin, Weimar 1986, S. 154f
-
-[^6](#item-literature.xhtml#fnsrc_6) Emmerich, Wolfgang: Der
-verlorenen Faden. Probleme des Erzählens in den siebziger Jahren. In:
-Hohendahl/Herminghouse (Hrg): Literatur der DDR in den siebziger Jahren,
-Frankfurt/M. 1983, S. 182
-
-[^7](#item-literature.xhtml#fnsrc_7) Peters, Peter: Ich Wer ist das.
-Aspekte der Subjektdiskussion in Prosa und Drama der DDR (1976-1989),
-Frankfurt/M. 1993, S. 282
 
 ## Literaturverzeichnis
 
@@ -357,3 +327,11 @@ Deutschland-Archiv, H.4/1978, Köln 1978
 
 Zipser, Richard: DDR-Literatur im Tauwetter, Bd. 3: Stellungnahmen,
 Frankfurt/M., Bern, New York 198
+
+[^1]: Andreotti, Mario: Die Struktur der modernen Literatur. Neue Wege in der Textanalyse. Bern u.a. 1990, S. 112
+[^2]: Peters, Peter: “Ich Wer ist das”. Aspekte der Subjektdiskussion in Prosa und Drama der DDR (1976-1989), Frankfurt/M. 1993, S. 280f
+[^3]: Leistner, Bernd: Für und wider: Der fremde Freund. In: Klaus Hammer (Hrg.): Chronist ohne Botschaft - Christoph Hein. Ein Arbeitsbuch. Berlin, Weimar 1992, S. 90
+[^4]: Roberts, David: Das Auge der Kamera. Christoph Heins Drachenblut. In: Paul Michael Lutzeler (Hrg): Spätmoderne und Postmoderne: Beiträge zur deutschsprachigen Gegenwartsliteratur, Frankfurt/M. 1991, S. 226
+[^5]: Kaufmann, Hans: Zur DDR-Literatur der siebziger Jahre. In: ders.: Über DDR-Literatur, Beiträge aus 25 Jahren. Berlin, Weimar 1986, S. 154f
+[^6]: Emmerich, Wolfgang: Der verlorenen Faden. Probleme des Erzählens in den siebziger Jahren. In: Hohendahl/Herminghouse (Hrg): Literatur der DDR in den siebziger Jahren, Frankfurt/M. 1983, S. 182
+[^7]: Peters, Peter: Ich Wer ist das. Aspekte der Subjektdiskussion in Prosa und Drama der DDR (1976-1989), Frankfurt/M. 1993, S. 282
