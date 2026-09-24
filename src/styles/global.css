@@ -94,6 +94,18 @@ img {
   border-radius: 4px;
 }
 
+/* Video-Embeds (Vimeo/YouTube) im Markdown: volle Breite, 16:9 */
+iframe[src*="player.vimeo.com"],
+iframe[src*="youtube.com/embed"],
+iframe[src*="youtube-nocookie.com/embed"] {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  border: 0;
+  border-radius: 4px;
+}
+
 .meta {
   color: var(--color-muted);
   font-size: 0.9rem;
