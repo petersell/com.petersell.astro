@@ -4,3 +4,9 @@
 
 [build.environment]
   NODE_VERSION = "22"
+
+# Der lange Essay ist seit 2026-09-24 eine Serie
+[[redirects]]
+  from = "/artikel/essay-ddrprotagonisten/"
+  to = "/serie/ddr-protagonisten/"
+  status = 301

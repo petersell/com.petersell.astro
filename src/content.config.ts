@@ -35,9 +35,12 @@ const status = defineCollection({
   }),
 });
 
+// Eine Serie = ein Ordner: index.md (Übersicht, teil 0) + teil-N.md
 const serie = defineCollection({
   loader: glob({ pattern: "**/*.md", base: "./src/content/serie" }),
-  schema: baseSchema,
+  schema: baseSchema.extend({
+    teil: z.number().int().min(0).default(0),
+  }),
 });
 
 const zettel = defineCollection({

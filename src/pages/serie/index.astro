@@ -1,0 +1,59 @@
+---
+import Base from "../../layouts/Base.astro";
+import { getSerien, serieHref } from "../../lib/serie";
+
+const serien = (await getSerien()).sort(
+  (a, b) => b.overview.data.date.valueOf() - a.overview.data.date.valueOf(),
+);
+
+const formatDate = (d: Date) =>
+  d.toLocaleDateString("de-DE", { year: "numeric", month: "long", day: "numeric" });
+---
+
+<Base title="Serien">
+  <h1>Serien</h1>
+  <ul class="entries">
+    {serien.map(({ overview, parts }) => (
+      <li>
+        <a href={serieHref(overview)}>{overview.data.title}</a>
+        <p class="meta">{formatDate(overview.data.date)} · {parts.length} Teile</p>
+        {overview.data.description && <p class="description">{overview.data.description}</p>}
+      </li>
+    ))}
+  </ul>
+</Base>
+
+<style>
+  .entries {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .entries li {
+    padding: 0.85rem 0;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .entries li:first-child {
+    border-top: 1px solid var(--color-border);
+  }
+
+  .entries a {
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .entries a:hover {
+    text-decoration: underline;
+  }
+
+  .entries p {
+    margin: 0.15rem 0 0;
+  }
+
+  .description {
+    color: var(--color-muted);
+    font-style: italic;
+  }
+</style>

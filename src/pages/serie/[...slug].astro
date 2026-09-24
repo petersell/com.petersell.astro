@@ -1,0 +1,142 @@
+---
+import { render } from "astro:content";
+import Base from "../../layouts/Base.astro";
+import { getSerien, serieHref, type Serie, type SerieEntry } from "../../lib/serie";
+
+export async function getStaticPaths() {
+  const serien = await getSerien();
+
+  return serien.flatMap((serie) =>
+    [serie.overview, ...serie.parts].map((entry) => ({
+      params: { slug: entry.id },
+      props: { entry, serie },
+    })),
+  );
+}
+
+interface Props {
+  entry: SerieEntry;
+  serie: Serie;
+}
+
+const { entry, serie } = Astro.props;
+const { data } = entry;
+const { Content } = await render(entry);
+
+const isOverview = data.teil === 0;
+const total = serie.parts.length;
+const index = serie.parts.findIndex((p) => p.id === entry.id);
+const prev = index > 0 ? serie.parts[index - 1] : undefined;
+const next = index >= 0 && index < total - 1 ? serie.parts[index + 1] : undefined;
+
+const formatDate = (d: Date) =>
+  d.toLocaleDateString("de-DE", { year: "numeric", month: "long", day: "numeric" });
+---
+
+<Base title={isOverview ? `${data.title} – Serie` : `${data.title} – ${serie.overview.data.title}`}>
+  <article>
+    {!isOverview && (
+      <p class="serie-label">
+        <a href={serieHref(serie.overview)}>{serie.overview.data.title}</a> · Teil {data.teil} von {total}
+      </p>
+    )}
+    <h1>{data.title}</h1>
+    <p class="meta">
+      {formatDate(data.date)} · {data.author}
+      {data.categories.length > 0 && <> · {data.categories.join(", ")}</>}
+      {data.tags.length > 0 && <> · {data.tags.join(", ")}</>}
+    </p>
+    {data.description && <p class="description">{data.description}</p>}
+
+    <Content />
+
+    {isOverview && (
+      <section class="parts">
+        <h2>Die Teile der Serie</h2>
+        <ol>
+          {serie.parts.map((part) => (
+            <li><a href={serieHref(part)}>{part.data.title}</a></li>
+          ))}
+        </ol>
+      </section>
+    )}
+
+    {!isOverview && (
+      <nav class="pager" aria-label="Teile der Serie">
+        {prev ? (
+          <a class="prev" href={serieHref(prev)}>
+            <span>← Teil {prev.data.teil}</span>
+            {prev.data.title}
+          </a>
+        ) : <span />}
+        {next ? (
+          <a class="next" href={serieHref(next)}>
+            <span>Teil {next.data.teil} →</span>
+            {next.data.title}
+          </a>
+        ) : (
+          <a class="next" href={serieHref(serie.overview)}>
+            <span>Übersicht →</span>
+            {serie.overview.data.title}
+          </a>
+        )}
+      </nav>
+    )}
+  </article>
+</Base>
+
+<style>
+  .serie-label {
+    margin-bottom: 0;
+    color: var(--color-muted);
+    font-size: 0.9rem;
+  }
+
+  .serie-label a {
+    color: inherit;
+  }
+
+  .description {
+    color: var(--color-muted);
+    font-style: italic;
+  }
+
+  .parts {
+    margin-top: 2.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--color-border);
+  }
+
+  .parts li {
+    margin: 0.35rem 0;
+  }
+
+  .pager {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    margin-top: 3rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--color-border);
+  }
+
+  .pager a {
+    display: block;
+    text-decoration: none;
+    line-height: 1.35;
+  }
+
+  .pager a:hover {
+    text-decoration: underline;
+  }
+
+  .pager span {
+    display: block;
+    color: var(--color-muted);
+    font-size: 0.85rem;
+  }
+
+  .pager .next {
+    text-align: right;
+  }
+</style>
