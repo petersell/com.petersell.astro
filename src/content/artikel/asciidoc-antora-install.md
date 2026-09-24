@@ -33,7 +33,7 @@ Nach dem Installer habe ich noch das nachfolgende Skript _Tools for Node.js Nati
  
 Das Ergebnis in der PowerShell ergab diese Versionen.
 
-```
+```powershell
 C:\Users\Andreas> npm --version
 6.14.4
 C:\Users\Andreas> node --version
@@ -44,17 +44,13 @@ v12.16.3
 
 Wie in der Antora-Dokumenation beschrieben, geben Sie den Installationsbefehl für eine globale Installation von Antora ein.
 
-**Ausführen in der PowerShell**
-
-```
+```powershell title="Ausführen in der PowerShell"
 $ npm i -g @antora/cli@2.2 @antora/site-generator-default@2.2
 ```
 
 Anschließend führen Sie `antora version` aus, um sich vom Erfolg der Installation zu überzeugen. Bei mir endete es in einer Fehlermeldung.
 
-**Fehlermeldung**
-
-```
+```txt frame="terminal" title="Fehlermeldung"
 Die Datei "C:\Users\Andreas\AppData\Roaming\npm\antora.ps1" kann nicht geladen werden. Die Datei
 "C:\Users\Andreas\AppData\Roaming\npm\antora.ps1" ist nicht digital signiert. Sie können dieses Skript im aktuellen System nicht ausführen. Weitere Informationen zum Ausführen von Skripts und Festlegen der Ausführungsrichtlinie erhalten Sie unter "about_Execution_Policies" (https:/go.microsoft.com/fwlink/?LinkID=135170)..
 ```
@@ -65,17 +61,13 @@ Auf der angegebenen URL von Microsoft https:/go.microsoft.com/fwlink/?LinkID=135
 
 Es gilt herauszufinden, welche Ausführungsrichtlinien innerhalb der PowerShell für mich als Nutzer gelten:
 
-**Ausführen in der PowerShell**
-
-```
+```powershell title="Ausführen in der PowerShell"
 Get-ExecutionPolicy -Scope CurrentUser
 ```
 
 Für mich auf dem Windows-Client galt _Undefined_. Um meine Rechte auf der PowerShell meines Rechners zu erweitern, musste ich eingeben:
 
-**Ausführen in der PowerShell**
-
-```
+```powershell title="Ausführen in der PowerShell"
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
 
@@ -89,9 +81,7 @@ Um zu einem schnellen Ergebnis zu kommen, habe ich das Beispielprojekt _Demo Doc
 
 Öffnen Sie ein PowerShell-Fenster im neu entstandenen Ordner `docs-site` und geben Sie den Build-Befehl ein.
 
-**Ausführen in der PowerShell**
-
-```
+```powershell title="Ausführen in der PowerShell"
 C:\Daten\antora\docs-site> antora antora-playbook.yml
 ```
 

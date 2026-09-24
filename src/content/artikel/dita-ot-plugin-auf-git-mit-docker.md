@@ -59,9 +59,7 @@ Ich bin kein Git-Experte, darum hier mein Weg, der für mich funktioniert:
 
 Erstellen Sie innerhalb Ihres DITA-XML-Quelldateien-Ordners eine neue Textdatei mit Namen `Dockerfile`. Schreiben Sie folgendes hinein:
 
-**Dockerfile im Quelldateien-Ordner**
-
-```
+```dockerfile title="Dockerfile im Quelldateien-Ordner"
 # Use the latest DITA-OT image ↓ as parent:
 FROM ghcr.io/dita-ot/dita-ot:4.0.1
 
@@ -84,9 +82,7 @@ Auf der Grundlage der Datei `Dockerfile` wird jetzt ein lokales Image erstellt. 
 
 Geben Sie folgenden Befehl ein:
 
-**Buildfehl auf Konsole**
-
-```
+```bash title="Build-Befehl auf Konsole"
 $ docker image build -t ditaot-bootstrap-docker-image:1.0 .
 ```
 
@@ -94,7 +90,7 @@ Sie können Ihrem Image natürlich einen anderen Namen vergeben als _ditaot-boot
 
 Überprüfen Sie im selben Fenster, ob das Images gebaut wurde:
 
-```
+```bash
 $ docker images
 ```
 
@@ -104,9 +100,7 @@ Jetzt können Sie den Docker-Container starten, der auf diesem Docker-Image basi
 
 Geben Sie folgenden Befehl im Kommandozeilen-Fenster ein:
 
-**Docker-Befehl auf der Konsole**
-
-```
+```bash title="Docker-Befehl auf der Konsole"
 $ docker container run -it \
   -v /home/andreas/DITA-ZKS:/src ditaot-bootstrap-docker-image:1.0 \
   -i /src/zks.ditamap \

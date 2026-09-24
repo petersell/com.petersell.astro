@@ -24,7 +24,7 @@ Seitdem ich von Windows auf Linux Fedora gewechselt bin, habe ich es versäumt, 
 
 **(3)** Das Kommando `hugo server` eingeben + ENTER. Danach sollte die Homepage im Browser unter *localhost:1313* abrufbar sein. Leider war dies bei mir nicht der Fall. Es erschien diese Fehlermeldung:
 
-```
+```txt frame="terminal"
 Error: error building site: "/git/github/com.petersell.hugo/content/blog/essay-ddrprotagonisten.adoc:1:1": access denied: "asciidoctor" is not whitelisted in policy "security.exec.allow"; the current security configuration is:
 
 [security]

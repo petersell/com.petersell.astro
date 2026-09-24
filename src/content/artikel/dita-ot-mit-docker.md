@@ -38,9 +38,7 @@ In der Dokumentation zum DITA OpenToolkit heißt es:
 
 _To build output, map a host directory to a container volume and specify options for the dita command._
 
-**DITA-OT Dokumentation**
-
-```xml
+```bash title="DITA-OT Dokumentation"
 $ docker run -it \
   -v /Users/username/source:/src ghcr.io/dita-ot/dita-ot:3.6.1 \
   -i /src/input.ditamap \
@@ -72,9 +70,7 @@ dann wird aus dem Pfad zu meiner Ditamap-Datei `/home/andreas/DITA-ZKS/zks.ditam
 
 Nach folgendem Docker-Run-Befehl füllte sich mein output-Ordner `out` mit den gewünschten HTML-Seiten.
 
-**Docker-Befehl auf der Konsole**
-
-```xml
+```bash title="Docker-Befehl auf der Konsole"
 $ docker run -it \
   -v /home/andreas/DITA-ZKS:/src ghcr.io/dita-ot/dita-ot:3.6.1 \
   -i /src/zks.ditamap \

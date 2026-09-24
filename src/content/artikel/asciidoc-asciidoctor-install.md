@@ -25,7 +25,7 @@ Der Installationsroutine folgen.
 
 Öffnen Sie eine Eingabeauforderung und geben Sie folgenden Befehl ein und drücken Sie [Enter].
 
-```
+```shell
 $ gem install --http-proxy http://@proxy.<Proxyservername>.<Port> asciidoctor
 ```
 
@@ -35,7 +35,7 @@ Arbeiten Sie ohne Proxyserver, genügt ein `gem install asciidoctor`.
 
 ### Asciidoctor für PDF installieren
 
-```
+```shell
 $ gem install --http-proxy http://@proxy.<Proxyservername>.<Port> asciidoctor-pdf --pre
 ```
 
@@ -43,6 +43,6 @@ $ gem install --http-proxy http://@proxy.<Proxyservername>.<Port> asciidoctor-pd
 
 Das war´s. Sie können nun mit Hilfe von adoc-Dateien  [Output erzeugen](https://asciidoctor.org/docs/user-manual/#html).
 
-```
+```shell
 $ asciidoctor mysample.adoc
 ```

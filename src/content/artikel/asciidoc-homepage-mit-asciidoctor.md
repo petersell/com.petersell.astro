@@ -45,22 +45,18 @@ Kopieren Sie abschließend ein Favicon-Datei in das Verzeichnis `/images`.
 
 Nach dem Build wird die Standard-CSS im Ausgabeordner abgelegt. Diese `asciidoctor.css`  gilt es umzubennen und im Hauptverzeichnis der Quelldateien abzulegen. Nehmen Sie darin die gewünschten Änderungen vor. Meine Änderungswünsche waren z.B die Farbe grün für die Überschriften und Links. Auch gefiel mir die links ausgerichtete schwarze Fußleiste nicht.
 
-**Farbe der Links**
-
-```css
+```css title="Farbe der Links"
 a{color:#44aa00;text-decoration:underline;line-height:inherit}
 ```
 
-**Farbe der Fußleiste**
-
-```css
+```css title="Farbe der Fußleiste"
 #footer{max-width:1000px;background-color:rgba(255,255,255,.8);padding:1.25em}
 #footer-text{color:rgba(0,0,0,.8);line-height:1.44}
 ```
 
 Fügen Sie das Stylesheet Ihrem Buildbefehl hinzu.
 
-```
+```shell
 asciidoctor -a linkcss -a stylesheet=petersell.css -D C:\asciidoc\out\html 'C:\asciidoc\src\**\*.adoc'
 ```
 

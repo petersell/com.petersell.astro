@@ -78,15 +78,11 @@ Ich habe auf die kleinen Vignetten bzw. Icons für die Warnhinweise und Tipps ve
 
 Ich habe also den CSS-Link für _Font Awesome_ wieder entfernt.
 
-**Interne Einbindung**
-
-```css
+```html title="Interne Einbindung"
 <link rel="stylesheet" href="{{"css/fa/css/all.css" | absURL }}
 ```
 
-**Externe Einbindung**
-
-```css
+```html title="Externe Einbindung"
 <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
 ```
 

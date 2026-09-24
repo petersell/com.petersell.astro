@@ -44,7 +44,7 @@ Es gilt, diese drei Einstellungen hinzuzufügen:
 
 Da ich mit Linux Fedora arbeite, gab [dieser Befehl](https://www.baeldung.com/find-java-home) im Terminal-Fenster meinen JAVA_HOME-Pfad zurück:
 
-```
+```bash
 $ java -XshowSettings:properties -version 2>&1 > /dev/null | grep 'java.home'
 ```
 

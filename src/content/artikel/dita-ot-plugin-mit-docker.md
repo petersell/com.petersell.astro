@@ -39,9 +39,7 @@ Aber ich möchte das Aussehen verändern mit Hilfe des Plugins [DITA Bootstrap](
 
 Erstellen Sie innerhalb Ihres DITA-XML-Quelldateien-Ordners eine neue Textdatei mit Namen `Dockerfile`. Schreiben Sie folgendes hinein:
 
-**Dockerfile im Quelldateien-Ordner**
-
-```xml
+```dockerfile title="Dockerfile im Quelldateien-Ordner"
 # Use the latest DITA-OT image as parent:
 FROM ghcr.io/dita-ot/dita-ot:3.6.1
 # Install a custom plug-in from a remote location:
@@ -52,17 +50,13 @@ RUN dita --install https://github.com/infotexture/dita-bootstrap/archive/3.4.1.z
 
 Auf der Grundlage der Datei `Dockerfile` wird jetzt ein Image erstellt. Öffnen Sie ein Terminal-Fenster und gehen Sie in Ihr DITA-Quellverzeichnis, weil darin sich Ihre `Dockerfile` befindet. Geben Sie folgenden Befehl ein:
 
-**Buildfehl auf Konsole**
-
-```xml
+```bash title="Build-Befehl auf Konsole"
 docker image build -t ditaot-bootstrap-docker-image:1.0 .
 ```
 
 Sie können Ihrem Image natürlich einen anderen Namen vergeben als _ditaot-bootstrap-docker-image_. Ihre Ausgabe könnte so ähnlich aussehen:
 
-**Ausgabe auf Konsole**
-
-```xml
+```txt frame="terminal" title="Ausgabe auf Konsole"
 Sending build context to Docker daemon  2.048kB
 Step 1/2 : FROM ghcr.io/dita-ot/dita-ot:3.6.1
  ---> 9abb96827538
@@ -81,9 +75,7 @@ Jetzt haben Sie ein Image erstellt, dass das DITA-OT enthält, in dem wiederum e
 
 Geben Sie folgenden Befehl im Terminal-Fenster ein:
 
-**Docker-Befehl auf der Konsole**
-
-```xml
+```bash title="Docker-Befehl auf der Konsole"
 sudo docker container run -it \
   -v /home/andreas/DITA-ZKS:/src ditaot-bootstrap-docker-image:1.0 \
   -i /src/zks.ditamap \

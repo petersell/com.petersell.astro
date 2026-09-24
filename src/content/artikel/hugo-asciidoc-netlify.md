@@ -26,7 +26,7 @@ Die erste Begegnung mit dem Dienst war schaurig. Man braucht ein hohes Verzweifl
 
 Ein Abbruch gab es wegen einer PDF-Datei, ein zweiter wegen einer falschen Syntax meiner Hugo-Version. Auf folgende Fehlermeldung war ich gottseidank vorbereitet und entsprechend erleichert, als sie mir erschien.
 
-```
+```txt frame="terminal"
 10:08:14 PM: Executing user command: hugo --gc --minify
 10:08:14 PM: Building sites …
 10:08:14 PM: ERROR 2020/04/29 20:08:14 asciidoctor / asciidoc not found in $PATH: Please install.
