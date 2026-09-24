@@ -22,6 +22,8 @@ const { Content, headings } = await render(artikel);
 
 // TOC nur aus Überschriften innerhalb des Artikeltexts (## und ###)
 const tocHeadings = headings.filter((h) => h.depth >= 2 && h.depth <= 3);
+// Eingerückt wird nur, was tiefer liegt als die oberste Ebene im Artikel
+const tocTopDepth = Math.min(...tocHeadings.map((h) => h.depth));
 
 const formatDate = (d: Date) =>
   d.toLocaleDateString("de-DE", { year: "numeric", month: "long", day: "numeric" });
@@ -38,17 +40,19 @@ const formatDate = (d: Date) =>
     {data.description && <p class="description">{data.description}</p>}
     {data.image && <img src={data.image} alt={data.title} />}
 
-    {tocHeadings.length > 1 && (
-      <nav class="toc" aria-label="Inhaltsverzeichnis">
-        <h2>Inhalt</h2>
-        <ul>
-          {tocHeadings.map((h) => (
-            <li class={h.depth === 3 ? "sub" : undefined}>
-              <a href={`#${h.slug}`}>{h.text}</a>
-            </li>
-          ))}
-        </ul>
-      </nav>
+    {data.toc && tocHeadings.length > 2 && (
+      <aside class="toc-rail">
+        <nav class="toc" aria-label="Inhaltsverzeichnis">
+          <h2>Inhalt</h2>
+          <ul>
+            {tocHeadings.map((h) => (
+              <li class={h.depth > tocTopDepth ? "sub" : undefined}>
+                <a href={`#${h.slug}`}>{h.text}</a>
+              </li>
+            ))}
+          </ul>
+        </nav>
+      </aside>
     )}
 
     <Content />
@@ -70,7 +74,7 @@ const formatDate = (d: Date) =>
   }
 
   .toc h2 {
-    margin-top: 0;
+    margin: 0 0 0.5rem;
     font-size: 1rem;
     text-transform: uppercase;
     letter-spacing: 0.03em;
@@ -78,12 +82,51 @@ const formatDate = (d: Date) =>
   }
 
   .toc ul {
+    list-style: none;
     margin: 0;
-    padding-left: 1.25rem;
+    padding: 0;
+  }
+
+  .toc li {
+    margin: 0.3rem 0;
+    line-height: 1.35;
   }
 
   .toc .sub {
-    margin-left: 1rem;
+    padding-left: 1rem;
+    font-size: 0.9em;
+  }
+
+  .toc a {
+    text-decoration: none;
+  }
+
+  .toc a:hover {
+    text-decoration: underline;
+  }
+
+  /* Breite Bildschirme: TOC rechts neben dem Text, bleibt beim Scrollen stehen.
+     Die Leiste reicht über die ganze Artikelhöhe, das TOC klebt darin. */
+  @media (min-width: 80rem) {
+    article {
+      position: relative;
+    }
+
+    .toc-rail {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: calc(100% + 2.5rem);
+      width: 16rem;
+    }
+
+    .toc {
+      position: sticky;
+      top: 1.5rem;
+      margin: 0;
+      max-height: calc(100vh - 3rem);
+      overflow-y: auto;
+      font-size: 0.85rem;
+    }
   }
 </style>
-

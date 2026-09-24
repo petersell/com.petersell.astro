@@ -21,7 +21,10 @@ const baseSchema = z.object({
 
 const artikel = defineCollection({
   loader: glob({ pattern: "**/*.md", base: "./src/content/artikel" }),
-  schema: baseSchema,
+  schema: baseSchema.extend({
+    // Inhaltsverzeichnis anzeigen (nur bei mehr als zwei Überschriften)
+    toc: z.boolean().default(true),
+  }),
 });
 
 const status = defineCollection({

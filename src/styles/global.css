@@ -48,12 +48,12 @@ a:hover {
   text-decoration-thickness: 2px;
 }
 
-nav {
+.site-nav {
   border-bottom: 1px solid var(--color-border);
   background: var(--color-surface);
 }
 
-nav ul {
+.site-nav ul {
   display: flex;
   flex-wrap: wrap;
   gap: 0.25rem 1.25rem;
@@ -62,13 +62,13 @@ nav ul {
   padding: 0.85rem max(1rem, calc((100% - var(--content-width)) / 2));
 }
 
-nav a {
+.site-nav a {
   color: var(--color-fg);
   text-decoration: none;
   font-weight: 600;
 }
 
-nav a:hover {
+.site-nav a:hover {
   color: var(--color-accent);
 }
 
