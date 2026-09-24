@@ -17,8 +17,7 @@ Leider ist eine Selbstverständlichkeit wie das Einbinden von Bildern in der Kom
 
 Gottseidank fand ich auf Github den Quelltext des Blogs https://foo-dogsquared.github.io mit einem einfachen Beispiel der Bildeinbindung.
 
-> **Tip — Voraussetzung**
->
+> [!tip] Voraussetzung
 > Sie haben Hugo und Asciidoctor installiert.
 
 ### Quellen

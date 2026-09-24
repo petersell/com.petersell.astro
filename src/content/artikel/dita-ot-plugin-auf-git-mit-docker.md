@@ -39,8 +39,7 @@ Zu guter Letzt möchte ich das DITA-Bootstrap-Plugin anpassen: mit meinen Farben
 
 ### Anleitung
 
-> **Tip — Voraussetzung**
->
+> [!tip] Voraussetzung
 > Sie haben Docker installiert.
 
 #### 1) Bootstrap-Plugin anpassen und bereitstellen

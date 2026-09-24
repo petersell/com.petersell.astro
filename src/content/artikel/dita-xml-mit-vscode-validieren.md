@@ -29,8 +29,7 @@ Quellen:
 ### Einstellungen von VS Code komplettieren
 
 <!-- FM:Snippet:Start data:{"id":"Admonition - Voraussetzung","fields":[]} -->
-> **Info**
->
+> [!note]
 > Sie haben Java und ein DITA-Open-Toolkit installiert.
 <!-- FM:Snippet:End -->
 

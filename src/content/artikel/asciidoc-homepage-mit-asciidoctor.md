@@ -14,8 +14,7 @@ tags:
 Für längere Texte und Anleitungen hatte ich bisher viele CMS genutzt: Wordpress, Kirby, Hugo und Known. Doch keines der CMS kannte ein Austauschformat. Jeder Text wurde in die jeweilige Datenbank abgelegt. Mit jedem Umzug gingen Texte verloren. Nun brachte [Tom Swan](https://www.tomswan.com/) mich auf die Idee, es mit Asciidoc zu versuchen. Hier die wichtigsten Schritte.
 <!--more-->
 
-> **Note — Update**
->
+> [!note] Update
 > Inzwischen nutze ich das CMS Hugo. Nur mit Hilfe des Asciidoctors HTML-Dateien zu erstellen, war doch sehr anstrengend.
 
 

@@ -15,8 +15,7 @@ markup: asciidoc
 Eclipse eignet sich gut als Quelldateien-Editor. Damit die DITA-Dateien validiert werden können, gilt es, die DTDs einzubinden.
 <!--more-->
 
-> **Tip — Voraussetzung**
->
+> [!tip] Voraussetzung
 > Sie müssen das Java JDK und Eclipse installiert haben. Ein Java JRE war in meinem Fall nicht ausreichend.
 
 ![DITA in Eclipse](../images/dita-fuer-eclipse/dita-fuer-eclipse.gif)

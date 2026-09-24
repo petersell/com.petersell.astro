@@ -13,8 +13,7 @@ zettelnummer: 4.4a1
 fmContentType: zettelkasten
 ---
 
-> **Hauptzettel**
->
+> [!important] Hauptzettel
 > Die Management-Ebene ist das zu Fleisch gewordene Unternehmen. Die Geschäftsführung und die Mitarbeiter sind austauschbar und mobil. Die 2. Ebene ist immobil. Das Management muss jegliche Innovationen und Änderungsvorschläge dieser beiden abschmettern, verwässern oder mindestens durch Nichtstun verzögern.
 <!--more-->
 **Folgezettel** - [Ein Manager befördert](/zettel/ein-manager-befoerdert/)
