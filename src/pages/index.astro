@@ -44,7 +44,10 @@ const feed: ListEntry[] = [
 ---
 
 <Base title="Andreas Petersell">
-  <h1>Andreas Petersell</h1>
+  <h1 class="brand">
+    <img src="/petersell-logo.png" alt="" width="52" height="55" />
+    Andreas Petersell
+  </h1>
   <p class="tagline">Technischer Redakteur, Autor, Blogger.</p>
 
   <h2>Neueste Beiträge</h2>
@@ -52,6 +55,20 @@ const feed: ListEntry[] = [
 </Base>
 
 <style>
+  /* Logo vor dem Namen; Name in Textfarbe wie die h2 statt Akzentgrün */
+  .brand {
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+    color: var(--color-fg);
+  }
+
+  .brand img {
+    height: 1.2em;
+    width: auto;
+    border-radius: 0;
+  }
+
   .tagline {
     color: var(--color-muted);
     margin-top: -0.5rem;
