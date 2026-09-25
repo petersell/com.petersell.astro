@@ -64,6 +64,8 @@ const feed: ListEntry[] = [
     color: var(--color-heading);
     /* Name in der Fließtextschrift wie auf www.petersell.com; 700 ist der fetteste geladene Schnitt */
     font-family: var(--font-sans);
+    /* etwa 40 px; auf schmalen Bildschirmen kleiner, damit der Name einzeilig bleibt */
+    font-size: clamp(1.75em, 7.5vw, 2.45em);
     font-weight: 700;
   }
 
