@@ -78,6 +78,11 @@ const formatDate = (d: Date) =>
     margin: 0.15rem 0 0;
   }
 
+  /* zweite Zeile (Description bzw. Metazeile): eine halbe Zeile mehr Abstand zum Titel */
+  .entries .title + p {
+    margin-top: calc(0.15rem + 0.5lh);
+  }
+
   /* Abstand zwischen den Angaben: drei Leerstellen der Monospace-Schrift */
   .entries .meta {
     display: flex;
