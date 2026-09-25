@@ -155,6 +155,31 @@ main {
   padding: 2rem 1rem 4rem;
 }
 
+/* Tabellen im Inhalt: Rahmen um alle Zellen, Spaltenköpfe hellgrau hinterlegt */
+main table {
+  /* zu breite Tabellen seitlich scrollbar statt die Seite zu verbreitern (wie GitHub) */
+  display: block;
+  width: max-content;
+  max-width: 100%;
+  overflow-x: auto;
+  border-collapse: collapse;
+  margin: 1.25rem 0;
+  font-size: 0.95rem;
+}
+
+main th,
+main td {
+  border: 1px solid var(--color-border);
+  padding: 0.4rem 0.75rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+main th {
+  background: var(--color-surface);
+  font-weight: 600;
+}
+
 h1,
 h2,
 h3 {
