@@ -111,9 +111,9 @@ a:hover {
   text-decoration-thickness: 2px;
 }
 
+/* ohne eigenen Hintergrund, nur eine schmale grüne Linie unter den Navigationspunkten */
 .site-nav {
-  border-bottom: 1px solid var(--color-border);
-  background: var(--color-surface);
+  border-bottom: 2px solid var(--color-accent);
 }
 
 .site-nav ul {
