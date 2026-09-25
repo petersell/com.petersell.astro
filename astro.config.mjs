@@ -9,9 +9,11 @@ import admonitions from './src/plugins/hast-admonitions.mjs';
 export default defineConfig({
   integrations: [
     // Code-Boxen im Stil von Multiterm: Fensterrahmen, Titel, Kopier-Schaltfläche.
-    // Ersetzt Shiki; hell/dunkel folgt prefers-color-scheme wie global.css
+    // Ersetzt Shiki; hell/dunkel folgt prefers-color-scheme wie global.css,
+    // manuell per data-theme="light|dark" am <html> (ThemeToggle.astro)
     expressiveCode({
       themes: ['github-light', 'github-dark'],
+      themeCssSelector: (theme) => `[data-theme='${theme.type}']`,
       defaultLocale: 'de',
       styleOverrides: {
         borderRadius: '4px',
