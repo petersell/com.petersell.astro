@@ -1,6 +1,5 @@
 ---
 title: Erzählungen - Verbindungen ohne Grenzen
-image: https://portal.dnb.de/opac/mvb/cover?isbn=978-3-641-32478-0
 date: 2025-04-11T09:18:44.684Z
 lastMod: null
 draft: false

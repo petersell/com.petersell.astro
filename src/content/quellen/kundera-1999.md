@@ -1,7 +1,6 @@
 ---
 title: Milan Kundera - Verratene Vermächtnisse
 dnb: d-nb.info/947965815
-image: "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-596-12988-1"
 date: 2017-11-24
 lastMod: null
 draft: false

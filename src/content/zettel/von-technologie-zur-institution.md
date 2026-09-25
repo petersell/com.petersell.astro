@@ -1,6 +1,5 @@
 ---
 title: Von der Technologie zur Institution
-image: https://portal.dnb.de/opac/mvb/cover?isbn=978-3-641-32478-0
 date: 2025-05-05T18:42:25.381Z
 lastMod: null
 draft: false

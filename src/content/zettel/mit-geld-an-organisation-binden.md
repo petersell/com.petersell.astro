@@ -1,6 +1,5 @@
 ---
 title: Mit Geld an Organisation binden
-image: "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-531-17978-0"
 date: 2020-11-30
 lastMod: null
 draft: false

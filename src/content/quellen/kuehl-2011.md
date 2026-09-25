@@ -1,7 +1,6 @@
 ---
 title: Stefan Kühl - Organisationen Eine sehr kurze Einführung
 dnb: d-nb.info/1010801007
-image: "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-531-17978-0"
 author: Andreas Petersell
 date: 2020-07-18
 lastMod: null

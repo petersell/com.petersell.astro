@@ -1,6 +1,5 @@
 ---
 title: Extremistan - nichts Physisches
-image: "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-446-41568-3"
 date: 2018-06-21
 lastMod: null
 draft: false

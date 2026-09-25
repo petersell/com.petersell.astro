@@ -1,6 +1,5 @@
 ---
 title: Selbstkorrekturmechanismus
-image: https://portal.dnb.de/opac/mvb/cover?isbn=978-3-641-32478-0
 date: 2025-05-08T08:13:04.991Z
 lastMod: null
 draft: false

@@ -1,6 +1,5 @@
 ---
 title: Mindestens drei Ebenen
-image: ""
 date: 2024-02-24
 lastMod: null
 draft: false

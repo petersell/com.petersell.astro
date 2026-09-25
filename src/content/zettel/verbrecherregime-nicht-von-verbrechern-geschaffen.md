@@ -1,6 +1,5 @@
 ---
 title: Verbrecherregime nicht von Verbrechern geschaffen
-image: "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-596-25992-2"
 author: Andreas Petersell
 date: 2025-02-04T20:30:17.740Z
 lastMod: null

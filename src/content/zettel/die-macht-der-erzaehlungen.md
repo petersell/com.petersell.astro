@@ -1,6 +1,5 @@
 ---
 title: Die Macht der Erzählungen
-image: https://portal.dnb.de/opac/mvb/cover?isbn=978-3-641-32478-0
 date: 2025-04-28T19:15:02.301Z
 lastMod: null
 draft: false

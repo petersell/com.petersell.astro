@@ -1,6 +1,5 @@
 ---
 title: Unnachgiebig versus flexibel
-image: https://portal.dnb.de/opac/mvb/cover?isbn=978-3-570-55437-1
 date: 2025-05-22T15:29:54.468Z
 lastMod: null
 draft: false

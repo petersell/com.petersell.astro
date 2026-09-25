@@ -1,6 +1,5 @@
 ---
 title: Verbrüderung aller Menschen im Kitsch
-image: ""
 author: Andreas Petersell
 date: 1994-05-11
 lastMod: null

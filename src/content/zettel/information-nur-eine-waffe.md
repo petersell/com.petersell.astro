@@ -1,6 +1,5 @@
 ---
 title: Information nur eine Waffe?
-image: "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-641-32478-0"
 date: 2025-04-07T18:56:08.295Z
 lastMod: null
 draft: false

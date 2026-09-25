@@ -1,7 +1,6 @@
 ---
 title: Ron Kellermann - Fiktionales Schreiben
 dnb: https://d-nb.info/97964836X
-image: "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-89705-461-5"
 date: 2025-06-02
 lastMod: null
 draft: false

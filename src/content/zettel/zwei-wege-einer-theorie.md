@@ -1,6 +1,5 @@
 ---
 title: Zwei Wege einer Theorie
-image: "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-7705-6087-5"
 date: 2024-04-04
 lastMod: null
 draft: false

@@ -1,6 +1,5 @@
 ---
 title: Vergottung der Macht
-image: "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-596-26897-9"
 date: 2013-08-22
 lastMod: null
 draft: false

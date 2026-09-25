@@ -1,6 +1,5 @@
 ---
 title: Gleichgewicht aus Wahrheit und Ordnung
-image: https://portal.dnb.de/opac/mvb/cover?isbn=978-3-641-32478-0
 date: 2025-05-04T18:40:49.916Z
 lastMod: null
 draft: false

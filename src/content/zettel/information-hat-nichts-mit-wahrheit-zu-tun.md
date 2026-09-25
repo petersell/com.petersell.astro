@@ -1,6 +1,5 @@
 ---
 title: Information hat nichts mit Wahrheit zu tun
-image: https://portal.dnb.de/opac/mvb/cover?isbn=978-3-641-32478-0
 date: 2025-04-10T19:33:26.170Z
 lastMod: null
 draft: false

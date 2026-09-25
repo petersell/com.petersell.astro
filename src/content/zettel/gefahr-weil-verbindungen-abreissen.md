@@ -1,6 +1,5 @@
 ---
 title: Gefahr weil Verbindungen abreissen
-image: https://portal.dnb.de/opac/mvb/cover?isbn=978-3-641-32478-0
 date: 2025-04-11T08:58:26.535Z
 lastMod: null
 draft: false

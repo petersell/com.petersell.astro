@@ -1,6 +1,5 @@
 ---
 title: Im Reich des totalitären Kisches
-image: "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-596-25992-2"
 date: 1994-05-12
 lastMod: null
 draft: false

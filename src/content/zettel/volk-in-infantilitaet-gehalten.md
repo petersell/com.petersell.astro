@@ -1,6 +1,5 @@
 ---
 title: Volk in Infantilität gehalten
-image: ""
 date: 1996-06-13
 lastMod: null
 draft: false

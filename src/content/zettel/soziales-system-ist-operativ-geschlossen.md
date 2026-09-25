@@ -1,6 +1,5 @@
 ---
 title: Soziales System ist operativ geschlossen
-image: "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-7705-6087-5"
 date: 2024-12-12T06:48:55.463Z
 lastMod: null
 draft: false

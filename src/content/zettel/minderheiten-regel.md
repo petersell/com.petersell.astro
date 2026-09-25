@@ -1,6 +1,5 @@
 ---
 title: Minderheiten-Regel
-image: https://portal.dnb.de/opac/mvb/cover?isbn=978-3-570-55437-1
 date: 2025-05-22T14:13:16.536Z
 lastMod: null
 draft: false

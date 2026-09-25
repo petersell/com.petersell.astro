@@ -1,6 +1,5 @@
 ---
 title: Wahrheit finden und für Ordnung sorgen
-image: "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-641-32478-0"
 date: 2025-05-04T16:55:55.135Z
 lastMod: null
 draft: false

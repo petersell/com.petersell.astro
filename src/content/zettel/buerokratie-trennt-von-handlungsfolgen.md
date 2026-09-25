@@ -1,6 +1,5 @@
 ---
 title: Bürokratie trennt von Handlungsfolgen
-image: "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-570-55437-1"
 date: 2025-05-18T11:56:47.292Z
 lastMod: null
 draft: false

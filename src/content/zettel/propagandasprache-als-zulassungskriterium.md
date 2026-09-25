@@ -1,6 +1,5 @@
 ---
 title: Propagandasprache als Zulassungskriterium
-image: ""
 date: 2024-12-12T06:48:55.463Z
 lastMod: null
 draft: false

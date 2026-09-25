@@ -1,6 +1,5 @@
 ---
 title: Befehlen
-image: "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-596-25992-2"
 date: 1993-05-11
 lastMod: null
 draft: false

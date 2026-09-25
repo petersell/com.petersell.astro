@@ -1,6 +1,5 @@
 ---
 title: Bloß einer, aber ein Löwe
-image: https://portal.dnb.de/opac/mvb/cover?isbn=978-3-570-55437-1
 date: 2025-05-20T19:23:16.503Z
 lastMod: null
 draft: false

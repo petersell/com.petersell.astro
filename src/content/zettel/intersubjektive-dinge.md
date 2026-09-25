@@ -1,6 +1,5 @@
 ---
 title: Intersubjektive Dinge
-image: https://portal.dnb.de/opac/mvb/cover?isbn=978-3-641-32478-0
 date: 2025-04-27T18:50:49.360Z
 lastMod: null
 draft: false

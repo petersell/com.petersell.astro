@@ -1,6 +1,5 @@
 ---
 title: Totale Kontrolle
-image: https://portal.dnb.de/opac/mvb/cover?isbn=978-3-641-32478-0
 date: 2025-05-09T14:48:40.655Z
 lastMod: null
 draft: false

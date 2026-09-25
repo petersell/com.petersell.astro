@@ -1,6 +1,5 @@
 ---
 title: Das Management ist das Unternehmen
-image: /images/portrait.jpg
 date: 2020-07-18
 lastMod: null
 draft: false

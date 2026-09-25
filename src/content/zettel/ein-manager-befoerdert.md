@@ -1,6 +1,5 @@
 ---
 title: Ein Manager befördert
-image: ""
 date: 2024-01-03
 lastMod: null
 draft: false

@@ -1,6 +1,5 @@
 ---
 title: Jeder Mensch ist progressiv und konservativ zugleich
-image: "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-446-44696-0"
 date: 2018-06-11
 lastMod: null
 draft: false

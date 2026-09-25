@@ -1,6 +1,5 @@
 ---
 title: Aufwerfen der Mitgliedschaftsfrage
-image: https://portal.dnb.de/opac/mvb/cover?isbn=978-3-531-17978-0
 date: 2024-12-12T06:48:55.463Z
 lastMod: null
 draft: false

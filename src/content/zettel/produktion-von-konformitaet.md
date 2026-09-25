@@ -1,6 +1,5 @@
 ---
 title: Produktion von Konformität
-image: "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-531-17978-0"
 date: 2020-11-27
 lastMod: null
 draft: false

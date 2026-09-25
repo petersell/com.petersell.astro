@@ -1,6 +1,5 @@
 ---
 title: Haut aufs Spiel setzen lassen
-image: https://portal.dnb.de/opac/mvb/cover?isbn=978-3-570-55437-1
 date: 2025-05-23T17:42:41.068Z
 lastMod: null
 draft: false

@@ -1,7 +1,6 @@
 ---
 title: Milan Kundera - Das Fest der Bedeutungslosigkeit
 dnb: d-nb.info/1062993489
-image: "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-446-24763-5"
 date: 2015-09-11
 lastMod: null
 draft: false

@@ -1,6 +1,5 @@
 ---
 title: Dezentrales Kastensystem
-image: /images/portrait.jpg
 date: 2020-10-05
 lastMod: null
 draft: false

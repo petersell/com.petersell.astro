@@ -1,6 +1,5 @@
 ---
 title: Akademische versus wirkliche Welt
-image: https://portal.dnb.de/opac/mvb/cover?isbn=978-3-570-55437-1
 date: 2025-05-14T17:05:16.296Z
 lastMod: null
 draft: false

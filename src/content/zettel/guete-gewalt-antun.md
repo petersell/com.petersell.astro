@@ -1,6 +1,5 @@
 ---
 title: Güte Gewalt antun
-image: "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-596-25992-2"
 date: 2025-01-21T19:58:52.584Z
 lastMod: null
 draft: false

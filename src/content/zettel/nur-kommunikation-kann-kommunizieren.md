@@ -1,6 +1,5 @@
 ---
 title: Nur Kommunikation kann kommunizieren
-image: "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-7705-6087-5"
 date: 2024-06-06
 lastMod: null
 draft: false

@@ -1,6 +1,5 @@
 ---
 title: Unfehlbarkeitsfalle
-image: https://portal.dnb.de/opac/mvb/cover?isbn=978-3-641-32478-0
 date: 2025-05-08T08:03:38.809Z
 lastMod: null
 draft: false

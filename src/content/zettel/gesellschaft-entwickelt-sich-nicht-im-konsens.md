@@ -1,6 +1,5 @@
 ---
 title: Die Gesellschaft entwickelt sich nicht im Konsens
-image: https://portal.dnb.de/opac/mvb/cover?isbn=978-3-570-55437-1
 date: 2025-05-20T19:32:11.836Z
 lastMod: null
 draft: false

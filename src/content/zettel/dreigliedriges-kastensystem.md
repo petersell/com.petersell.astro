@@ -1,6 +1,5 @@
 ---
 title: Dreigliedriges Kastensystem
-image: /images/portrait.jpg
 date: 2020-07-17
 lastMod: null
 draft: false

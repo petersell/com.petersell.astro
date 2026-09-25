@@ -1,6 +1,5 @@
 ---
 title: Verlustaversion
-image: https://portal.dnb.de/opac/mvb/cover?isbn=978-3-570-55437-1
 date: 2025-05-26T12:10:29.041Z
 lastMod: null
 draft: false

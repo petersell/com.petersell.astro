@@ -1,6 +1,5 @@
 ---
 title: Keine Entscheidung ohne Asymmetrie
-image: https://portal.dnb.de/opac/mvb/cover?isbn=978-3-570-55437-1
 date: 2025-05-26T12:03:23.961Z
 lastMod: null
 draft: false

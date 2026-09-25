@@ -1,7 +1,6 @@
 ---
 title: Dramaqueen-Wiki
 dnb: "dramaqueen.info/wiki/was-ist-dramawiki/"
-image: ""
 date: 2025-06-16
 lastMod: null
 draft: false

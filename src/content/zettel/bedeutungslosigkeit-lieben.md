@@ -1,6 +1,5 @@
 ---
 title: Bedeutungslosigkeit lieben
-image: "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-446-24763-5"
 date: 2015-09-11
 lastMod: null
 draft: false

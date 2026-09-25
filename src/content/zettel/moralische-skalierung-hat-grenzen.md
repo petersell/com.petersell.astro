@@ -1,6 +1,5 @@
 ---
 title: Moralische Skalierung hat Grenzen
-image: https://portal.dnb.de/opac/mvb/cover?isbn=978-3-570-55437-1
 date: 2025-05-18T18:00:07.642Z
 lastMod: null
 draft: false

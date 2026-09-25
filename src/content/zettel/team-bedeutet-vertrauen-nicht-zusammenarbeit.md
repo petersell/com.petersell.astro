@@ -1,6 +1,5 @@
 ---
 title: Team bedeutet Vertrauen - nicht Zusammenarbeit
-image: ""
 date: 2018-08-28
 lastMod: null
 draft: false

@@ -1,6 +1,5 @@
 ---
 title: Romane ausserhalb der Geschichte des Romans
-image: "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-596-12988-1"
 date: 2017-11-27
 lastMod: null
 draft: false

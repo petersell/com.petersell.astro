@@ -1,6 +1,5 @@
 ---
 title: Selbstzweifel
-image: https://portal.dnb.de/opac/mvb/cover?isbn=978-3-641-32478-0
 date: 2025-05-05T19:02:18.577Z
 lastMod: null
 draft: false

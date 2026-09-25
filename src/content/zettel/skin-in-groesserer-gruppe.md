@@ -1,6 +1,5 @@
 ---
 title: Skin in größerer Gruppe
-image: https://portal.dnb.de/opac/mvb/cover?isbn=978-3-570-55437-1
 date: 2025-05-18T18:36:07.852Z
 lastMod: null
 draft: false

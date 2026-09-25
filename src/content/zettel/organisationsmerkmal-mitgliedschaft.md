@@ -1,6 +1,5 @@
 ---
 title: Organisationsmerkmal Mitgliedschaft
-image: "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-531-17978-0"
 date: 2020-12-03
 lastMod: null
 draft: false

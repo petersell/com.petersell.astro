@@ -1,6 +1,5 @@
 ---
 title: Keine Meinung ohne Folgen
-image: https://portal.dnb.de/opac/mvb/cover?isbn=978-3-570-55437-1
 date: 2025-05-26T11:53:11.962Z
 lastMod: null
 draft: false

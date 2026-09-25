@@ -1,6 +1,5 @@
 ---
 title: Managergehälter
-image: "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-423-34926-0"
 date: 2019-12-21
 lastMod: null
 draft: false

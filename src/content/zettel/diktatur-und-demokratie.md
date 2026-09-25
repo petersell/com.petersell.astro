@@ -1,6 +1,5 @@
 ---
 title: Zentrale Diktatur und dezentrale Demokratie
-image: https://portal.dnb.de/opac/mvb/cover?isbn=978-3-641-32478-0
 date: 2025-05-09T13:03:10.286Z
 lastMod: null
 draft: false

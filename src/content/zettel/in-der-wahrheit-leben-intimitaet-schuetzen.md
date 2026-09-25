@@ -1,6 +1,5 @@
 ---
 title: In der Wahrheit leben - Intimität schützen
-image: "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-596-25992-2"
 date: 2025-01-02T17:56:44.587Z
 lastMod: null
 draft: false

@@ -1,6 +1,5 @@
 ---
 title: Information schafft neue Wirklichkeiten
-image: https://portal.dnb.de/opac/mvb/cover?isbn=978-3-641-32478-0
 date: 2025-04-10T19:50:59.963Z
 lastMod: null
 draft: false

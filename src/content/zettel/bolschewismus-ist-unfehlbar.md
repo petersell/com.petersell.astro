@@ -1,6 +1,5 @@
 ---
 title: Der Bolschewismus ist unfehlbar
-image: https://portal.dnb.de/opac/mvb/cover?isbn=978-3-641-32478-0
 date: 2025-05-09T14:18:58.074Z
 lastMod: null
 draft: false
