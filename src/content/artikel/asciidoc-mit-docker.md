@@ -49,8 +49,8 @@ docker run --rm \
   asciidoctor -v -D /documents/homepage/output/ /documents/homepage/'**/*.adoc' <2> 
 ```
 
-<1> Mein lokaler Ordner `sync/asciidoc` wird mit dem Ordner `documents` des Containers verbunden (mounted) und das Image _asciidoctor/docker-asciidoctor_ wird benutzt.
-<2> Es wird HTML-Output erzeugt in meinem lokalen Ordner `sync/asciidoc/homepage/output`, denn _documents_ ist ja gleichbedeutend mit _sync/asciidoc_. Da ich nicht nur eine, sondern mehrere adoc-Dateien hatte, musste ich bei der Quelldatei-Angabe am Ende mit der [Wildcard-Syntax](https://docs.asciidoctor.org/asciidoctor/latest/cli/process-multiple-files/) arbeiten.
+(1) Mein lokaler Ordner `sync/asciidoc` wird mit dem Ordner `documents` des Containers verbunden (mounted) und das Image _asciidoctor/docker-asciidoctor_ wird benutzt.
+(2) Es wird HTML-Output erzeugt in meinem lokalen Ordner `sync/asciidoc/homepage/output`, denn _documents_ ist ja gleichbedeutend mit _sync/asciidoc_. Da ich nicht nur eine, sondern mehrere adoc-Dateien hatte, musste ich bei der Quelldatei-Angabe am Ende mit der [Wildcard-Syntax](https://docs.asciidoctor.org/asciidoctor/latest/cli/process-multiple-files/) arbeiten.
 
 ## Fazit
 
