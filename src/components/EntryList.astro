@@ -1,0 +1,92 @@
+---
+// Eintragsliste für Startseite, Kategorie- und Stichwortseiten:
+// Zeile 1 Titel, Zeile 2 Description, Zeile 3 Datum, Typ, Kategorie, #Stichwörter
+import { capitalize, slugify } from "../lib/taxonomy";
+import type { ListEntry } from "../lib/taxonomy";
+
+interface Props {
+  entries: ListEntry[];
+}
+
+const { entries } = Astro.props;
+
+const formatDate = (d: Date) =>
+  d.toLocaleDateString("de-DE", { year: "numeric", month: "long", day: "numeric" });
+---
+
+<ul class="entries">
+  {entries.map((item) => (
+    <li>
+      <a class="title" href={item.href}>{item.title}</a>
+      {item.description && <p class="description">{item.description}</p>}
+      <p class="meta">
+        <span>{formatDate(item.date)}</span>
+        <span>{item.typeLabel}</span>
+        {item.categories.length > 0 && (
+          <span>
+            {item.categories.map((c, i) => (
+              <>{i > 0 && ", "}<a href={`/categories/${slugify(c)}/`}>{capitalize(c)}</a></>
+            ))}
+          </span>
+        )}
+        {item.tags.length > 0 && (
+          <span>
+            {item.tags.map((t, i) => (
+              <>{i > 0 && " "}<a href={`/tags/${slugify(t)}/`}>#{t}</a></>
+            ))}
+          </span>
+        )}
+      </p>
+    </li>
+  ))}
+</ul>
+
+<style>
+  .entries {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .entries li {
+    padding: 0.85rem 0;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .entries li:first-child {
+    border-top: 1px solid var(--color-border);
+  }
+
+  .entries .title {
+    display: block;
+    font-weight: 600;
+  }
+
+  .entries a {
+    text-decoration: none;
+  }
+
+  .entries .meta a {
+    color: inherit;
+  }
+
+  .entries a:hover {
+    text-decoration: underline;
+  }
+
+  .entries p {
+    margin: 0.15rem 0 0;
+  }
+
+  /* Abstand zwischen den Angaben: drei Leerstellen der Monospace-Schrift */
+  .entries .meta {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 3ch;
+  }
+
+  .description {
+    color: var(--color-muted);
+    font-style: italic;
+  }
+</style>

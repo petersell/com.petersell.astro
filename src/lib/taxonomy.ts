@@ -1,18 +1,21 @@
 import { getCollection } from "astro:content";
 import { getSerien, serieHref } from "./serie";
 
-export type TaxonomyEntry = {
+// Ein Eintrag in Listen (Startseite, Kategorie- und Stichwortseiten)
+export type ListEntry = {
   title: string;
   date: Date;
   href: string;
-  collectionLabel: string;
-  terms: string[];
+  typeLabel: string;
+  description?: string;
+  categories: string[];
+  tags: string[];
 };
 
 export type TaxonomyTerm = {
   label: string;
   slug: string;
-  entries: TaxonomyEntry[];
+  entries: ListEntry[];
 };
 
 // Hugo-Konvention aus config.toml: [taxonomies] category = "categories", tag = "tags"
@@ -22,6 +25,11 @@ const COLLECTIONS = [
   { name: "zettel", path: "zettel", label: "Zettel" },
   { name: "quellen", path: "quellen", label: "Quellen" },
 ] as const;
+
+// Kategorien sind im Frontmatter klein geschrieben ("essays"), angezeigt werden sie groß
+export function capitalize(value: string): string {
+  return value.charAt(0).toUpperCase() + value.slice(1);
+}
 
 export function slugify(value: string): string {
   return value
@@ -41,12 +49,14 @@ export async function getTaxonomyTerms(field: "categories" | "tags"): Promise<Ma
     const entries = await getCollection(name, ({ data }) => !data.draft);
     for (const entry of entries) {
       const values = entry.data[field];
-      const taxonomyEntry: TaxonomyEntry = {
+      const taxonomyEntry: ListEntry = {
         title: entry.data.title,
         date: entry.data.date,
         href: `/${path}/${entry.id}/`,
-        collectionLabel: label,
-        terms: values,
+        typeLabel: label,
+        description: entry.data.description,
+        categories: entry.data.categories,
+        tags: entry.data.tags,
       };
       for (const value of values) {
         const slug = slugify(value);
@@ -70,8 +80,10 @@ export async function getTaxonomyTerms(field: "categories" | "tags"): Promise<Ma
         title: overview.data.title,
         date: overview.data.date,
         href: serieHref(overview),
-        collectionLabel: "Serie",
-        terms: values,
+        typeLabel: "Serie",
+        description: overview.data.description,
+        categories: overview.data.categories,
+        tags: overview.data.tags,
       });
     }
   }

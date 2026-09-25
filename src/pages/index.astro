@@ -2,14 +2,15 @@
 import { getCollection } from "astro:content";
 import Base from "../layouts/Base.astro";
 import { getSerien, serieHref } from "../lib/serie";
-import { slugify } from "../lib/taxonomy";
+import EntryList from "../components/EntryList.astro";
+import type { ListEntry } from "../lib/taxonomy";
 
 const FEED_LIMIT = 15;
 
 const artikelEntries = await getCollection("artikel", ({ data }) => !data.draft);
 const statusEntries = await getCollection("status", ({ data }) => !data.draft);
 
-const feed = [
+const feed: ListEntry[] = [
   ...artikelEntries.map((entry) => ({
     title: entry.data.title,
     date: entry.data.date,
@@ -40,9 +41,6 @@ const feed = [
 ]
   .sort((a, b) => b.date.valueOf() - a.date.valueOf())
   .slice(0, FEED_LIMIT);
-
-const formatDate = (d: Date) =>
-  d.toLocaleDateString("de-DE", { year: "numeric", month: "long", day: "numeric" });
 ---
 
 <Base title="Andreas Petersell">
@@ -50,86 +48,13 @@ const formatDate = (d: Date) =>
   <p class="tagline">Technischer Redakteur, Autor, Blogger.</p>
 
   <h2>Neueste Beiträge</h2>
-  <ul class="entries">
-    {feed.map((item) => (
-      <li>
-        <a class="title" href={item.href}>{item.title}</a>
-        {item.description && <p class="description">{item.description}</p>}
-        <p class="meta">
-          <span>{formatDate(item.date)}</span>
-          <span>{item.typeLabel}</span>
-          {item.categories.length > 0 && (
-            <span>
-              {item.categories.map((c, i) => (
-                <>{i > 0 && ", "}<a href={`/categories/${slugify(c)}/`}>{c}</a></>
-              ))}
-            </span>
-          )}
-          {item.tags.length > 0 && (
-            <span>
-              {item.tags.map((t, i) => (
-                <>{i > 0 && " "}<a href={`/tags/${slugify(t)}/`}>#{t}</a></>
-              ))}
-            </span>
-          )}
-        </p>
-      </li>
-    ))}
-  </ul>
+  <EntryList entries={feed} />
 </Base>
 
 <style>
   .tagline {
     color: var(--color-muted);
     margin-top: -0.5rem;
-  }
-
-  .entries {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-  }
-
-  .entries li {
-    padding: 0.85rem 0;
-    border-bottom: 1px solid var(--color-border);
-  }
-
-  .entries li:first-child {
-    border-top: 1px solid var(--color-border);
-  }
-
-  .entries .title {
-    display: block;
-    font-weight: 600;
-  }
-
-  .entries a {
-    text-decoration: none;
-  }
-
-  .entries .meta a {
-    color: inherit;
-  }
-
-  .entries a:hover {
-    text-decoration: underline;
-  }
-
-  .entries p {
-    margin: 0.15rem 0 0;
-  }
-
-  /* Abstand zwischen den Angaben: drei Leerstellen der Monospace-Schrift */
-  .entries .meta {
-    display: flex;
-    flex-wrap: wrap;
-    column-gap: 3ch;
-  }
-
-  .description {
-    color: var(--color-muted);
-    font-style: italic;
   }
 </style>
 
