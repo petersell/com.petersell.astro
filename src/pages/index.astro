@@ -55,12 +55,16 @@ const feed: ListEntry[] = [
 </Base>
 
 <style>
-  /* Logo vor dem Namen; Name in Textfarbe wie die h2 statt Akzentgrün */
+  /* Logo vor dem Namen; Name und h2 in Anthrazit wie auf www.petersell.com */
   .brand {
     display: flex;
     align-items: center;
     gap: 0.5em;
-    color: var(--color-fg);
+    color: var(--color-heading);
+  }
+
+  h2 {
+    color: var(--color-heading);
   }
 
   .brand img {

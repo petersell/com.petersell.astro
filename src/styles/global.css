@@ -6,6 +6,8 @@
   --color-surface: #f3f4f1;
   --color-accent: #038f16;
   --color-accent-fg: #ffffff;
+  /* Anthrazit der Überschriften von www.petersell.com (Hugo: --background-light) */
+  --color-heading: #4d4c4c;
   /* Admonitions (GitHub-Alert-Farben) */
   --color-note: #0969da;
   --color-tip: #1a7f37;
@@ -28,6 +30,8 @@
     --color-border: #2c302c;
     --color-surface: #1c1f1d;
     --color-accent: #2fd150;
+    /* Anthrazit wäre auf dunklem Grund unlesbar, daher Textfarbe */
+    --color-heading: #e7e9e5;
     --color-note: #4493f8;
     --color-tip: #3fb950;
     --color-important: #ab7df8;
