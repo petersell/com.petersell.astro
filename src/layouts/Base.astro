@@ -10,6 +10,7 @@ import "@fontsource/ibm-plex-sans/600.css";
 import "@fontsource/ibm-plex-sans/700.css";
 import "../styles/global.css";
 import Footer from "../components/Footer.astro";
+import ThemeToggle from "../components/ThemeToggle.astro";
 
 interface Props {
   title: string;
@@ -36,6 +37,13 @@ const navItems = [
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
+    <!-- gespeicherte Hell/Dunkel-Wahl vor dem ersten Zeichnen setzen (kein Aufblitzen) -->
+    <script is:inline>
+      try {
+        const theme = localStorage.getItem("theme");
+        if (theme === "light" || theme === "dark") document.documentElement.dataset.theme = theme;
+      } catch {}
+    </script>
   </head>
   <body>
     <nav class="site-nav">
@@ -44,6 +52,7 @@ const navItems = [
           <li><a href={item.href}>{item.label}</a></li>
         ))}
       </ul>
+      <div class="nav-theme"><ThemeToggle /></div>
     </nav>
     <main>
       <slot />

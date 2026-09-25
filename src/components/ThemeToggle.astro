@@ -1,0 +1,84 @@
+---
+// Umschalter Hell/Dunkel in der Navigation. Ohne Klick gilt die Systemeinstellung
+// (prefers-color-scheme); ein Klick setzt data-theme="light|dark" am <html> und merkt
+// sich die Wahl in localStorage. Entspricht die Wahl wieder dem System, wird sie
+// entfernt. Das Setzen beim Laden übernimmt das Inline-Skript in Base.astro.
+---
+
+<button class="theme-toggle" type="button" aria-label="Farbmodus umschalten" title="Farbmodus umschalten">
+  <!-- Mond: im hellen Modus sichtbar, schaltet auf Dunkel -->
+  <svg class="icon-moon" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true">
+    <path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z" fill="currentColor" />
+  </svg>
+  <!-- Sonne: im dunklen Modus sichtbar, schaltet auf Hell -->
+  <svg class="icon-sun" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true">
+    <circle cx="12" cy="12" r="4.5" fill="currentColor" />
+    <g stroke="currentColor" stroke-width="2" stroke-linecap="round">
+      <path d="M12 1.5v2.5M12 20v2.5M1.5 12H4M20 12h2.5M4.6 4.6l1.8 1.8M17.6 17.6l1.8 1.8M4.6 19.4l1.8-1.8M17.6 6.4l1.8-1.8" />
+    </g>
+  </svg>
+</button>
+
+<script>
+  const root = document.documentElement;
+  const systemDark = window.matchMedia("(prefers-color-scheme: dark)");
+
+  const isDark = () =>
+    root.dataset.theme ? root.dataset.theme === "dark" : systemDark.matches;
+
+  document.querySelector(".theme-toggle")?.addEventListener("click", () => {
+    const wantDark = !isDark();
+    try {
+      if (wantDark === systemDark.matches) {
+        delete root.dataset.theme;
+        localStorage.removeItem("theme");
+      } else {
+        const theme = wantDark ? "dark" : "light";
+        root.dataset.theme = theme;
+        localStorage.setItem("theme", theme);
+      }
+    } catch {
+      // localStorage gesperrt (z. B. privater Modus): nur für diese Seite umschalten
+      root.dataset.theme = wantDark ? "dark" : "light";
+    }
+  });
+</script>
+
+<style>
+  .theme-toggle {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.15rem;
+    border: 0;
+    background: none;
+    color: var(--color-fg);
+    cursor: pointer;
+  }
+
+  .theme-toggle:hover {
+    color: var(--color-accent);
+  }
+
+  .icon-sun {
+    display: none;
+  }
+
+  /* im dunklen Modus (System oder manuell) Sonne statt Mond zeigen */
+  @media (prefers-color-scheme: dark) {
+    :global(:root:not([data-theme="light"])) .icon-sun {
+      display: block;
+    }
+
+    :global(:root:not([data-theme="light"])) .icon-moon {
+      display: none;
+    }
+  }
+
+  :global(:root[data-theme="dark"]) .icon-sun {
+    display: block;
+  }
+
+  :global(:root[data-theme="dark"]) .icon-moon {
+    display: none;
+  }
+</style>
