@@ -8,30 +8,8 @@ import admonitions from './src/plugins/hast-admonitions.mjs';
 // https://astro.build/config
 export default defineConfig({
   integrations: [
-    // Code-Boxen im Stil von Multiterm: Fensterrahmen, Titel, Kopier-Schaltfläche.
-    // Ersetzt Shiki; hell/dunkel folgt prefers-color-scheme wie global.css,
-    // manuell per data-theme="light|dark" am <html> (ThemeToggle.astro)
-    expressiveCode({
-      themes: ['github-light', 'github-dark'],
-      themeCssSelector: (theme) => `[data-theme='${theme.type}']`,
-      defaultLocale: 'de',
-      styleOverrides: {
-        borderRadius: '4px',
-        borderColor: 'var(--color-border)',
-        codeFontFamily: 'var(--font-mono)',
-        uiFontFamily: 'var(--font-mono)',
-        codeFontSize: '0.875rem',
-        codeBackground: 'var(--color-surface)',
-        frames: {
-          frameBoxShadowCssValue: 'none',
-          editorActiveTabIndicatorTopColor: 'var(--color-accent)',
-          editorActiveTabBackground: 'var(--color-surface)',
-          editorTabBarBackground: 'var(--color-bg)',
-          terminalTitlebarBackground: 'var(--color-bg)',
-          terminalBackground: 'var(--color-surface)',
-        },
-      },
-    }),
+    // Code-Boxen im Stil von Multiterm; Optionen in ec.config.mjs
+    expressiveCode(),
   ],
   markdown: {
     processor: satteri({
