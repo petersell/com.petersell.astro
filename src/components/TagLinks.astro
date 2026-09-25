@@ -1,0 +1,25 @@
+---
+// Stichwörter als #-Links auf /tags/…, grau wie die umgebende Metazeile
+import { slugify } from "../lib/taxonomy";
+
+interface Props {
+  tags: string[];
+}
+
+const { tags } = Astro.props;
+---
+
+{tags.map((t, i) => (
+  <>{i > 0 && " "}<a class="tag" href={`/tags/${slugify(t)}/`}>#{t}</a></>
+))}
+
+<style>
+  .tag {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .tag:hover {
+    text-decoration: underline;
+  }
+</style>

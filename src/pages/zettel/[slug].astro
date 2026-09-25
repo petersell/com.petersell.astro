@@ -1,6 +1,8 @@
 ---
 import { getCollection, getEntries, render } from "astro:content";
 import Base from "../../layouts/Base.astro";
+import TagLinks from "../../components/TagLinks.astro";
+import { capitalize } from "../../lib/taxonomy";
 import type { CollectionEntry } from "astro:content";
 import { buildBacklinkIndex, getBacklinksFor, type Backlink } from "../../lib/backlinks";
 
@@ -37,8 +39,8 @@ const formatDate = (d: Date) =>
     <h1>{data.title}</h1>
     <p class="meta">
       {formatDate(data.date)} · Zettel {data.zettelnummer}
-      {data.categories.length > 0 && <> · {data.categories.join(", ")}</>}
-      {data.tags.length > 0 && <> · {data.tags.join(", ")}</>}
+      {data.categories.length > 0 && <> · {data.categories.map(capitalize).join(", ")}</>}
+      {data.tags.length > 0 && <> · <TagLinks tags={data.tags} /></>}
     </p>
 
     <Content />

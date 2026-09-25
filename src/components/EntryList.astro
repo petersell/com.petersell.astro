@@ -1,6 +1,7 @@
 ---
 // Eintragsliste für Startseite, Kategorie- und Stichwortseiten:
 // Zeile 1 Titel, Zeile 2 Description, Zeile 3 Datum, Typ, Kategorie, #Stichwörter
+import TagLinks from "./TagLinks.astro";
 import { capitalize, slugify } from "../lib/taxonomy";
 import type { ListEntry } from "../lib/taxonomy";
 
@@ -30,11 +31,7 @@ const formatDate = (d: Date) =>
           </span>
         )}
         {item.tags.length > 0 && (
-          <span>
-            {item.tags.map((t, i) => (
-              <>{i > 0 && " "}<a href={`/tags/${slugify(t)}/`}>#{t}</a></>
-            ))}
-          </span>
+          <span><TagLinks tags={item.tags} /></span>
         )}
       </p>
     </li>
