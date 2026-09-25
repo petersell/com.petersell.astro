@@ -63,6 +63,6 @@ This is a warning notice. Be warned!
 {{</* /notice */>}}
 ```
 
-### Weitere Quellen
+## Weitere Quellen
 - [Fehler bei Übersetzungen von Shortcodes ](https://discourse.gohugo.io/t/i-need-help-with-i18n-translate-shortcode/39858)
 - [gohugo.io - Create your own shortcodes](https://gohugo.io/templates/shortcode/)

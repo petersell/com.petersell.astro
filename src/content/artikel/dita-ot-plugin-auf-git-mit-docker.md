@@ -17,7 +17,7 @@ Sie generieren DITA-Output mit Hilfe eines DITA-OT-Images. Aber wie generieren S
 <!--more-->
 
 
-### Kontext
+## Kontext
 
 Warum sollte ich als DITA-Redakteur _Docker_ und ähnliches benutzen? Was bringt mir das? Auf den Punkt gebracht: das eigene Überleben als DITA-Redakteur.
 
@@ -37,12 +37,12 @@ Aber ich möchte das Aussehen verändern mit Hilfe des Plugins [DITA Bootstrap](
 
 Zu guter Letzt möchte ich das DITA-Bootstrap-Plugin anpassen: mit meinen Farben, meinen Menü-Bezeichnungen, meine Header- und Footer-Datei einbinden uvm. Dazu hinterlege ich meine Version des Bootstrap-Plugins in ein Github-Repository.
 
-### Anleitung
+## Anleitung
 
 > [!tip] Voraussetzung
 > Sie haben Docker installiert.
 
-#### 1) Bootstrap-Plugin anpassen und bereitstellen
+### 1) Bootstrap-Plugin anpassen und bereitstellen
 
 Sie möchten ein Plugin nach Ihren Wünschen anpassen. Also gilt es, das Plugin von einem Git-Repository downzuloaden, es anzupassen und anschließend in ein eigenes Repository innerhalb Ihres Git-Anbieters hochzuladen.
 
@@ -54,7 +54,7 @@ Ich bin kein Git-Experte, darum hier mein Weg, der für mich funktioniert:
 1. Das Plugin nach Ihren wünschen anpassen. Der Titel _DITA-Bootstrap_ könnte z.B. in Ihren Wunschtitel geändert werden.
 1. Den Ordner _B_, der ja unser eigenes, geklontes lokales Repo ist, auf das remote Github-Repo _pushen_ (aktualisieren).
 
-#### 2) Dockerfile erstellen
+### 2) Dockerfile erstellen
 
 Erstellen Sie innerhalb Ihres DITA-XML-Quelldateien-Ordners eine neue Textdatei mit Namen `Dockerfile`. Schreiben Sie folgendes hinein:
 
@@ -75,7 +75,7 @@ Für das eigene Repository muss eine Zip-Datei bereitgehalten werden. Diese muss
 
 So wird aus _http://github.com/user/repository.git_ dann _http://github.com/user/repository/archive/master.zip_.
 
-#### 3) Image bauen
+### 3) Image bauen
 
 Auf der Grundlage der Datei `Dockerfile` wird jetzt ein lokales Image erstellt. Öffnen Sie ein Kommandozeilen-Fenster und gehen Sie in Ihr DITA-Quellverzeichnis, weil sich darin Ihre `Dockerfile` befindet.
 
@@ -93,7 +93,7 @@ Sie können Ihrem Image natürlich einen anderen Namen vergeben als _ditaot-boot
 $ docker images
 ```
 
-#### 4) Container starten für den Build
+### 4) Container starten für den Build
 
 Jetzt können Sie den Docker-Container starten, der auf diesem Docker-Image basiert. Da auf dem Container nun mal ein DITA-OT ist, heißt _starten_ zugleich DITA-Output builden. Dazu geben Sie dem run-Befehl die Eigenschaften mit auf auf den Weg, wie Sie es auch mit dem DITA-Build-Befehl auf lokaler Ebene tun würden: das DITA-Quellverzeichnis, die Haupt-Ditamap, den Output-Ordner sowie das Format (transtype). 
 

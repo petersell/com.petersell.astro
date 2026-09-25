@@ -20,7 +20,7 @@ Den FDGB-Ausweis besaß jeder Werktätige der DDR. Und vielleicht liegt er heute
 
 Eine kleine Marke mit sinnfreiem Aufdruck sorgt für ein flächendeckendes Unterwerfungsritual im Land.
 
-### Die Sprache der Macht
+## Die Sprache der Macht
 
 Jeder Mensch erfährt in seinem Alltag die Sprache der Macht. Entweder nutzt man sie selbst oder muss sie hören, wenn der Gegenüber seine Dominanz signalisiert. Letzterer nun bewußt oder unbewußt. Darüber schreibt Matthias Nölke in seinem Buch _Die Sprache der Macht: Wie man sie durchschaut. Wie man sie nutzt._ Der Leser erhält Beispiele und rhetorische Tipps zum Gebrauch der Machtsprache und zum Durchbrechen des Dominanzstrebens des Gegenübers. Auch er spricht aus, was wir alle schon ahnten:
 
@@ -39,7 +39,7 @@ Es geht nicht um eine moralische Bewertung des Fakts, dass es keinen Betriebsrat
 
 Wenn der Arbeitnehmer seine Tür offen hält, kommt vielleicht frische Luft rein. Mehr nicht.
 
-### Die Vergottung der Macht
+## Die Vergottung der Macht
 
 Die Sprache der Macht innerhalb totalitärer Staaten wird oftmals als Propaganda etikettiert. Doch so einfach ist es damit nicht getan:
 
@@ -61,7 +61,7 @@ Aber auch mit nachfolgenden Objekten ist der Gebrauch von Solidarität fragwürd
 
 > Begriffe verbrauchen sich, nutzen sich ab, werten sich um, werden umgewandelt und abgewertet. Sie leben: Und deshalb dürfen sie auch sterben, erlöst nach langer Bedeutungsschwindsucht. Die staatliche Verordnung von Solidarität hat dem Begriff endgültig den Todesstoß gegeben. Solidarität übt jetzt endlich jeder Steuerzahler. Denn sie erscheint als steuerliche Zwangsabgabe zur Finanzierung der deutschen Einheit monatlich auf unserem Gehaltszettel.[^5]
 
-### Die Seiten des Ausweises
+## Die Seiten des Ausweises
 
 Die Fotos und Scans können Sie sorgenfrei nutzen. Sie stehen unter einer Creative Commons Lizenz. 16 Fotos auf medium.com  [Fotoalbum](https://medium.com/@Petersell/fc361f5ca770)
 

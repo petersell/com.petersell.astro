@@ -14,13 +14,13 @@ tags:
 Sie müssen nicht bei jedem neuen Rechner das DITA-OT erneut installieren. Sie können die verschiedenen Versionen des DITA-OTs auch über Docker nutzen und so sich die vielen Installationen sparen.
 <!--more-->
 
-### Quellen
+## Quellen
 
 Diese Quelle ermöglichten mir diesen Artikel:
 
 * [Running the dita command from a Docker image](https://www.dita-ot.org/dev/topics/using-docker-images.html)
 
-### Kontext
+## Kontext
 
 Mein Sohn hatte neulich mehrere alte PCs aus einer Betriebsauflösung geschenkt bekommen. Einen davon hatte er mir neu aufgebaut - mit schön viel Arbeitsspeicher. Als ich das Ding zum ersten Mal anmache, rief ich verwundert: Hey, das ist ja Linux! Kann ich nicht wenigstens so etwas wie Dual-Boot bekommen, wo ich mich zur Not auch für Window entscheiden kann? _Nichts da! Du wirst es lieben._ Nun mußte ich also sämtliche Programme neu installieren. Bis ich innerhalb der DITA-Dokumention auf den Artikel [Running the dita command from a Docker image](https://www.dita-ot.org/dev/topics/using-docker-images.html) stieß.
 
@@ -28,7 +28,7 @@ Es wäre schon schön, wenn ich das DITA-OT nicht so oft neu installieren müßt
 
 Natürlich habe ich beim Befolgen der Anleitung viel falsch gemacht, und fast hätte ich es aufgegeben. Denn die Anleitung setzt voraus, dass der Nutzer im Umgang mit Linux und Docker erfahren ist. Das war bei mir nicht der Fall.
 
-### Anleitung
+## Anleitung
 
 > [!tip] Voraussetzung
 > Sie haben Docker installiert.
@@ -53,11 +53,11 @@ _This command sequence specifies the following options:_
 * `-f` sets the output format to HTML5, and
 * `-v` displays build progress messages with verbose logging
 
-#### Mein Fehler Nr. 1
+### Mein Fehler Nr. 1
 
 Der Quellordner ist nicht in `/Users/username/` gelegen, denn ich bin nicht als Nutzer _root_ unterwegs. Bei mir ist der Pfad meiner DITA-Quelldateien als Nutzer _andreas_ dieser: `/home/andreas/DITA-ZKS`.
 
-#### Mein Fehler Nr. 2
+### Mein Fehler Nr. 2
 
 Wenn es heißt:
 
@@ -65,7 +65,7 @@ Wenn es heißt:
 
 dann wird aus dem Pfad zu meiner Ditamap-Datei `/home/andreas/DITA-ZKS/zks.ditamap` eben genau `/src/zks.ditamap`. Das selbe gilt für den Pfad des Ordner `out`.
 
-#### Richtiger Docker-Befehl
+### Richtiger Docker-Befehl
 
 Nach folgendem Docker-Run-Befehl füllte sich mein output-Ordner `out` mit den gewünschten HTML-Seiten.
 

@@ -18,19 +18,19 @@ Diese Quelle ermöglichte mir den Artikel: [Asciidoctor Docker Container](https:
 > [!tip] Voraussetzung
 > Sie haben Docker installiert.
 
-### Kontext
+## Kontext
 
 Da ich im Zusammenhang mit DITA XML bereits Docker installiert hatte, wußte ich, dass es für adoc-Dateien einen ähnlichen Weg des Bauens über ein Docker-Image geben müßte.
 
 Das gibt es. Und das Schönes ist, dass der Build via Docker verschiedene Ausgabeformate abdeckt: HTML, PDF, EPUB3 und Confluence uvm.
 
-### Anleitung
+## Anleitung
 
 1. Docker im Terminal starten: `sudo systemctl start docker`
 1. Buildbefehl eingeben + ENTER
 1. Im Output-Ordner das Ergebnis bestaunen
 
-#### Buildbefehl anpassen
+### Buildbefehl anpassen
 
 In der readme-Datei des Projekts heißt es:
 
@@ -52,6 +52,6 @@ docker run --rm \
 <1> Mein lokaler Ordner `sync/asciidoc` wird mit dem Ordner `documents` des Containers verbunden (mounted) und das Image _asciidoctor/docker-asciidoctor_ wird benutzt.
 <2> Es wird HTML-Output erzeugt in meinem lokalen Ordner `sync/asciidoc/homepage/output`, denn _documents_ ist ja gleichbedeutend mit _sync/asciidoc_. Da ich nicht nur eine, sondern mehrere adoc-Dateien hatte, musste ich bei der Quelldatei-Angabe am Ende mit der [Wildcard-Syntax](https://docs.asciidoctor.org/asciidoctor/latest/cli/process-multiple-files/) arbeiten.
 
-### Fazit
+## Fazit
 
 Ich habe mir die Installation sämtlicher Asciidoctor-Build-Tools erspart und brauche mich nicht um Updates zu kümmern. Einfach Docker starten, Buildbefehl eingeben und mehrere Output-Formate erhalten.

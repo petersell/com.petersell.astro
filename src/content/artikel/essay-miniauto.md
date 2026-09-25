@@ -20,7 +20,7 @@ Von Zeit zu Zeit wandle ich durch die Zimmer unserer Kinder und stoße auf Legos
 
 Wieso gelingt mir das Zusammensetzen von kleinen Autos aus DDR-Zeiten innerhalb weniger Minuten? Und wieso kann ich noch nicht mal Steine der Neuzeit identifizieren geschweige denn zu einem Bauwerk zusammensetzen? Dieser Artikel wirft einen Blick auf die PeBe Miniauto-Steckbausteine aus DDR-Produktion.
 
-### Baukastensystem
+## Baukastensystem
 
 Schauen wir uns ein Mini-Auto aus der Erbmasse des Nachbarn genauer an. Und siehe da: es ist simpel und es besteht fast nur aus standardisierten Bauteilen.
 
@@ -45,7 +45,7 @@ Durch die Modularität von komplexen Systemen lässt sich deren Verständlichkei
 
 Man sollte meinen, die positiven Seiten eines Baukastensystems überwiegen? Fragt sich nur, für wen?
 
-### Die Spielphasen der Steckbausteine
+## Die Spielphasen der Steckbausteine
 
 In der [Berliner Zeitung vom 21.12.2012](http://www.berliner-zeitung.de/wirtschaft/lego-chef---jungs-funktionieren-anders-,10808230,21168378.html) kam Dirk Engelshausen, Eurapa-Chef von Lego zu Wort. Dieser skizzierte die drei Spielphasen, wie sie die Kinder mit den Legosteinen durchlaufen, folgendermaßen [1]:
 
@@ -59,7 +59,7 @@ Die Lego-Modelle sind tatsächlich so komplex, dass sie ohne das Studium der Anl
 
 Die Umbauphase mag wie beschrieben noch funktionieren. Doch leise Zweifel sind angebracht. Was passiert nun nach der Umbauphase? Die sperrigen Verpackungen sind längst entsorgt. Nach einigen Wochen soll im Kinderzimmer wieder Platz geschaffen werden. Die Kunstwerke werden demontiert, und... - na klar, in die Kiste mit den anderen Legosteinen! Den Verbleib der Anleitung will ich hier nicht weiter verfolgen.
 
-### Puzzleteile
+## Puzzleteile
 
 Die Noppen an den Legosteinen lassen uns glauben, dass dies Modulbausteine sind. Austauschbar und ersetzbar über Baukästen hinweg. Dem ist nur in den seltesten Fällen so. Die Noppen bei vielen Legosteinen sind wie die Nasen am Puzzleteilchen. Doch käme keiner auf die Idee, das Puzzleteilchen der Eiffelturmspitze beim Giraffenpuzzle der selben Größe unterzubringen. Die Noppen fungieren als Schnittstelle. Sie adeln jedoch ihren Träger nicht automatisch zu einem Modul.
 
@@ -77,7 +77,7 @@ Warum verschwand nun dieses Miniauto-Baukastensystem vom Markt? Nur allein, weil
 
 Quelle (1): _Jungs funktionieren anders_, Interview mit Lego-Europa-Chef Dirk Engelshausen in der Berliner Zeitung vom 21.12.2012. [Link](http://www.berliner-zeitung.de/wirtschaft/lego-chef---jungs-funktionieren-anders-,10808230,21168378.html)
 
-### Baukasten Einsatzfahrzeuge
+## Baukasten Einsatzfahrzeuge
 
 Serie MdI (Ministerium des Inneren)
 
@@ -98,7 +98,7 @@ Ministerium auch die Staatssicherheit zugeordnet war und sich in manchen Postäm
 - kann man verblüfft sein ob dieser "Offenheit".
 
 
-### Baukasten Omnibusse
+## Baukasten Omnibusse
 
 * Serie Omnibus
 * PeBe Miniauto 74
@@ -111,7 +111,7 @@ Ministerium auch die Staatssicherheit zugeordnet war und sich in manchen Postäm
 *Abb. 5: Ein Bus von zweien auf Originalverpackung*
 
 
-### Baukasten Kranfahrzeuge
+## Baukasten Kranfahrzeuge
 
 * Serie Kranfahrzeuge
 * PeBe Miniauto 79

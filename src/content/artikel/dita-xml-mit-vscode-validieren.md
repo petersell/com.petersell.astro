@@ -26,7 +26,7 @@ Quellen:
 - [How can I make dita-catalog.xml work in vscode](https://stackoverflow.com/questions/64782816/how-can-i-make-dita-catalog-xml-work-in-vs-code)
 - [How to find JAVA_HOME](https://www.baeldung.com/find-java-home)
 
-### Einstellungen von VS Code komplettieren
+## Einstellungen von VS Code komplettieren
 
 <!-- FM:Snippet:Start data:{"id":"Admonition - Voraussetzung","fields":[]} -->
 > [!note]
@@ -39,7 +39,7 @@ Es gilt, diese drei Einstellungen hinzuzufügen:
 2. Pfad zur Datei `catalog-dita.xml` im DITA-OT-Verzeichnis
 3. Aktiveren des Kontrollkästchen *xml.validation.resolveExternalEntities*
 
-#### (1) Pfad zum Java-Programm
+### (1) Pfad zum Java-Programm
 
 Da ich mit Linux Fedora arbeite, gab [dieser Befehl](https://www.baeldung.com/find-java-home) im Terminal-Fenster meinen JAVA_HOME-Pfad zurück:
 
@@ -47,7 +47,7 @@ Da ich mit Linux Fedora arbeite, gab [dieser Befehl](https://www.baeldung.com/fi
 $ java -XshowSettings:properties -version 2>&1 > /dev/null | grep 'java.home'
 ```
 
-#### (2) Pfad zur catalog-Datei
+### (2) Pfad zur catalog-Datei
 
 Da ich mit Linux Fedora arbeite, diese Syntax der Schrägstriche.
 
@@ -57,7 +57,7 @@ Da ich mit Linux Fedora arbeite, diese Syntax der Schrägstriche.
 ],
 ```
 
-#### (3) Kontrollkästchen für Validation aktiveren
+### (3) Kontrollkästchen für Validation aktiveren
 
 In der Oberfläche das Kontrollkästchen aktiveren für *xml.validation.resolveExternalEntities*.
 
@@ -65,7 +65,7 @@ In der Oberfläche das Kontrollkästchen aktiveren für *xml.validation.resolveE
 
 Zum Schluss VS Code neu starten.
 
-#### Erbebnis
+## Ergebnis
 
 In der Datei `settings.json` sah die Notation bei mir so aus:
 

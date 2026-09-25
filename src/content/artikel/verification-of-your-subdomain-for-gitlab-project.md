@@ -23,7 +23,7 @@ Quelle: [GitLab Pages custom domains](https://docs.gitlab.com/user/project/pages
 > You have access to the DNS entries of your domains with your web hosting service provider.
 <!-- FM:Snippet:End -->
 
-### CNAME worked fine
+## CNAME worked fine
 
 This is not a guide, as every web host service provider uses different forms to enter the various DNS entries.
 
@@ -35,7 +35,7 @@ Mine uses the following values:
 
 And so the CNAME entry worked immediately.
 
-### Verification by trial and error
+## Verification by trial and error
 
 But it took me days to complete the verification. The Gitlab documentation uses this syntax as a default and alludes to the command line level.
 
