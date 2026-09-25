@@ -46,8 +46,8 @@ const formatDate = (d: Date) =>
   <ul class="entries">
     {feed.map((item) => (
       <li>
-        <span class="type">{item.typeLabel}</span>
-        {" "}<a href={item.href}>{item.title}</a>
+        <a href={item.href}>{item.title}</a>
+        {" "}<span class="type">{item.typeLabel}</span>
         <p class="meta">{formatDate(item.date)}</p>
         {item.description && <p class="description">{item.description}</p>}
       </li>
@@ -82,7 +82,7 @@ const formatDate = (d: Date) =>
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.03em;
-    color: var(--color-accent);
+    color: var(--color-muted);
   }
 
   .entries a {
