@@ -14,5 +14,3 @@ signaturen:
 fmContentType: quellen
 ---
 <!--more-->
-<p></p>
-<img src="https://portal.dnb.de/opac/mvb/cover?isbn=978-3-641-32478-0" alt="https://portal.dnb.de/opac/mvb/cover?isbn=978-3-641-32478-0" width="372" height="591">

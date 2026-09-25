@@ -15,13 +15,8 @@ const formatDate = (d: Date) =>
   <ul class="entries">
     {quellenEntries.map((quelle) => (
       <li>
-        {quelle.data.image && (
-          <img class="thumb" src={quelle.data.image} alt={quelle.data.title} width="64" />
-        )}
-        <div>
-          <a href={`/quellen/${quelle.id}/`}>{quelle.data.title}</a>
-          <p class="meta">{formatDate(quelle.data.date)}</p>
-        </div>
+        <a href={`/quellen/${quelle.id}/`}>{quelle.data.title}</a>
+        <p class="meta">{formatDate(quelle.data.date)}</p>
       </li>
     ))}
   </ul>
@@ -35,22 +30,12 @@ const formatDate = (d: Date) =>
   }
 
   .entries li {
-    display: flex;
-    gap: 1rem;
-    align-items: flex-start;
     padding: 0.85rem 0;
     border-bottom: 1px solid var(--color-border);
   }
 
   .entries li:first-child {
     border-top: 1px solid var(--color-border);
-  }
-
-  .thumb {
-    flex-shrink: 0;
-    width: 64px;
-    height: 96px;
-    object-fit: cover;
   }
 
   .entries a {

@@ -43,9 +43,6 @@ const zitiertVonGesamt = zitiertVonZettel.length + zitiertVonStatus.length;
 
 <Base title={`${data.title} – Quellen`}>
   <article>
-    {data.image && (
-      <img class="cover" src={data.image} alt={`Buchcover von ${data.title}`} width="140" />
-    )}
     <h1>{data.title}</h1>
     <p class="meta">
       Veröffentlicht: {formatDate(data.date)}
@@ -95,11 +92,6 @@ const zitiertVonGesamt = zitiertVonZettel.length + zitiertVonStatus.length;
 </Base>
 
 <style>
-  .cover {
-    float: right;
-    margin: 0 0 1rem 1.5rem;
-  }
-
   .zitiert-von {
     margin-top: 2rem;
     padding: 0.85rem 1rem;

@@ -15,5 +15,3 @@ signaturen:
     - kuehl-2011
 ---
 <!--more-->
-<p></p>
-<img src="https://portal.dnb.de/opac/mvb/cover?isbn=978-3-531-17978-0" alt="Buchcover von der DNB.de" width="372" height="591">

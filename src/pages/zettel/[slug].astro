@@ -33,9 +33,6 @@ const formatDate = (d: Date) =>
 
 <Base title={`${data.title} – Zettel`}>
   <article>
-    {data.image && (
-      <img class="cover" src={data.image} alt={`Buchcover von ${data.title}`} width="140" />
-    )}
     <h1>{data.title}</h1>
     <p class="meta">
       {formatDate(data.date)} · Zettel {data.zettelnummer}
@@ -74,11 +71,6 @@ const formatDate = (d: Date) =>
 </Base>
 
 <style>
-  .cover {
-    float: right;
-    margin: 0 0 1rem 1.5rem;
-  }
-
   .quelle,
   .backlinks {
     margin-top: 2rem;

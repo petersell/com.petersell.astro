@@ -15,6 +15,4 @@ fmContentType: quellen
 ---
 <!-- FM:Snippet:Start data:{"id":"Cover DNB","fields":[]} -->
 <!--more-->
-<p></p>
-<img src="https://portal.dnb.de/opac/mvb/cover?isbn=978-3-7705-6087-5" alt="Buchcover von der DNB.de" width="372" height="591">
 <!-- FM:Snippet:End -->
