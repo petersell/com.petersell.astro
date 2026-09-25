@@ -1,6 +1,6 @@
 ---
 import Base from "../../layouts/Base.astro";
-import { getTaxonomyTerms } from "../../lib/taxonomy";
+import { capitalize, getTaxonomyTerms } from "../../lib/taxonomy";
 
 const terms = [...(await getTaxonomyTerms("categories")).values()].sort(
   (a, b) => b.entries.length - a.entries.length,
@@ -12,7 +12,7 @@ const terms = [...(await getTaxonomyTerms("categories")).values()].sort(
   <ul class="cloud">
     {terms.map((term) => (
       <li>
-        <a href={`/categories/${term.slug}/`}>{term.label}</a>
+        <a href={`/categories/${term.slug}/`}>{capitalize(term.label)}</a>
         <span class="count">{term.entries.length}</span>
       </li>
     ))}
