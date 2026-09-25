@@ -1,5 +1,7 @@
 [build]
-  command = "npm run build"
+  # Content-Cache von Astro vorher löschen: Netlify hebt node_modules auf, und der
+  # Cache hält nach Änderungen an ec.config.mjs veraltete Verweise auf ec.*.css
+  command = "rm -rf node_modules/.astro && npm run build"
   publish = "dist"
 
 [build.environment]
