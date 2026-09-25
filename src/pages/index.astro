@@ -2,6 +2,7 @@
 import { getCollection } from "astro:content";
 import Base from "../layouts/Base.astro";
 import { getSerien, serieHref } from "../lib/serie";
+import { slugify } from "../lib/taxonomy";
 
 const FEED_LIMIT = 15;
 
@@ -15,6 +16,8 @@ const feed = [
     href: `/artikel/${entry.id}/`,
     typeLabel: "Artikel",
     description: entry.data.description,
+    categories: entry.data.categories,
+    tags: entry.data.tags,
   })),
   ...(await getSerien()).map(({ overview }) => ({
     title: overview.data.title,
@@ -22,6 +25,8 @@ const feed = [
     href: serieHref(overview),
     typeLabel: "Serie",
     description: overview.data.description,
+    categories: overview.data.categories,
+    tags: overview.data.tags,
   })),
   ...statusEntries.map((entry) => ({
     title: entry.data.title,
@@ -29,6 +34,8 @@ const feed = [
     href: `/status/${entry.id}/`,
     typeLabel: "Status",
     description: entry.data.description,
+    categories: entry.data.categories,
+    tags: entry.data.tags,
   })),
 ]
   .sort((a, b) => b.date.valueOf() - a.date.valueOf())
@@ -46,10 +53,26 @@ const formatDate = (d: Date) =>
   <ul class="entries">
     {feed.map((item) => (
       <li>
-        <a href={item.href}>{item.title}</a>
-        {" "}<span class="type">{item.typeLabel}</span>
-        <p class="meta">{formatDate(item.date)}</p>
+        <a class="title" href={item.href}>{item.title}</a>
         {item.description && <p class="description">{item.description}</p>}
+        <p class="meta">
+          <span>{formatDate(item.date)}</span>
+          <span>{item.typeLabel}</span>
+          {item.categories.length > 0 && (
+            <span>
+              {item.categories.map((c, i) => (
+                <>{i > 0 && ", "}<a href={`/categories/${slugify(c)}/`}>{c}</a></>
+              ))}
+            </span>
+          )}
+          {item.tags.length > 0 && (
+            <span>
+              {item.tags.map((t, i) => (
+                <>{i > 0 && " "}<a href={`/tags/${slugify(t)}/`}>#{t}</a></>
+              ))}
+            </span>
+          )}
+        </p>
       </li>
     ))}
   </ul>
@@ -76,18 +99,17 @@ const formatDate = (d: Date) =>
     border-top: 1px solid var(--color-border);
   }
 
-  .type {
-    display: inline-block;
-    font-size: 0.75rem;
+  .entries .title {
+    display: block;
     font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.03em;
-    color: var(--color-muted);
   }
 
   .entries a {
-    font-weight: 600;
     text-decoration: none;
+  }
+
+  .entries .meta a {
+    color: inherit;
   }
 
   .entries a:hover {
@@ -96,6 +118,13 @@ const formatDate = (d: Date) =>
 
   .entries p {
     margin: 0.15rem 0 0;
+  }
+
+  /* Abstand zwischen den Angaben: drei Leerstellen der Monospace-Schrift */
+  .entries .meta {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 3ch;
   }
 
   .description {
