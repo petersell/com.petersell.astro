@@ -1,6 +1,5 @@
 ---
 title: Framework
-description: Modulares Notebook
 image: /images/status-framework-750.jpg
 author: Andreas Petersell
 date: 2025-02-08T18:47:47.729Z

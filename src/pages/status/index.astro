@@ -40,7 +40,6 @@ const formatDate = (d: Date) =>
         <div>
           <a href={`/status/${status.id}/`}>{status.data.title}</a>
           <p class="meta">{formatDate(status.data.date)}</p>
-          {status.data.description && <p class="description">{status.data.description}</p>}
         </div>
       </li>
     ))}
@@ -84,11 +83,6 @@ const formatDate = (d: Date) =>
 
   .entries p {
     margin: 0.15rem 0 0;
-  }
-
-  .description {
-    color: var(--color-muted);
-    font-style: italic;
   }
 </style>
 

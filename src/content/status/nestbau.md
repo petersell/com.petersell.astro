@@ -1,6 +1,5 @@
 ---
 title: Nestbau
-description: Das Weibchen bestimmt den Nestbau
 image: ""
 author: Andreas Petersell
 date: 2024-05-03

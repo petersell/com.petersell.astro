@@ -7,7 +7,6 @@ categories:
   - erlebnisse
 tags:
   - pixelfed
-description: Aushang im Elsass
 ---
 
 <p>Wir sind im Elsass und machen mal so richtig Feierabend!</p>

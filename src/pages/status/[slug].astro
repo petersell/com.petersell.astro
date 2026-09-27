@@ -36,7 +36,6 @@ const formatDate = (d: Date) =>
       {data.categories.length > 0 && <> · {data.categories.map(capitalize).join(", ")}</>}
       {data.tags.length > 0 && <> · <TagLinks tags={data.tags} /></>}
     </p>
-    {data.description && <p class="description">{data.description}</p>}
 
     <Content />
 
@@ -55,11 +54,6 @@ const formatDate = (d: Date) =>
 </Base>
 
 <style>
-  .description {
-    color: var(--color-muted);
-    font-style: italic;
-  }
-
   /* Hochkant-Bilder (Klasse vom portrait-images-Plugin) nur 75 % breit */
   article :global(img.portrait) {
     max-width: 75%;

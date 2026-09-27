@@ -1,6 +1,5 @@
 ---
 title: Die schönsten Geschenke
-description: Netlify-Build erfolgreich
 image: /images/netlify-build.png
 author: Andreas Petersell
 date: 2025-01-01T17:40:08.831Z

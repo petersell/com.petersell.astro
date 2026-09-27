@@ -8,7 +8,6 @@ categories:
 tags:
   - pixelfed
   - foto
-description: Fotos aus dem Jahr 2024 - eingebunden aus Pixelfed
 ---
 
 Fotos der Saison.
