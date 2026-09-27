@@ -1,6 +1,7 @@
 ---
 title: "Die Protagonisten der DDR-Literatur"
 author: Andreas Petersell
+description: "Zwischen Selbstsicherheit und Selbstzweifel: Findung und Wahrung der Identität in einer repressiven Gesellschaft – Die Protagonisten der DDR-Erzählprosa der 70er und 80er Jahre"
 date: 1996-06-13
 draft: false
 categories:
@@ -10,12 +11,6 @@ tags:
   - ddr-Literatur
 teil: 0
 ---
-
-Zwischen Selbstsicherheit und Selbstzweifel:\
-Findung und Wahrung der
-Identität in einer repressiven Gesellschaft\
-Die Protagonisten der DDR-Erzählprosa der 70er und 80er Jahre
-<!--more-->
 
 Dieses Werk von Andreas Petersell steht unter einer [Creative Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) Lizenz.
 
