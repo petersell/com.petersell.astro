@@ -3,7 +3,7 @@ title: Ron Kellermann - Fiktionales Schreiben
 dnb: https://d-nb.info/97964836X
 date: 2025-06-02
 lastMod: null
-draft: false
+draft: true
 categories:
     - quellen
 tags:
