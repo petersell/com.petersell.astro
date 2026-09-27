@@ -50,7 +50,7 @@ const zettel = defineCollection({
     // "107ff" u.ä. kommen vor, daher String statt number
     seite: z.coerce.string().optional(),
     // teils reine Zahl (7.6), teils alphanumerisch (3.5b1b) in den Hugo-Dateien
-    zettelnummer: z.coerce.string(),
+    zettelnummer: z.preprocess(emptyToUndefined, z.coerce.string().optional()),
   }),
 });
 

@@ -16,7 +16,10 @@ const formatDate = (d: Date) =>
     {zettelEntries.map((zettel) => (
       <li>
         <a href={`/zettel/${zettel.id}/`}>{zettel.data.title}</a>
-        <p class="meta">Zettel {zettel.data.zettelnummer} · {formatDate(zettel.data.date)}</p>
+        <p class="meta">
+          {zettel.data.zettelnummer && <>Zettel {zettel.data.zettelnummer} · </>}
+          {formatDate(zettel.data.date)}
+        </p>
       </li>
     ))}
   </ul>

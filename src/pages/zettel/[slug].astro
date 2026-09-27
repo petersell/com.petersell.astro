@@ -35,7 +35,8 @@ const formatDate = (d: Date) =>
   <article>
     <h1>{data.title}</h1>
     <p class="meta">
-      {formatDate(data.date)} · Zettel {data.zettelnummer}
+      {formatDate(data.date)}
+      {data.zettelnummer && <> · Zettel {data.zettelnummer}</>}
       {data.categories.length > 0 && <> · {data.categories.map(capitalize).join(", ")}</>}
       {data.tags.length > 0 && <> · <TagLinks tags={data.tags} /></>}
     </p>
