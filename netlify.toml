@@ -28,3 +28,100 @@
   from = "/artikel/dita-ot-plugin-auf-git-mit-docker/"
   to = "/serie/dita-output-mit-docker/teil-3/"
   status = 301
+
+# ---------------------------------------------------------------------------
+# Alte Hugo-URLs von www.petersell.com (Stand Sitemap 2026-09-27).
+# Spezielle Regeln zuerst – Netlify nimmt die erste passende.
+# ---------------------------------------------------------------------------
+
+# Blog-Artikel, die heute Teil einer Serie sind
+[[redirects]]
+  from = "/blog/essay-ddrprotagonisten/"
+  to = "/serie/ddr-protagonisten/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/dita-ot-mit-docker/"
+  to = "/serie/dita-output-mit-docker/teil-1/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/dita-ot-plugin-mit-docker/"
+  to = "/serie/dita-output-mit-docker/teil-2/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/dita-ot-plugin-auf-git-mit-docker/"
+  to = "/serie/dita-output-mit-docker/teil-3/"
+  status = 301
+
+# Hugo-Hilfsseite ohne Inhalt
+[[redirects]]
+  from = "/blog/config/"
+  to = "/artikel/"
+  status = 301
+
+# Übrige Blog-Artikel: /blog/<slug>/ → /artikel/<slug>/
+[[redirects]]
+  from = "/blog/"
+  to = "/artikel/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/*"
+  to = "/artikel/:splat"
+  status = 301
+
+# Archiv-Listen
+[[redirects]]
+  from = "/archive/"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/archive/blog/"
+  to = "/artikel/"
+  status = 301
+
+[[redirects]]
+  from = "/archive/status/"
+  to = "/status/"
+  status = 301
+
+# Homepage-Bereich: About ist im Impressum aufgegangen
+[[redirects]]
+  from = "/homepage/"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/homepage/about/"
+  to = "/impressum/"
+  status = 301
+
+[[redirects]]
+  from = "/homepage/impressum/"
+  to = "/impressum/"
+  status = 301
+
+# Signaturen heißen jetzt Quellen
+[[redirects]]
+  from = "/signaturen/"
+  to = "/quellen/"
+  status = 301
+
+[[redirects]]
+  from = "/signaturen/*"
+  to = "/quellen/:splat"
+  status = 301
+
+# Stichwort mit Umlaut (Hugo: /tags/bürger/, Astro: /tags/buerger/)
+[[redirects]]
+  from = "/tags/b%C3%BCrger/"
+  to = "/tags/buerger/"
+  status = 301
+
+[[redirects]]
+  from = "/tags/bürger/"
+  to = "/tags/buerger/"
+  status = 301
