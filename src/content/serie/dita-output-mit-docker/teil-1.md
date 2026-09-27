@@ -1,6 +1,6 @@
 ---
 author: Andreas Petersell
-title: DITA-Output mit Docker builden
+title: DITA-Output mit dem Standard-Image
 date: 2021-11-29T08:28:39+01:00
 draft: false
 categories:
@@ -10,6 +10,7 @@ tags:
   - techcomm
   - docker
 description: "Sie müssen nicht bei jedem neuen Rechner das DITA-OT erneut installieren. Sie können die verschiedenen Versionen des DITA-OTs auch über Docker nutzen und so sich die vielen Installationen sparen."
+teil: 1
 ---
 
 ## Quellen

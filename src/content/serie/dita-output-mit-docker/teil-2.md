@@ -10,6 +10,7 @@ tags:
   - docker
   - techcomm
 description: "Sie generieren DITA-Output mit Hilfe eines DITA-OT-Images. Aber wie generieren Sie Output mit Hilfe eines Plugins, dass nicht in das DITA-OT standardmäßig integriert ist?"
+teil: 2
 ---
 
 ## Quellen
@@ -80,7 +81,7 @@ sudo docker container run -it \
 
 Passen Sie Ihren DITA-Quelldatei-Ordner entsprechend an. Bei mir ist folgender Pfad gegeben: `/home/andreas/DITA-ZKS`. Falls Sie einen anderen Image-Namen statt _ditaot-bootstrap-docker-image_ gewählt haben, so müssen Sie den Ihrigen vermerken. Ebenso heißt meine ditamap-Datei _zks.ditamap_. Passen Sie hier Ihren Dateinamen an.
 
-![Der Bootstrap-Output](../images/dita-ot-bootstrap-mit-docker/dita-ot-bootstrap-mit-docker.png)
+![Der Bootstrap-Output](../../images/dita-ot-bootstrap-mit-docker/dita-ot-bootstrap-mit-docker.png)
 
 *Abb. 1: Der Bootstrap-Output*
 

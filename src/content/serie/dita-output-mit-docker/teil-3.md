@@ -10,13 +10,14 @@ tags:
   - techcomm
   - docker
 description: "Sie generieren DITA-Output mit Hilfe eines DITA-OT-Images. Aber wie generieren Sie Output mit Hilfe eines Plugins, dass nicht standardmäßig in das DITA-OT integriert ist und von Ihnen angepaßt wurde?"
+teil: 3
 ---
 
 ## Kontext
 
 Warum sollte ich als DITA-Redakteur _Docker_ und ähnliches benutzen? Was bringt mir das? Auf den Punkt gebracht: das eigene Überleben als DITA-Redakteur.
 
-![DITA-Kapitän](../images/dita-ot-bootstrap-mit-docker/containerschiff.jpg)
+![DITA-Kapitän](../../images/dita-ot-bootstrap-mit-docker/containerschiff.jpg)
 
 Sie sind der Kapitän auf einem großen Schiff voller Container. In jedem Container befindet sich entweder eine Version des DITA-Open-Toolkits oder ein DITA-OT-Plugin. Wenn Sie ein PDF oder HTML-Output benötigen, suchen Sie sich ein DITA-OT heraus, fügen ein oder mehrere Plugins hinzu und starten den Build.
 
@@ -110,7 +111,7 @@ Ebenso heißt meine ditamap-Datei _zks.ditamap_. Tragen Sie hier Ihre Ditamap ei
 
 Der Output landet innerhalb des DITA-Quellverzeichnisses im Verzeichnis `out/dita-bootstrap`.
 
-![Der Bootstrap-Output](../images/dita-ot-bootstrap-mit-docker/dita-ot-bootstrap-mit-docker.png)
+![Der Bootstrap-Output](../../images/dita-ot-bootstrap-mit-docker/dita-ot-bootstrap-mit-docker.png)
 
 *Abb. 1: Der Bootstrap-Output*
 

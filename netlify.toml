@@ -12,3 +12,19 @@
   from = "/artikel/essay-ddrprotagonisten/"
   to = "/serie/ddr-protagonisten/"
   status = 301
+
+# Drei DITA-OT-Artikel sind seit 2026-09-27 die Serie „DITA-Output mit Docker builden“
+[[redirects]]
+  from = "/artikel/dita-ot-mit-docker/"
+  to = "/serie/dita-output-mit-docker/teil-1/"
+  status = 301
+
+[[redirects]]
+  from = "/artikel/dita-ot-plugin-mit-docker/"
+  to = "/serie/dita-output-mit-docker/teil-2/"
+  status = 301
+
+[[redirects]]
+  from = "/artikel/dita-ot-plugin-auf-git-mit-docker/"
+  to = "/serie/dita-output-mit-docker/teil-3/"
+  status = 301
