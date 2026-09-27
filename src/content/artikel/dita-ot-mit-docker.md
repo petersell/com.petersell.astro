@@ -9,10 +9,8 @@ tags:
   - dita-xml
   - techcomm
   - docker
+description: "Sie müssen nicht bei jedem neuen Rechner das DITA-OT erneut installieren. Sie können die verschiedenen Versionen des DITA-OTs auch über Docker nutzen und so sich die vielen Installationen sparen."
 ---
-
-Sie müssen nicht bei jedem neuen Rechner das DITA-OT erneut installieren. Sie können die verschiedenen Versionen des DITA-OTs auch über Docker nutzen und so sich die vielen Installationen sparen.
-<!--more-->
 
 ## Quellen
 

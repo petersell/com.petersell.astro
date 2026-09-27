@@ -8,9 +8,8 @@ draft: true
 categories:
   - konzepte
 tags: []
+description: "Die Zettelkastenmethode erhält seit einigen Jahren in der Blogosphäre viel Aufmerksamkeit. Nicht immer ist das Fazit ein gutes. So manch einer wendet sich vom Zettelkastenprinzip wieder ab."
 ---
-Die Zettelkastenmethode erhält seit einigen Jahren in der Blogosphäre viel Aufmerksamkeit. Nicht immer ist das Fazit ein gutes. So manch einer wendet sich vom Zettelkastenprinzip wieder ab.
-<!--more-->
 
 Brauche ich auch einen Zettelkasten? Wenn ja, welche Mindestbedingungen müssen erfüllt sein, damit ein Zettelkasten funktioniert?
 

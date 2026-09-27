@@ -9,10 +9,8 @@ tags:
     - asciidoc
     - hugo
     - blogging
+description: "Solange man als Blogger nur wenige Artikel hat, kann man den Hugo-Ordner public via FTP auf den Webserver kopieren. Werden es mehr Blogposts, werden Dienste wie Netlify unausweichlich."
 ---
-
-Solange man als Blogger nur wenige Artikel hat, kann man den Hugo-Ordner `public` via FTP auf den Webserver kopieren. Werden es mehr Blogposts, werden Dienste wie Netlify unausweichlich.
-<!--more-->
 
 ### Quelle
 

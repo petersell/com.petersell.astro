@@ -11,10 +11,8 @@ tags:
     - hugo
     - blogging
 fmContentType: blog
+description: "You have a project on gitlab with the URL myname.gitlab.io/project and would now like to redirect your subdomain www.myname.com to your project in addition to your root domain myname.com."
 ---
-
-You have a project on gitlab with the URL *myname.gitlab.io/project* and would now like to redirect your subdomain *www.myname.com* to your project in addition to your root domain *myname.com*.
-<!--more-->
 
 Quelle: [GitLab Pages custom domains](https://docs.gitlab.com/user/project/pages/custom_domains_ssl_tls_certification/)
 

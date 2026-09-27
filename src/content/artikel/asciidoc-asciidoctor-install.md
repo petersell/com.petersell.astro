@@ -8,11 +8,8 @@ categories:
 tags:
     - asciidoc
     - techcomm
+description: "AsciiDoc ist eine vereinfachte Auszeichnungssprache ähnlich Markdown, die dazu dient, Texte in verschiedenen Dokumentenformaten zu veröffentlichen. Asciidoc wurde speziell für die Technische Dokumentation entwickelt und wird in vielen Git-Portalen als Dokumentationsstandard genutzt. Es hat jedoch nicht die Möglichkeiten der Wiederverwendung wie DITA-XML. Neuer Rechner, neuer Doktor: wie muss ich ihn installieren? Jetzt schreibe ich es auf, denn ich vergesse es jedes Mal."
 ---
-
-AsciiDoc ist eine vereinfachte Auszeichnungssprache ähnlich Markdown, die dazu dient, Texte in verschiedenen Dokumentenformaten zu veröffentlichen. Asciidoc wurde speziell für die Technische Dokumentation entwickelt und wird in vielen Git-Portalen als Dokumentationsstandard genutzt. Es hat jedoch nicht die Möglichkeiten der Wiederverwendung wie DITA-XML. Neuer Rechner, neuer Doktor: wie muss ich ihn installieren? Jetzt schreibe ich es auf, denn ich vergesse es jedes Mal.
-<!--more-->
-
 
 ### Ruby installieren
 ![](../images/asciidoc-asciidoctor-install/rubyinstall1.gif)

@@ -8,12 +8,8 @@ categories:
 tags:
     - asciidoc
     - techcomm
+description: "Antora ist so etwas wie ein Static Site Generator für Technische Redakteure. Der Content wird in Asciidoc geschrieben und kann sich in verschiedenen Git-Repositorys befinden."
 ---
-
-
-Antora ist so etwas wie ein _Static Site Generator_ für Technische Redakteure. Der Content wird in Asciidoc geschrieben und kann sich in verschiedenen Git-Repositorys befinden. 
-<!--more-->
-
 
 ### Quellen
 

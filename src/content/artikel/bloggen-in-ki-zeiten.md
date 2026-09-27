@@ -8,11 +8,8 @@ categories:
 tags:
   - blogging
   - schreiben
+description: "Wofür schreibe ich noch “How-To”-Artikel, wenn die KI ihn in drei Minuten schreibt und ich drei Stunden benötige?"
 ---
-
-Wofür schreibe ich noch “How-To”-Artikel, wenn die KI ihn in drei Minuten schreibt und ich drei Stunden benötige?
-
-<!--more-->
 
 Ich stieß neulich auf [einen Blogpost von Tim Ferris](https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/), der meine Theorie bestätigt: Das Bloggen von “How-To”-Artikeln wird verschwinden. Generell.
 

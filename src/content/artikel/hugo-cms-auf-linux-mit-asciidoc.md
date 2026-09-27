@@ -1,6 +1,5 @@
 ---
 title: Hugo CMS mit Asciidoc auf Linux installieren
-description: Nach langer Zeit Hugo CMS auf Fedora installiert - mit Fehlermeldung
 image: ""
 author: Andreas Petersell
 date: 2024-11-25T19:44:01.496Z
@@ -13,10 +12,8 @@ tags:
   - hugo
   - linux
 fmContentType: blog
+description: "Seitdem ich von Windows auf Linux Fedora gewechselt bin, habe ich es versäumt, mir einen lokalen Hugo-Server zu installieren. Nun habe ich das nachgeholt: Mit dem Ergebnis, dass ich mir meine Blogposts vorher lokal anschauen kann, bevor ich sie mit Netlify auf Github veröffentliche."
 ---
-
-Seitdem ich von Windows auf Linux Fedora gewechselt bin, habe ich es versäumt, mir einen lokalen Hugo-Server zu installieren. Nun habe ich das nachgeholt: Mit dem Ergebnis, dass ich mir meine Blogposts vorher lokal anschauen kann, bevor ich sie mit Netlify auf Github veröffentliche.
-<!--more-->
 
 **(1)** Auf der Konsole folgenden Befehl absetzen: `$ sudo dnf install hugo`
 

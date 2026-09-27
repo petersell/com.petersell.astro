@@ -7,12 +7,8 @@ categories:
   - essays
 tags:
   - ddr
+description: "Neulich durfte ich endlich mal was erben. Nein, es war nur ein Umzug. Bevor mein Nachbar mich verließ, hinterließ er mir drei kleine, legoähnliche Steckbaustein-Kästen. Mir wurde warm ums Herz, denn diese Auto-Bausätze besaß ich als Kind auch."
 ---
-
-
-Neulich durfte ich endlich mal was erben. Nein, es war nur ein Umzug. Bevor mein Nachbar mich verließ, hinterließ er mir drei kleine, legoähnliche Steckbaustein-Kästen. Mir wurde warm ums Herz, denn diese Auto-Bausätze besaß ich als Kind auch.
-<!--more-->
-
 
 ![](../images/essay-miniauto/miniauto.jpg)
 

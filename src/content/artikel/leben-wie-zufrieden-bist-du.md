@@ -7,11 +7,8 @@ categories:
   - erlebnisse
 tags:
   - darumlebenwir
+description: "Jeder Jugendliche muß sich noch einmal einer Routine-Untersuchung stellen. Und bekommt dazu einen Fragebogen zum Ausfüllen."
 ---
-
-
-Jeder Jugendliche muß sich noch einmal einer Routine-Untersuchung stellen. Und bekommt dazu einen Fragebogen zum Ausfüllen.
-<!--more-->
 
 ![Wie zufrieden bist Du?](../images/leben-wie-zufrieden-bist-du/wie-zufrieden1.jpg)
 

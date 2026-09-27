@@ -9,10 +9,9 @@ tags:
   - asciidoc
   - techcomm
   - docker
+description: "Sie müssen nicht für jedes Output-Format des Asciidoctors ein Extra-Tool installieren. Sie brauchen eigentlich nur ein Docker-Image nutzen, egal welchen Output Sie aus Ihren adoc-Dateien generieren wollen."
 ---
 
-Sie müssen nicht für jedes Output-Format des Asciidoctors ein Extra-Tool installieren. Sie brauchen eigentlich nur ein Docker-Image nutzen, egal welchen Output Sie aus Ihren adoc-Dateien generieren wollen.
-<!--more-->
 Diese Quelle ermöglichte mir den Artikel: [Asciidoctor Docker Container](https://github.com/asciidoctor/docker-asciidoctor)
 
 > [!tip] Voraussetzung

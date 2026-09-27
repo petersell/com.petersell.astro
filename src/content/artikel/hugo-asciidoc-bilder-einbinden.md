@@ -8,12 +8,8 @@ categories:
 tags:
     - hugo
     - asciidoc
+description: "Leider ist eine Selbstverständlichkeit wie das Einbinden von Bildern in der Kombination Hugo/Asciidoc etwas speziell. Das Markup ist Asciidoc, welches mit Asciidoctor in HTML umgewandelt wird. Nun hat aber das Hugo-CMS seinen eigenen Mechanismus, der mit Markdown auch wunderbar funktioniert."
 ---
-
-## Hugo mit Asciidoc - Bilder einbinden
-
-Leider ist eine Selbstverständlichkeit wie das Einbinden von Bildern in der Kombination Hugo/Asciidoc etwas speziell. Das Markup ist Asciidoc, welches mit Asciidoctor in HTML umgewandelt wird. Nun hat aber das Hugo-CMS seinen eigenen Mechanismus, der mit Markdown auch wunderbar funktioniert.
-<!--more-->
 
 Gottseidank fand ich auf Github den Quelltext des Blogs https://foo-dogsquared.github.io mit einem einfachen Beispiel der Bildeinbindung.
 

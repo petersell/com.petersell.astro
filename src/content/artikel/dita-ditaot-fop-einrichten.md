@@ -7,12 +7,8 @@ categories:
     - anleitungen
 tags:
     - dita-xml
+description: "Als ich 2008 mit DITA-XML anfing, war der Open Source Apache FOP-Prozessor nicht in der Lage, ein Stichwortverzeichnis auszugeben. Darum mußte ich auf den XEP-Prozessor Personal Edition zurückgreifen. Dieser gibt jedoch eine Fusszeile aus, die besagt, dass die Software nicht für den kommerziellen Einsatz bestimmt ist. Inzwischen kann unter FOP ein Stichwortverzeichnis generiert werden und ich sattle um. Sämtliche PDF-Einstellungen müssen für den Einsatz unter FOP neu eingerichtet werden."
 ---
-
-
-Als ich 2008 mit DITA-XML anfing, war der Open Source Apache FOP-Prozessor nicht in der Lage, ein Stichwortverzeichnis auszugeben. Darum mußte ich auf den _XEP-Prozessor Personal Edition_ zurückgreifen. Dieser gibt jedoch eine Fusszeile aus, die besagt, dass die Software nicht für den kommerziellen Einsatz bestimmt ist. Inzwischen kann unter FOP ein Stichwortverzeichnis generiert werden und ich sattle um. Sämtliche PDF-Einstellungen müssen für den Einsatz unter FOP neu eingerichtet werden.
-<!--more-->
-
 
 ### Bilder werden nicht an A4 angepaßt
 

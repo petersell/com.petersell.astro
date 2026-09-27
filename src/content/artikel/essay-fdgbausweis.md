@@ -7,12 +7,8 @@ categories:
   - essays
 tags:
   - ddr
+description: "Den FDGB-Ausweis besaß jeder Werktätige der DDR. Und vielleicht liegt er heute noch in den Schubladen vieler Ostdeutscher. Noch vor wenigen Jahren war er ein Vehikel für ein monatliches Ritual: dem Kleben einer sogenannten Solidaritätsmarke. Na und?"
 ---
-
-
-Den FDGB-Ausweis besaß jeder Werktätige der DDR. Und vielleicht liegt er heute noch in den Schubladen vieler Ostdeutscher. Noch vor wenigen Jahren war er ein Vehikel für ein monatliches Ritual: dem Kleben einer sogenannten Solidaritätsmarke. Na und?
-<!--more-->
-
 
 ![Das Ausweisbüchlein](../images/essay-fdgbausweis/buch.jpg)
 

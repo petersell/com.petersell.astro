@@ -8,11 +8,8 @@ categories:
 tags:
     - hugo
     - blogging
+description: "Mit Hilfe eines kleinen Services von Pelle Wessmann namens https://webmention.herokuapp.com/ ist es mir auf meiner statischen Hugo-Seite möglich, Kommentare, Likes, Reposts u.ä. via Webmentions einzusammeln."
 ---
-
-
-Mit Hilfe eines kleinen Services von Pelle Wessmann namens https://webmention.herokuapp.com/ ist es mir auf meiner statischen Hugo-Seite möglich, Kommentare, Likes, Reposts u.ä. via Webmentions einzusammeln.
-<!--more-->
 
 ### Schritt 1 - Anmelden und Code einfügen
 

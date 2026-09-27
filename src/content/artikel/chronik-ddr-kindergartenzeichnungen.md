@@ -8,11 +8,8 @@ categories:
 tags:
   - darumlebenwir
   - ddr
+description: "In der DDR mußten fast immer beide Elternteile arbeiten, um ausreichend Geld zu verdienen. Nur die wenigsten Frauen waren Hausfrauen. So ging ich mit 3 Jahren in den Kindergarten: von 1969 bis 1973. Zur Erinnerung: Walter Ulbricht tritt am 3. Mai 1971 als Erster Sekretär des ZK zurück. 1973 stirbt er im Alter von 80 Jahren. Der neue Mann heißt Erich Honecker."
 ---
-
-
-In der DDR mußten fast immer beide Elternteile arbeiten, um ausreichend Geld zu verdienen. Nur die wenigsten Frauen waren Hausfrauen. So ging ich mit 3 Jahren in den Kindergarten: von 1969 bis 1973. Zur Erinnerung: Walter Ulbricht tritt am 3. Mai 1971 als Erster Sekretär des ZK zurück. 1973 stirbt er im Alter von 80 Jahren. Der neue Mann heißt Erich Honecker.
-<!--more-->
 
 ![DDR-Kinderzeichnungen](../images/chronik-ddr-kindergartenzeichnungen/ddr-zeichnungen.jpg)
 

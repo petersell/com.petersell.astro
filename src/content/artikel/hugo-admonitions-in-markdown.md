@@ -1,6 +1,5 @@
 ---
 title: Admonitions in Markdown
-description: Farbig umrahmte Hinweise und Warnungen.
 image: ""
 author: Andreas Petersell
 date: 2024-12-07T11:38:27.101Z
@@ -13,10 +12,8 @@ tags:
     - techcomm
     - blogging
 fmContentType: blog
+description: "In Markdown gibt es keine Möglichkeit, farbig umrahmte Absätze für Hinweise, Warnungen, Infos und Tipps zu gestalten. In Hugo bietet sich aber diese Möglichkeit durch sogenannte Shortcodes."
 ---
-
-In Markdown gibt es keine Möglichkeit, farbig umrahmte Absätze für Hinweise, Warnungen, Infos und Tipps zu gestalten. In Hugo bietet sich aber diese Möglichkeit durch sogenannte Shortcodes.
-<!--more-->
 
 Sogenannte Shortcodes werden in einer HTML-Datei abgelegt und müssen im Markdown-Content auf spezielle Weise eingefügt werden.
 

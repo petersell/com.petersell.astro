@@ -1,6 +1,5 @@
 ---
 title: Templates nutzen in FrontMatter CMS
-description: Templates erstellen und nutzen in Headless FrontMatter CMS
 image: ""
 author: Andreas Petersell
 date: 2024-12-04T19:41:27.963Z
@@ -12,10 +11,8 @@ tags:
     - hugo
     - blogging
 fmContentType: blog
+description: "Bisher habe ich meine Asciidoc- und Markdown-Dateien in VSCode erstellt. Das macht aber nicht so viel Spaß. Nun habe ich das Headless-CMS FrontMatter entdeckt. Statt zu tippen klicke ich jetzt auf Schaltflächen."
 ---
-
-Bisher habe ich meine Asciidoc- und Markdown-Dateien in VSCode erstellt. Das macht aber nicht so viel Spaß. Nun habe ich das [Headless-CMS](https://route360.dev/en/post/frontmatter-cms/) FrontMatter entdeckt. Statt zu tippen klicke ich jetzt auf Schaltflächen.
-<!--more-->
 
 Erstellen Sie schnell auf Grundlage einer Markdown-Datei (template) eine Kopie dieser mit neuem Dateinamen. Die Dokumentation spricht zwar vom Einsatz von Templates. Aber nirgendwo steht, wie man die eingerichteten Templates benutzt! Bis ich die Vorgehensweise zufällig im Video *How you can use content-types in Front Matter CMS* vom Entwickler Elio Struyf entdeckte.
 

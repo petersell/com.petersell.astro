@@ -8,11 +8,8 @@ categories:
 tags:
   - dita-xml
   - techcomm
+description: "Das DITA Open Toolkit ist ein Open Source Tool für das Generieren von Ausgabeformaten für Inhalte, die mittels DITA XML erstellt wurden. Es kommt öfter vor, dass sich der Seitentitel und die Kurzbeschreibung (shortdesc) als letzte unten auf einer PDF-Seite wiederfinden und der Textkörper erst auf der nächsten Seite folgt."
 ---
-
-
-Das DITA Open Toolkit ist ein Open Source Tool für das Generieren von Ausgabeformaten für Inhalte, die mittels DITA XML erstellt wurden. Es kommt öfter vor, dass sich der Seitentitel und die Kurzbeschreibung (shortdesc) als letzte unten auf einer PDF-Seite wiederfinden und der Textkörper erst auf der nächsten Seite folgt.
-<!--more-->
 
 Das sieht unschön aus. Doch unter [data2type](https://www.data2type.de/xml-xslt-xslfo/xsl-fo/xslfo-einfuehrung/typografische-mittel/) wurde ich fündig.
 

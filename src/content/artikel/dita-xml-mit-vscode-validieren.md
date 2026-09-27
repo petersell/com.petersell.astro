@@ -1,6 +1,5 @@
 ---
 title: DITA-XML mit VS Code validieren
-description: VS Code für DITA einrichten
 image: ""
 author: Andreas Petersell
 date: 2025-04-02T19:31:50.897Z
@@ -12,10 +11,9 @@ tags:
     - dita-xml
     - techcomm
 fmContentType: blog
+description: "Um Visual Studio Code als Quelltext-Editor für DITA-XML-Dateien mit allen Annehmlichkeiten wie z.B. der Validierung nutzen zu können, müssen in den Einstellungen des Programms, genauer in der settings.json, drei Einträge vorgenommen werden."
 ---
 
-Um Visual Studio Code als Quelltext-Editor für DITA-XML-Dateien mit allen Annehmlichkeiten wie z.B. der Validierung nutzen zu können, müssen in den Einstellungen des Programms, genauer in der `settings.json`, drei Einträge vorgenommen werden.
-<!--more-->
 Damit ich bei der nächsten PC-Einrichtung nicht wieder anfange zu suchen, schreibe ich es jetzt auf.
 
 ![](/images/no-validation.png)

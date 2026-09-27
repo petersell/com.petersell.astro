@@ -7,10 +7,8 @@ categories:
     - schreiben
 tags:
     - gelesen
+description: "Es ist ein Jahr vergangen: nach einem halben Jahrhundert wollte ich mit meinem Roman loslegen. Und was habe ich bis heute geschafft: ein Exposé in der ersten Fassung! Ich rechne das mal durch: mein Roman hat 29 Kapitel. Pro Kapitel brauche ich ein Quartal. Das ergibt eine Schreibdauer von über 7 Jahren. Und das ist noch die optimistische Planung!"
 ---
-
-Es ist ein Jahr vergangen: nach einem halben Jahrhundert wollte ich mit meinem Roman loslegen. Und was habe ich bis heute geschafft: ein  Exposé in der ersten Fassung! Ich rechne das mal durch: mein Roman hat 29 Kapitel. Pro Kapitel brauche ich ein Quartal. Das ergibt eine Schreibdauer von über 7 Jahren. Und das ist noch die optimistische Planung!
-<!--more-->
 
 Derzeit lese ich Volker Kutschers Krimireihe über den [Berliner Kommisar Gereon Rath](http://gereonrath.de/), der im Berlin der 30er Jahre ermittelt. Kutscher hat 6 Romane veröffentlich. Wie hat er das nur geschafft?
 

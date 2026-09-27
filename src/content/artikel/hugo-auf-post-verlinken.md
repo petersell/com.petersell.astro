@@ -8,10 +8,8 @@ categories:
 tags:
     - hugo
     - asciidoc
+description: "Wenn ich im CMS Hugo statt Markdown Asciidoc nutze, wie kann ich dann auf einen anderen Beitrag verlinken?."
 ---
-
-Wenn ich im CMS Hugo statt Markdown Asciidoc nutze, wie kann ich dann auf einen anderen Beitrag verlinken?.
-<!--more-->
 
 Beide adoc-Dateien liegen im selben Verzeichnis:
 

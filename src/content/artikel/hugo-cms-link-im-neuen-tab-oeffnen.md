@@ -1,6 +1,5 @@
 ---
 title: Hugo - Link im neuen Tab öffnen lassen
-description: Einen Link in Markdown erstellen - der im neuen Tab öffnet
 image: ""
 author: Andreas Petersell
 date: 2024-12-02T18:13:16.066Z
@@ -12,10 +11,8 @@ tags:
     - hugo
     - blogging
 fmContentType: blog
+description: "In Markdown kann man standardmäßig nur Links zu Webseiten erstellen, die im selben Tab öffnen, nicht jedoch in einem neuen Tab geöffnet werden mit Hilfe des Attributs target=\"_blank\"."
 ---
-
-In Markdown kann man standardmäßig nur Links zu Webseiten erstellen, die im selben Tab öffnen, nicht jedoch in einem neuen Tab geöffnet werden mit Hilfe des Attributs `target="_blank"`.
-<!--more-->
 
 Da ich inzwischen für das Schreiben meiner Hugo-Blogposts das Headless-CMS [Frontmatter](https://frontmatter.codes) nutze, möchte ich für einfache Texte wieder vermehrt Markdown nutzen. 
 

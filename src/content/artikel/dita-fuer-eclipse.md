@@ -2,18 +2,14 @@
 author: Andreas Petersell
 date: 2019-04-17
 title: Einbinden der DITA-DTDs in Eclipse
-description: DITA XML in Eclipse als Quelldatei-Editor
 categories:
     - anleitungen
 tags:
     - dita-xml
     - techcomm
 markup: asciidoc
+description: "Eclipse eignet sich gut als Quelldateien-Editor. Damit die DITA-Dateien validiert werden können, gilt es, die DTDs einzubinden."
 ---
-
-
-Eclipse eignet sich gut als Quelldateien-Editor. Damit die DITA-Dateien validiert werden können, gilt es, die DTDs einzubinden.
-<!--more-->
 
 > [!tip] Voraussetzung
 > Sie müssen das Java JDK und Eclipse installiert haben. Ein Java JRE war in meinem Fall nicht ausreichend.

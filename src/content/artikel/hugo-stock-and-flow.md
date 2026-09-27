@@ -8,10 +8,8 @@ categories:
 tags:
   - hugo
   - blogging
+description: "Wie unterscheide ich im CMS Hugo Stock and Flow? Jeder, der sich mit Blogging beschäftigt, stößt eines Tages auf Robin Sloan und seinem Gleichnis vom Stock and Flow."
 ---
-
-Wie unterscheide ich im CMS Hugo Stock and Flow? Jeder, der sich mit Blogging beschäftigt, stößt eines Tages auf Robin Sloan und seinem Gleichnis vom [Stock and Flow](http://snarkmarket.com/2010/4890).
-<!--more-->
 
 > **Flow** is the feed. It’s the posts and the tweets. It’s the stream of daily and sub-daily updates that reminds people you exist.
 >

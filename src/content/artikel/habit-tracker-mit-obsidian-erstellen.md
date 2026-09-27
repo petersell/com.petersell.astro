@@ -9,10 +9,8 @@ categories:
 tags:
   - obsidian
 preview: null
+description: "Statt Zettelkasten und meinen Roman zu schreiben, erstelle ich mit Obsidian einen Habit-Tracker. Das Prokrastinieren wird durch Obisidian auf eine ganz neue Ebene gehoben."
 ---
-
-Statt Zettelkasten und meinen Roman zu schreiben, erstelle ich mit Obsidian einen Habit-Tracker. Das Prokrastinieren wird durch [Obisidian](https://obsidian.md/) auf eine ganz neue Ebene gehoben.
-<!--more-->
 
 Jeder der etwas auf sich hält, hat *Atomic Habits* von James Clear gelesen und werkelt mit Obsidian herum, das gelesene irgendwie umzusetzen. Ich auch, denn es macht einfach Spaß.
 

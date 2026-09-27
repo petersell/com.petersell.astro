@@ -7,10 +7,8 @@ categories:
   - anleitungen
 tags:
   - hugo
+description: "Hugo ist ein Open Source Webseiten-Generator für statische Seiten. Das Theme Minimo erstellt die Links unterhalb eines Blogposts für Weiter und Zurück automatisch – nur leider genau umgekehrt, wie ich es für meine Texte gebrauchen kann. Bei Blogposts landet der aktuellste Post oben. Bei belletristischen Texten wird das erste Kapitel zuerst geschrieben, soll aber auch an erster (oben) Stelle bleiben. Kurz und gut: ich wollte eine Möglichkeit haben, Hugo-Seiten manuell zu verbinden. Bei Kapitel 1 landet der Leser nach Klick auf Weiter beim Kapitel 2. Eigentlich logisch, im CMS Hugo aber nicht so einfach."
 ---
-
-[Hugo](https://gohugo.io/) ist ein Open Source Webseiten-Generator für statische Seiten. Das Theme Minimo erstellt die Links unterhalb eines Blogposts für Weiter und Zurück automatisch – nur leider genau umgekehrt, wie ich es für meine Texte gebrauchen kann. Bei Blogposts landet der aktuellste Post oben. Bei belletristischen Texten wird das erste Kapitel zuerst geschrieben, soll aber auch an erster (oben) Stelle bleiben. Kurz und gut: ich wollte eine Möglichkeit haben, Hugo-Seiten manuell zu verbinden. Bei Kapitel 1 landet der Leser nach Klick auf Weiter beim Kapitel 2. Eigentlich logisch, im CMS Hugo aber nicht so einfach.
-<!--more-->
 
 ### Template-Weiche einrichten
 

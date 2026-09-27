@@ -9,13 +9,8 @@ tags:
   - dita-xml
   - techcomm
   - docker
+description: "Sie generieren DITA-Output mit Hilfe eines DITA-OT-Images. Aber wie generieren Sie Output mit Hilfe eines Plugins, dass nicht standardmäßig in das DITA-OT integriert ist und von Ihnen angepaßt wurde?"
 ---
-
-
-Sie generieren DITA-Output mit Hilfe eines DITA-OT-Images. Aber wie generieren Sie Output mit Hilfe eines Plugins, dass nicht standardmäßig in das DITA-OT integriert ist und von Ihnen angepaßt wurde?
-
-<!--more-->
-
 
 ## Kontext
 

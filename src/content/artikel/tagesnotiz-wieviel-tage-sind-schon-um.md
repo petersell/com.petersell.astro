@@ -8,10 +8,8 @@ categories:
   - anleitungen
 tags:
   - obsidian
+description: "Um mir vor Augen zu führen, wie schnell die Zeit vergeht und wie viel Zeit mir noch verbleibt, meine Ziele für das Jahr zu erreichen, blende ich mir in Obisidian die Nummer des Tages und der Woche im Header meiner Tagesnotiz ein."
 ---
-
-Um mir vor Augen zu führen, wie schnell die Zeit vergeht und wie viel Zeit mir noch verbleibt, meine Ziele für das Jahr zu erreichen, blende ich mir in [Obisidian](https://obsidian.md/) die Nummer des Tages und der Woche im Header meiner Tagesnotiz ein.
-<!--more-->
 
 So steht es im *Daily Note Template*.
 
