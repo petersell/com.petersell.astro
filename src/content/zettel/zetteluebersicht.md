@@ -8,11 +8,11 @@ draft: false
 categories: []
 tags: []
 fmContentType: zettelkasten
-zettelnummer: nicht vorhanden
+zettelnummer:
 ---
 
 Sämtliche Zettel thematisch sortiert.
-<!--more-->
+
 #### 1. Bedeutungslosigkeit
 - [1.1 - Bedeutungslosigkeit lieben](/zettel/bedeutungslosigkeit-lieben/)
 - [1.1a - Gutes Verhältnis zum Schicksal](/zettel/gutes-verhaeltnis-zum-schicksal/)
