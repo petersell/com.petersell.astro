@@ -4,6 +4,9 @@
 ---
 
 <footer class="site-footer">
+  <p class="author">
+    <img src="/favicon.ico" alt="" width="16" height="16" />Andreas Petersell
+  </p>
   <p class="copyright">
     Sämtliche Beiträge stehen unter einer <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.
   </p>
@@ -21,6 +24,15 @@
     margin: 0 auto;
     padding: 1.5rem 1rem 2rem;
     border-top: 1px solid var(--color-border);
+  }
+
+  .author {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2ch;
+    margin: 0 0 0.35rem;
+    font-size: 80%;
   }
 
   .copyright {
