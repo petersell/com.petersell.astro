@@ -2,7 +2,7 @@
 title: Dezentrales Kastensystem
 date: 2020-10-05
 lastMod: null
-draft: false
+draft: true
 categories:
     - zettel
 tags:

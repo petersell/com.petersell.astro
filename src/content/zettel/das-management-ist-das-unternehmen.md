@@ -2,7 +2,7 @@
 title: Das Management ist das Unternehmen
 date: 2020-07-18
 lastMod: null
-draft: false
+draft: true
 categories:
     - zettel
 tags:

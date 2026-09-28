@@ -2,7 +2,7 @@
 title: Ein Manager befördert
 date: 2024-01-03
 lastMod: null
-draft: false
+draft: true
 categories:
     - zettel
 tags:

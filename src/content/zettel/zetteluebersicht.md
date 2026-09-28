@@ -81,11 +81,13 @@ Sämtliche Zettel thematisch sortiert.
 - [4.1c2 - Mitgliedsschaftsautonomie](/zettel/mitgliedsschaftsautonomie/)
 - [4.2 - Organisationen müssen sich abgrenzen](/zettel/organisationen-muessen-sich-abgrenzen/)
 - [4.3 - Organisationen müssen Erwartbarkeiten herstellen](/zettel/organisationen-muessen-erwartbarkeiten-herstellen/)
+<!--
 - [4.3a - Erwartungen formalisieren](/zettel/erwartungen-formalisieren/)
 - [4.4 - Dreigliedriges Kastensystem](/zettel/dreigliedriges-kastensystem/)
 - [4.4a - Mindestens drei Ebenen](/zettel/mindestens-drei-ebenen/)
 - [4.4a1 - Das Management ist das Unternehmen](/zettel/das-management-ist-das-unternehmen/)
 - [4.4b - Dezentrales Kastensystem](/zettel/dezentrales-kastensystem/)
+-->
 
 #### 5. Freundschaft
 - [5.1 - Verbündete - keine Freunde](/zettel/verbuendete-keine-freunde/)

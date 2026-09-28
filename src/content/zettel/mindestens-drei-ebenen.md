@@ -2,7 +2,7 @@
 title: Mindestens drei Ebenen
 date: 2024-02-24
 lastMod: null
-draft: false
+draft: true
 categories:
     - zettel
 tags:

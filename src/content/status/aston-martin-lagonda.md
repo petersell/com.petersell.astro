@@ -12,4 +12,4 @@ tags:
 
 ![Roter Aston Martin Lagonda von schräg hinten, geparkt vor einem weißen Wohnhaus](../images/status/aston-martin-lagonda.jpg)
 
-Du läufst durch die Stadt und siehst ein Auto, das Du noch nie gesehen hast. Nachgeschaut: Aston Martin Lagonda, gebaut zwischen 1976 und 1990. Extrem seltenes und teures Fahrzeug.
+Du läufst durch die Stadt und siehst ein Auto, das Du noch nie gesehen hast. Nachgeschaut: Aston Martin Lagonda, gebaut zwischen 1976 und 1990.
