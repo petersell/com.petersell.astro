@@ -1,7 +1,7 @@
 ---
-title: Knusperknusperknäuschen
+title: Auf Wiedersehen
 author: Andreas Petersell
-date: 2026-09-20
+date: 2026-11-07
 draft: false
 categories:
     - erlebnisse
@@ -10,6 +10,6 @@ tags:
     - natur
 ---
 
-![Grüne Gottesanbeterin an einer weißen Hauswand](../images/status/gottesanbeterin.jpg)
+![Eine grüne Gottesanbeterin legt auf einem verwitterten Holzbrett ein schaumiges, hellbraunes Eipaket ab.](../images/status/gottesanbeterin.jpg)
 
-Wer knabbert an meinem Häuschen? Herzlich willkommen, Gottesanbeterin.
+Die Gottesanbeterin legt seit geraumer Zeit ein Eipaket ab. Im nächsten Jahr sehen wir dann die nächste Generation.
